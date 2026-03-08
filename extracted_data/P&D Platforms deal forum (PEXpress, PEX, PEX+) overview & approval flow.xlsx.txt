@@ -1,0 +1,97 @@
+
+--- xl/worksheets/sheet1.xml ---
+x
+x
+Created by:
+platforms_dsg_teamone@google.com
+Last updated: 
+45952.0
+x
+x
+Platforms deal review approval flow
+Business days before approval
+Task
+Owner
+Link
+ 
+Notes
+40.0
+Flag potential deal review matter
+Deal team
+go/pexcriteria
+ 
+ 
+30.0
+The earlier you flag a deal, the smoother the whole process will be for everyone :)
+Determine appropriate approval forum
+Deal governance
+ 
+go/pexcriteria
+30.0
+ 
+Deal team
+Deal governance will review the deal in the context of 
+ 
+go/pexcriteria
+30.0
+ and work with xfn stakeholders
+Deal team
+Deal governance will review the deal in the context of 
+ 
+Create matter in GGA2
+30.0
+http://go/getapproval2
+Deal team
+Completing the 
+ 
+go/getapproval2
+20.0
+ matter typically takes longer than deal teams expect; please plan accordingly :)
+Deal team
+If applicable, schedule live deal review meeting
+ 
+Typically, PEXpress reviews are approved via email, not live meeting, while PEX and PEX+ reviews are typically reviewed via live meeting, not email
+20.0
+If applicable, sign up for Android Ecosystem Office Hours
+Deal team
+https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3zraALvUtJ-UwRyJZpNkedPDwsyNJpx0f2inINou5npoLG_eFY7gX-r23IcGK88ZxFeJ5Mninh
+ 
+These are required for all Android Ecosystem deals at least one month prior to deal review
+15.0
+Align with xfn stakeholders
+Deal team
+If applicable, schedule live deal review meeting
+ 
+PEX/PEXpress Stakeholder Guidance for GGA Tool
+10.0
+Please document cross-functional stakeholder feedback from these groups: (i) gTech; (ii) Controllership; (iii) Finance; (iv) Legal; (v) Partnerships; (vi) Product; and (vii) Strategy.
+Deal team
+If applicable, create slides using PEX template
+ 
+[Make a Copy] go/pex_template
+5.0
+Typically, PEXpress reviews do not require a presentation using the PEX template, while PEX and PEX+ reviews typically require a presentation using the PEX template
+Determine appropriate approval forum
+Stakeholders submit input in GGA2
+ 
+Completing all xfn stakeholder feedback typically takes longer than deal teams expect; please plan accordingly :)
+3.0
+If applicable, provide approvers with deal background
+Determine appropriate approval forum
+Stakeholders submit input in GGA2
+ 
+Stakeholders submit input in GGA2
+0.0
+PEX/PEXpress Approvers & Attendees
+Each approver typically has their own way they like to be briefed: please check with with xfn stakeholders on pre-briefings
+Stakeholders submit input in GGA2
+ 
+Draft email pre-read and/or email approval
+0.0
+N/A
+Determine appropriate approval forum
+Stakeholders submit input in GGA2
+ 
+Stakeholders submit input in GGA2
+x
+x

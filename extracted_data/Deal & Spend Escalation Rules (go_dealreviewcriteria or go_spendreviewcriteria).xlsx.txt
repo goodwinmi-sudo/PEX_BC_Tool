@@ -1,0 +1,2448 @@
+
+--- xl/worksheets/sheet1.xml ---
+SUMMARY OF DELEGATED COMMITMENT AUTHORITY
+This document records the rules and guidelines approved by the Business Council and other Board-delegated committees to govern external commitments to partners and customers for core business, as defined by the Commitment & Signature Authority Policy
+Note: This document covers delegated commitment authority for Google Inc. Delegations and escalations for Other Bets are documented in go/ob-delegations
+Note
+: Unless otherwise stated at time of initial approval, Google Deal Review approvals are valid for six months. All deals that have not been executed six months after the Deal Review approval must be re-escalated to validate that non-standard terms are still acceptable. Material changes or amendments to any deals previously reviewed at a Google Deal Review must be re-escalated to that Deal Review. Where applicable, commitment authority is granted within established budgets; where incremental budget is required to satisify the requirements of a deal, commercial commitment authority is insufficient to secure it. Instead, incremental budget must be approved through established annual, quarterly or ad hoc business planning processes. 
+SUMMARY OF DELEGATED COMMITMENT AUTHORITY
+This document records the rules and guidelines approved by the Business Council and other Board-delegated committees to govern external commitments to partners and customers for core business, as defined by the Commitment & Signature Authority Policy
+Note: This document covers delegated commitment authority for Google Inc. Delegations and escalations for Other Bets are documented in go/ob-delegations
+COMMITMENT AUTHORITY FOR COMMERCIAL AGREEMENTS
+: Unless otherwise stated at time of initial approval, Google Deal Review approvals are valid for six months. All deals that have not been executed six months after the Deal Review approval must be re-escalated to validate that non-standard terms are still acceptable. Material changes or amendments to any deals previously reviewed at a Google Deal Review must be re-escalated to that Deal Review. Where applicable, commitment authority is granted within established budgets; where incremental budget is required to satisify the requirements of a deal, commercial commitment authority is insufficient to secure it. Instead, incremental budget must be approved through established annual, quarterly or ad hoc business planning processes. 
+Note
+: Unless otherwise stated at time of initial approval, Google Deal Review approvals are valid for six months. All deals that have not been executed six months after the Deal Review approval must be re-escalated to validate that non-standard terms are still acceptable. Material changes or amendments to any deals previously reviewed at a Google Deal Review must be re-escalated to that Deal Review. Where applicable, commitment authority is granted within established budgets; where incremental budget is required to satisify the requirements of a deal, commercial commitment authority is insufficient to secure it. Instead, incremental budget must be approved through established annual, quarterly or ad hoc business planning processes. 
+The following meetings have been granted authority by the Board of Directors to take decisions for Commercial Agreements, up to the limits expressed below and as described in this document (see corresponding tabs):
+FORUM
+REVENUE / BD LEAD
+FINANCE LEAD
+LEGAL LEAD
+PROD / TECH LEAD
+OTHER ATTENDEES
+AUTHORITY LEVEL
+Business Council
+ (BC)
+
+$250M Commercial Commitment Authority
+Philipp Schindler
+Don Harrison
+Link to escalation rules
+Anat Ashkenazi
+Kent Walker (Del: Halimah Del Prado)
+Nick Fox (Del: Vidhya Srinivasan)
+-
+Functional Management Group
+ (FMG)
+
+Link to escalation rules
+$50M Commercial Commitment Authority
+: Unless otherwise stated at time of initial approval, Google Deal Review approvals are valid for six months. All deals that have not been executed six months after the Deal Review approval must be re-escalated to validate that non-standard terms are still acceptable. Material changes or amendments to any deals previously reviewed at a Google Deal Review must be re-escalated to that Deal Review. Where applicable, commitment authority is granted within established budgets; where incremental budget is required to satisify the requirements of a deal, commercial commitment authority is insufficient to secure it. Instead, incremental budget must be approved through established annual, quarterly or ad hoc business planning processes. 
+The following meetings have been granted authority by the Board of Directors to take decisions for Commercial Agreements, up to the limits expressed below and as described in this document (see corresponding tabs):
+FORUM
+REVENUE / BD LEAD
+FINANCE LEAD
+LEGAL LEAD
+PROD / TECH LEAD
+Dave Graham (Del: Chris Maxcy)
+Cristina Bita, Andy Miller, or other Finance BFO/BFL (as appropriate)
+
+Other Finance Director or VP (as needed for topics outside scope of those mentioned above)
+Ted Lazarus
+Adam Juda (Search)
+Other Product VP (as needed)
+
+Juliana Li (gTech)
+[OOO delegate Oct 18 - Oct 31, 2023
+Jim Hutchinson - Non ads
+Derek Cole - ads]
+The following meetings are responsible for co-ordinating escalations into the Business Council from their respective business units, up to $10M in commercial commitment authority (up to $50M when joined by PA SVP + Business Finance Officer approval) in accordance with the escalation rules described in this document (see corresponding tabs):
+Link to escalation rules
+Buyside Platforms
+
+GBX
+Dan Taylor
+(Del: Sam Temes)
+Andy Miller
+(Del: Rony Figueiredo Sousa)
+Fiona Finlay-Hunt
+Gui Ambros/Juliana Li  (or delegate)
+DV360: Glenn Thrope
+Campaign Manager: Sneha Thomas
+SA360: Shreya Mathur
+Analytics 360: Steve Ganem
+Tag Manager 360: Steve Ganem
+Link to escalation rules
+Marta Martinez (or delegate)
+Paul Coffey (or delegate)
+Karl Duffill (or delegate)
+Global Customer Solutions
+
+GCSX
+Selin Song - escalations to BC/FMG
+(Del: 
+Margarita Bradley
+Link to escalation rules
+)
+Hari Ravi
+Ted Lazarus
+(Del: Luke Sales)
+Selin Song - escalations to BC/FMG
+(Del: 
+PSA: John Nicoletti
+(Del: Shawn Salmon)
+Juliana Li
+Global Media
+
+Ted Lazarus
+(Del: Luke Sales)
+Selin Song - escalations to BC/FMG
+(Del: 
+GMX
+Sara Malone
+Rodrigo Suriani
+Becky Pugh
+Selin Song - escalations to BC/FMG
+(Del: 
+Derek Cole
+ (optional)
+GMX (Search)
+Brendon Kraham
+Atanas Vlahov
+Atanas Vlahov
+Brian Burdick
+Link to escalation rules
+GMX (Apps)
+Bart Rosenthal
+David Mitby
+GMX (Measurements/Tools)
+Karen Stocks
+Amrit Nandan
+Link to escalation rules
+Kamal Janardhan
+Google Cloud
+
+David Mitby
+Cloud Executive
+Thomas Kurian
+Kobi Bar-Nathan
+Link to escalation rules
+None, per BC delegation
+None
+Platforms & Ecosystems (Android, Chrome, Play, Photos, Comms)
+
+PEX
+BD/GTM:
+Peter Fitzgerald (ABC, Android, M&E, Play, Photos, G1, ChromeOS, Chrome Browser)
+Bryan Lee (EDU)
+Cristina Bita
+Link to escalation rules
+Myisha Frazier
+(Del: Kate Lee - ABC, Android, M&E, Play)
+Product/Strategy/GTM:
+Kara Baily (ABC, Android GTM, Wear, Carriers)
+Patrick Brady (Auto)
+Chris Phillip (Auto if xPA or GAS)
+Shalini GoviPai (TV)
+Shimrit Ben-Yair (Photos & G1)
+Parisa Tabriz (Chrome Browser)
+John Solomon (ChromeOS & EDU)
+Sameer Samat (ABC, Android, Play)
+Masha Kourakina
+Kara Baily (Auto, TV, IoT, Play, Photos, G1)
+Jon Gold (Android)
+Adriano Akutsu (ChromeOS)
+Akiko Yamada, Brian Hendricks, Alison Suzuki (EDU)
+Hardware Sales
+Devices and Services
+
+HWX
+Ornella Indonie (Del for Pixel: Nanda Ramachandran; Del for Home & Health: Kourosh Amiri
+Link to escalation rules
+Myisha Frazier 
+(Del: Elizabeth Hewitt)
+Pixel Mobile & gChips Silicon: Shakil Barkat (Del for Pixel Phones, Pixel Watch, Pixel Buds, & Tablet: Venkat Rapana); Del for gChips/Silicon: Steve Molloy)
+Pixel Software: Seang Chau; Nest Software: Majd Bakar
+Home & Health: Rishi Chandra (Del for Home: Anish Kattukaran; Del for Health: Andy Abramson) 
+Google Store/Google Fi/Google Retail Store: Mauria Finley
+Ana Corrales - Supply-Chain/Operations VP
+(Del for Ops: Raman Edwards; Del for SC: Darren Ward; Del for SI: Carolin Seward)
+
+
+Global Partnerships
+
+GPX
+Gui Ambros/Juliana Li  (or delegate)
+DV360: Glenn Thrope
+Campaign Manager: Sneha Thomas
+SA360: Shreya Mathur
+Analytics 360: Steve Ganem
+Tag Manager 360: Steve Ganem
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+Ron Zember
+Vikram Thomas
+gTech
+
+Adam Hellman
+OOO delegates:
+ Jessica Titmus - GPX
+David Thomson - AFS
+
+
+Product:
+ - 
+Peentoo Patel Adx, DFP
+Ali Pasha - Admob, AFC
+Adam Juda (AFS)
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+Optional: Philippe Fauconnier-Bank (Policy) 
+Adam Juda (Websearch)
+Stuart May(AFC)
+Peentoo Patel (DFP Video, DAI)
+YouTube Content
+
+YTX
+Adam Hellman
+OOO delegates:
+ Jessica Titmus - GPX
+David Thomson - AFS
+
+
+Mary Ellen Coe
+ - 
+Peentoo Patel Adx, DFP
+Ali Pasha - Admob, AFC
+Adam Juda (AFS)
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+Dan Walker
+John Flippen or Kevin Montler (Music)
+Scott Silver (Shopping), Christian Oestlien (Subscription & Music) or Johanna Voolich (all other deals)
+Danielle Tiedt (Marketing)
+Scott Silver (Eng)
+K&IP Forum (Ads)
+Gui Ambros/Juliana Li  (or delegate)
+DV360: Glenn Thrope
+Campaign Manager: Sneha Thomas
+SA360: Shreya Mathur
+Analytics 360: Steve Ganem
+Tag Manager 360: Steve Ganem
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+Chris Maxcy
++ 
+X-Tower lead (Dave-1)
+Andy Miller
+(del.Atanas Vlahov )
+Ted Lazarus
+(del. Liz Daly)
+Adam Juda
+(del. Kamal Janardhan )
+Link to escalation rules
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+K&IP Forum (Search)
+Chris Gklaros-Stavropoulos
++ 
+: Unless otherwise stated at time of initial approval, Google Deal Review approvals are valid for six months. All deals that have not been executed six months after the Deal Review approval must be re-escalated to validate that non-standard terms are still acceptable. Material changes or amendments to any deals previously reviewed at a Google Deal Review must be re-escalated to that Deal Review. Where applicable, commitment authority is granted within established budgets; where incremental budget is required to satisify the requirements of a deal, commercial commitment authority is insufficient to secure it. Instead, incremental budget must be approved through established annual, quarterly or ad hoc business planning processes. 
+X-Tower lead (Dave-1)
+FORUM
+Swetha Balasubramanian (Verticals + Intn'l, Experience & Quality)
+Adam Barker (Gemini, Learning)
+Ted Lazarus
+(del. Darryl Chiang)
+Rose Yao (Search Verticals + Intn'l)
+Robby Stein (Search Experience & Quality)
+Benedict Gomes (Learning)
+Josh Woodward(Gemini)
+PROD / TECH LEAD
+Juliana Li
+(del. Jim Hutchinson)
+Philipp Schindler
+Don Harrison
+Business Council
+K&IP Forum (Geo)
+Holger Luedorf
++ 
+Philipp Schindler
+Don Harrison
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+X-Tower lead (Dave-1)
+Mike Roszak
+(del. Jessica Mok )
+X-Tower lead (Dave-1)
+FORUM
+Swetha Balasubramanian (Verticals + Intn'l, Experience & Quality)
+Adam Barker (Gemini, Learning)
+Ted Lazarus
+(del. Darryl Chiang)
+Rose Yao (Search Verticals + Intn'l)
+Robby Stein (Search Experience & Quality)
+Benedict Gomes (Learning)
+Josh Woodward(Gemini)
+PROD / TECH LEAD
+Andrew Lookingbill
+(del. Ethan Russell )
+Philipp Schindler
+Don Harrison
+K&IP Forum (Research & Core)
+K&IP Forum (Geo)
+Kerrie Hogan
++ 
+Philipp Schindler
+Don Harrison
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+X-Tower lead (Dave-1)
+: Unless otherwise stated at time of initial approval, Google Deal Review approvals are valid for six months. All deals that have not been executed six months after the Deal Review approval must be re-escalated to validate that non-standard terms are still acceptable. Material changes or amendments to any deals previously reviewed at a Google Deal Review must be re-escalated to that Deal Review. Where applicable, commitment authority is granted within established budgets; where incremental budget is required to satisify the requirements of a deal, commercial commitment authority is insufficient to secure it. Instead, incremental budget must be approved through established annual, quarterly or ad hoc business planning processes. 
+FORUM
+X-Tower lead (Dave-1)
+REVENUE / BD LEAD
+FINANCE LEAD
+LEGAL LEAD
+PROD / TECH LEAD
+Vicki Eckert (Core)
+(del. Tim Morales)
+
+Adam Barker (Research, Labs)
+(del. Catherine Han ; Matthew Brown)
+Ted Lazarus (del. Theo Lieu) Core
+
+Myisha Frazier(del. Elizabeth Hewitt) Research & Labs
+Evan Kotsovinos (Core)
+Yossi Matias (del. Katherine Chou) Research
+Josh Woodward (Labs)
+K&IP Forum (Commerce)
+Chris Maxcy (Merchant, Consumer, 1P)
+Kirsten Rasanen (GPay, Payment Platforms, Wallet)
+
++ X-Tower lead (Dave-1)
+Andy Miller
+Link to escalation rules
+Ted Lazarus (del. Sara Ciarelli, Kevin Khurana )
+Jeff Harrell (Merchant)
+Sean Scott (Consumer)
+Jon Alexander (1P)
+
+Stavan Parikh (GPay, Wallet)
+(del. P.J. Linarducci GPay; Sharath Bulusu & Vikram Venu GPay India; Dong Min Kim  Wallet)
+Kan Liu (Platforms)
+Stephanie Horton (Marketing - only if impacted)
+Kieran Casey (gTech - only if noted in PayX doc to include)
+K&IP Forum (Commerce)
+Philipp Schindler
+Don Harrison
+Philipp Schindler
+Don Harrison
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+COMMITMENT AUTHORITY FOR SIGNIFICANT EXPENDITURES
+The Google CFO has been granted authority by the Board of Directors to make decisions for Significant Expenditures for amounts exceeding $100M (and final approval for amounts up to $250M) to include up to $100M in cumulative amounts incremental to previously approved commitments:
+REVENUE LEAD
+K&IP Forum (Commerce)
+Philipp Schindler
+Don Harrison
+Philipp Schindler
+Don Harrison
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+LEGAL [ADVISOR]
+SPEND AREA LEAD AND BFO [PREAPPROVE]
+OTHER ATTENDEES
+
+Spend Approval - CFO (SAC)
+Kent Walker
+(del: Kathryn Hall)
+Scott Sheffer 
+
+
+PGTM Approver:  
+Yoni Wilbur (GAM)
+Catherine Mcdonnell (AFS)
+Ross Brockman (AdMob)
+
+--- xl/worksheets/sheet2.xml ---
+TI: Ben Treynor Sloss, RK Chunduru, Kathy Bonanno, Steve Fieler
+REWS: Scott Foster, Seema Pandya, Steve Fieler
+HW: Rick Osterloh, Cristina Bita, Steve Fieler 
+Marketing: Lorraine Twohill, Cristina Bita, Steve Fieler
+Other: Org/PA S/VP + BFO and Steve Fieler
+
+Please see the Google Signature and Commitment Policy for guidance on REWS, TI, Legal, and Hardware delegated spend authority.
+The following Finance VP titles have been granted authority by the Google CFO and pursuant to delegation authority from the Board of Directors to make decisions for Significant Expenditures and General Commitments for amounts exceeding $500M (and final approval for amounts up to $100M) to include up to $100M in cumulative amounts incremental to previously approved commitments:
+TITLE
+VP, Capital Planning
+Steve Fieler 
+Selim Freiha
+Org/PA S/VP + BFO (or specified delegate)
+
+Please see the Google Signature and Commitment Policy for guidance on REWS, TI, Legal, and P&D delegated spend authority.
+The following meetings have been granted authority to approve Significant Expenditures below the SAC authority level:
+Inventory Management Forum
+Cristina Bita Required for Month 3 of the Qtr
+(Del for Months 1 & 2 of the Qtr- Pixel, Pixel Ecosystem, Tablets, Silicon: Lauren Coste; Home & Health: Mike Maigret)
+Ornella Indonie (HW Sales/BD) Required for Month 3 of the Qtr
+(Del for Months 1 & 2 of the Qtr- Pixel, Pixel Ecosystem, Tablets, Silicon: Nanda Ramachandran; Home & Health: Kourosh Amiri)
+Not Required
+Relevant HW GM
+Ana Corrales (HW Supply & Ops)
+REWS Spend Review
+Seema Pandya
+Seema Pandya
+Scott Foster
+TI Spend Review
+Seema Pandya
+RK Chunduru / Kathy Bonano
+Seema Pandya
+Seema Pandya
+Ben Treynor Sloss
+Emerging Spend Management
+Seema Pandya
+RK Chunduru / Kathy Bonano
+Seema Pandya
+Seema Pandya
+Christian Cramer
+Jamie Rosenberg (Eric Kay)
+Assigned based on Product Area
+TBD
+Deal Review General Escalation Rules
+The below rules apply to ALL deals for which the Business Council has approval authority, regardless of Product Area or Sales Org, unless part of a formally approved delegation or program
+If the decision-making body feels it cannot take a decision, it has the right to escalate to the next forum up (i.e. FMG to BC; BC to Board of Directors)
+BC escalation rules and principles last validated: April 4, 2025
+CRITERIA
+DESCRIPTION
+Deal Review General Escalation Rules
+The below rules apply to ALL deals for which the Business Council has approval authority, regardless of Product Area or Sales Org, unless part of a formally approved delegation or program
+FMG DEAL REVIEW 
+APPROVAL NEEDED?
+BC DEAL REVIEW 
+APPROVAL NEEDED?
+CEO 
+APPROVAL NEEDED?
+TBD
+Deal Review General Escalation Rules
+The below rules apply to ALL deals for which the Business Council has approval authority, regardless of Product Area or Sales Org, unless part of a formally approved delegation or program
+AUDIT COMMITTEE APPROVAL NEEDED?
+“First of Kind”
+All deals partnering for a new product / service for the first time
+TBD
+Deal Review General Escalation Rules
+The below rules apply to ALL deals for which the Business Council has approval authority, regardless of Product Area or Sales Org, unless part of a formally approved delegation or program
+Yes
+If escalated / bypassing FMG
+Ana Corrales (HW Supply & Ops)
+No
+Seema Pandya
+Seema Pandya
+Parity
+All deals in which Google is required to provide parity or better on material financial terms, including Most Favored Nation clauses.
+Ana Corrales (HW Supply & Ops)
+No
+Seema Pandya
+Seema Pandya
+Yes*
+Exclusivity
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+Seema Pandya
+All deals which include negotiated partner exclusivity to a Google service, product, or technology.
+Minimum Guarantee
+Seema Pandya
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+All deals offering a minimum revenue guarantee or equivalent by Google greater than stated amounts over the life of the deal
+>$10M or >70% of total deal revenue*
+>$50M*
+>$250M
+Seema Pandya
+Seema Pandya
+>$500M
+Auction-based Incentives or Goodwill
+Auction-based credits, refunds, or other incentives issued to a customer beyond those arising from a contractual obligation as validated by Legal. See go/amg-policy for additional approval guidance. 
+No - see 
+go/amg-policy
+Seema Pandya
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+ for approval requirements
+>$10M
+Seema Pandya
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+Prepayment
+All deals offering a prepayment by Google greater than stated amounts
+Seema Pandya
+>$10M*
+Seema Pandya
+Seema Pandya
+Total Payout
+
+All content licensing, content sponsorship, content development,  IP integration or other non-standard commitments with a total payout by Google over the life of the deal greater than stated amounts, unless within scope of an approved program. Bounty payments unless business-specific escalation rules apply. Note: "options" do not count towards total payout.
+Seema Pandya
+>$10M for Ads & Partnerships*
+Seema Pandya
+Seema Pandya
+Customized Product Feature
+All deals requiring development of a customized Product feature
+If escalated by FMG
+Customized Technical Support
+All deals requiring bespoke gTech support
+DLA Guidelines
+All deals with changes to the Downloadable Application guidelines, where included in the deal terms
+Revenue Share on Google.com
+All deals offering a partner a revenue share on Google.com
+Limitation of Liability
+Escalations for uncapped LOL deal with Google being liable to the counterparty for direct damages, outside of standard legal-approved exceptions. The LOL escalation rule does not extend to Google's liability to others (i.e., indemnification, below) that are not direct parties to the agreement. Among standard legal-approved exceptions are misconduct, breach, and violations of law
+Yes, if >$10M
+Yes, if uncapped
+Indemnity
+Deals with high ($>1M) or uncapped indemnification granted to a partner.
+No - see 
+go/indemnitypolicy
+ for approval guidelines for indemnification
+Regulatory
+All deals likely to trigger review or inquiry by a regulatory body (e.g., FTC, DOJ, EC, OFT, etc.), as determined by Legal
+Reputation Risk
+All deals likely to pose a significant risk to the Google brand, as determined by Trust & Safety
+Cross-PA Reallocation
+
+See
+ 
+Org/PA S/VP + BFO (or specified delegate)
+
+Please see the Google Signature and Commitment Policy for guidance on REWS, TI, Legal, and P&D delegated spend authority.
+go/xpacomplex
+ for more information
+All deals likely to require allocation of revenue and/or costs from one product area to another, as determined by Accounting
+>$50M (estimated or likely) total revenue/COS/incentive reallocation between PAs, or any xPA deal where PAs fail to agree to proceed
+Deal Specific Approvals
+All agreements involving the Wasabi deal
+Yes - please consult with Competition Counsel and 
+Compliance
+ for further instructions and context
+Bounty Structures
+If the arrangement is profitable as it scales, we treat it as revenue share equivalent and evaluate it on that basis.  
+If the arrangement involves a guarantee or fixed payment, we evaluate it on the fixed value basis. 
+If the arrangement is speculative and we may lose money, we escalate it on the basis of the commit value.
+
+--- xl/worksheets/sheet3.xml ---
+In cases of ambiguity in the escalation rules, deals will be escalated to FMG or BC on the basis of the following principles. The Deal & Spend Governance team helps deal teams navigate these principles against specific deal terms and obligations
+PRINCIPLE
+BC/FMG APPROVAL REQUIRED FOR...
+ILLUSTRATIVE EXAMPLES
+Losing Money
+Commerical deals that lose money or break even, in any year
+Large incentives
+Large discounts on rate cards, transfer pricing
+Pricing below minimum floors 
+High revenue shares
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Steve Fieler 
+Selim Freiha
+Org/PA S/VP + BFO (or specified delegate)
+
+Please see the Google Signature and Commitment Policy for guidance on REWS, TI, Legal, and P&D delegated spend authority.
+Deals that set lower margin or revenue precedents with a customer or product’s market
+Offering MFN or pricing parity terms
+Giving free ad credit or bartering, outside of approved programs
+Agreeing To “Game Changers”
+Deals that set new precedent that introduce contagion risk to other markets, products, or deals
+First of kind revenue sharing
+First of kind consideration given to ecosystem partners 
+Deals that set new market or customer expectations
+New pricing models for external launches
+New transfer pricing for products
+Seema Pandya
+Seema Pandya
+Deals that contain significant investments in a commercial product
+Opex investments >$50M 
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+Committing Other Groups / Setting Company-wide Precedents
+Deals that limit what another function or PA can do in the future
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+Offering exclusivity to a Google product
+Negotiated uncapped indemnity / LoL
+Programs that meaningfully implicate multiple product areas
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+Coordinating Broader Google Relationships
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+Deals with customers that require broader executive co-ordination
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+Top Partners
+Key LPS, GCAS, LCS customers
+BOUNTY INCENTIVES
+Seema Pandya
+Seema Pandya
+ESCALATION BASIS
+Performance bounty
+Ana Corrales (HW Supply & Ops)
+Arrangement that is profitable as distribution or acqusition scales
+Escalate on basis of revenue share equivalence, or % of marginal revenue if business-specific threshold exists
+Fixed bounty
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Seema Pandya
+Arrangement whereby bounties are backed by a 'floor' of fixed or guaranteed spend
+Escalate on the basis of the fixed commit value (total payout) or on basis of revenue share equivalence on non-guaranteed bounties; highest assigned approval authority must approve
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Speculative bounty
+Arrangement where Google may lose money due to uncertainty of monetization return
+Escalate on the basis of the (conservative) forecasted commit value over the life of the deal (as assessed by Finance)
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+* Business Finance Officer and PA SVP approval is required for all fixed commitment value exceeding $10M and may approve up to $50M without escalation to BC. Delegation of SVP authority to deal review committees is permissible; BFO delegations for such commitments must be temporary in nature, or delegated to FMG. FMG reviews Ads & Partnershps (K&I, Geo  Payments, Research) deals  >$10M - $50M. News Partnerships in this range are delegated to a comparably senior group of specified executives. BC has delegated data partnerships in scope for AIBV Council review to the council for approval up to $50M. YouTube maintains exceptional authority for music content partnerships with commitment value of up to $100M, or up to $250M for status quo extension agreements with a 20% risk adjustment buffer (max 6 month individual extensions, 12 month total term for consecutive extensions). Platforms & Devices - Devices & Services Product Group (P&D - DSPG) maintains exceptional authority for exclusivity and parity whereby HWX may fully approve these concessions for partnerships supporting the commercial launch of new products in any other country aside from US or UK, or those in US or UK up to 12 months in term; >12 month concessions in the US or UK require BC approval. 
+Deal Review Escalation Rules By Product Area 
+Applicable to all deals done by Product teams or GBO groups for the products or channels below
+If a decision-making body feels it cannot take a decision, it has the right to escalate to the next forum up (i.e. Local Forum to FMG or BC; BC to Board of Directors)
+In addition to the below, the General Escalation Rules apply to all deals
+For escalation rules related to Knowledge & Innformation partnerships deals (formerly ACX, SGX, PayX), please see tab 4
+Seema Pandya
+. K&IP Forum Escalation Rules
+Seema Pandya
+Cross Product Area Deals
+6) Any deal with significant cross Product Area implications.
+CROSS-FUNCTIONAL BUSINESS 
+REVIEW REQUIRED?
+Seema Pandya
+DESCRIPTION
+FMG DEAL REVIEW
+APPROVAL REQUIRED?
+BC DEAL REVIEW
+APPROVAL REQUIRED?
+Ana Corrales (HW Supply & Ops)
+GLOBAL MEDIA (GMX)
+Quarterly Business Review
+Regional QBRs to held on a quarterly basis highlighting portfolio updates, including:
+
+1. Budget Utilisation
+2. Any other updates to business plans
+3. Rotating topics to be provided quarterly
+4. One slide for Goodwills
+Yes. Quarterly basis.
+Q1 and Q4 (Q2 and Q3 light review for highlights)
+For approval criteria related to deals that are not escalated to GBX/FMG/BC, refer to go/buysideapproval
+Deviations 
+
+(i.e. from standard incentive practices and allocation)
+Any changes to portfolio that falls out of Ad Incentive 2025 guardrails (listed at go/ad-incentive-guardrails) including (but not limited to):
+
+1. Changes to min portfolio growth for VIP where it falls to below business plan at the Principal Tier 
+2. Changes to regional level I/C ratio by greater than 0.05%; Advertiser and Agency focused deals should be assessed separately
+3. AGP Grid changes with budget impact greater than $1M
+4. KPI contracted revisions or custom requirements requested (excluding error corrections)
+5. Deviation from Principal trading standard grid 
+6. Any other material changes to the approved portfolio (see go/ad-incentive-guardrails)
+Deal-specific Guardrails
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+
+
+
+Commitment/Growth:
+
+Deal-specific Guardrails
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+1. NEW Global deals < $8M USD if serviced by multiple regions or < $5M USD if serviced by single regions
+
+2. Negative growth deals (including discount-only deals) which may impact approved regional portfolio. 
+
+
+Deal Structure:
+
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+1. Individual Deal w/ YTC and range < 90% or > 95%
+2. Deals > contracted greater than 12 months
+
+
+IC Rates:
+
+
+Deal Structure:
+
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+1. Advertisers with Advertiser Level Agreements and Advertiser direct deals have a combined I/C rate  ≤  6% (internal; across all deal tiers)
+
+2. I/C ratio for a single deal exceeds +1% above RMDR/RADR market approved I/C ratio 
+(Eg. market I/C ratio was approved at 2.0%, the i/c ratio of a deal at 4.0% will require GMX even if overall market I/C ratio is between 2-3%)
+
+3. I/C ratio for a single deal exceeds 5% even if it's within the allowed +1pt market approved I/C ratio
+
+Deal Structure:
+
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+
+
+(Eg. market I/C ratio was approved at 3.0%. A single deal with I/C ratio 4.2% will require GMX)
+
+
+Total Incentives:
+DESCRIPTION
+
+1. Deal exceeding 15M in DIF and/or YTC highest tier
+(Eg. market I/C ratio was approved at 3.0%. A single deal with I/C ratio 4.2% will require GMX)
+
+
+Total Incentives:
+DESCRIPTION
+AGP: 
+
+
+
+Deal Structure:
+
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+
+Deal Structure:
+
+
+Deal Structure:
+
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+1. Any material changes to customer AGP terms after contracting (i.e grid changes, duration changes, etc.)
+
+2.  Any new AGP deals signed at the Division level
+
+
+Payouts:
+Payouts:
+Payouts:
+
+1. Payouts at <=0% growth
+
+2. Payout rates > 35%
+
+** New GCS AGP deals are not allowed
+**Excludes Korea Incentive Program (KIP)
+Agency KPI:
+
+Deal Structure:
+
+
+
+
+Deal Structure:
+
+1. If KPI deal size <$150k for local (up to 3 markets) deals or <$500K for regional/global deals and/or Per KPI < $30K
+
+2. Amendment to existing KPI 
+
+3. Cross-year KPI deal
+
+Deal Structure:
+
+Principal Trading: 
+
+Budget Utilization:
+
+No
+1. If deal budget > approved portfolio allocation per region 
+
+
+
+Deal Structure:
+
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+Grid Structure:
+
+Deal Structure:
+
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+
+1. Deviation from Principal trading standard grid 
+
+
+Discounts:
+
+
+Deal Structure:
+
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+1. Principal Trading Discount > 25%
+Media Trials Program:
+
+Deal Structure:
+
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+
+
+1: Ads coupon/credit over 500K
+
+2: If one advertiser/agency receives between $1.25 to 5.25M, need GPS and Finance approval. Anything over that requires GMX.
+Yes
+Reviewed by SVPR if: 
+>$500K if part of a test, trial or pilot  
+Program/Policy Guardrails
+VIP Deals (see additional detailed guardrails that do not require GMX but listed here: at go/ad-incentive-guardrails):
+No
+All deals offering a minimum revenue guarantee or equivalent by Google greater than stated amounts over the life of the deal
+First of kind: Any new incentive program, or material change to an existing incentive or pricing program
+If escalated by GMX
+DESCRIPTION
+- Yes if material change
+- Yes if requires >$10M new funding on existing program
+VIP Annual Exception: Deals creating new upfront deal structures or DIF items
+Goodwills
+Relevant HW GM
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+go/goodwillapprovers
+
+   -Tier 0 (goodwill tier) added into a deal after contracting 
+Ben Treynor Sloss
+over $10M
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+Seema Pandya
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+Expanded GMX Forum:
+-GMX (Search)
+-GMX (Apps)
+-GMX (Measurement/Tools)
+In-scope: 
+excluding requests governed by existing forums or approved programs
+-All new/first of kind Ads incentives/research requests >$250K
+-Ads credit requests >$500K before escalating through SVPR process
+-Incremental asks to existing programs approved by FMG/BC 
+-Any deal/program that requires escalation to FMG/BC
+-Non-VIP requests
+over $10M for Ad Credits
+over $50M for Ads Incentives
+DESCRIPTION
+Christian Cramer
+Jamie Rosenberg (Eric Kay)
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+Notes:
+Quarterly Business Review
+1) All media incentive deals that require FMG/BC review must first be reviewed at GMX
+2) Deals may be escalated in any situation to the next level forum at the discretion of the original forum
+3) All deals originating out of the region and involve regional partners require regional forum review and approval as a pre-requisite
+4) All email updates must provide at least 2 full business days for feedback
+5) Approvals valid for 6 months
+Regional Ads (RMDR, RADR) criteria - AMER, EMEA, APAC 
+here. 
+ADS
+Seema Pandya
+DESCRIPTION
+FMG DEAL REVIEW 
+APPROVAL NEEDED?
+Non-Standard Google Ads Terms
+Any requests for non-standard AdWords terms that deviate from Google's pre-approved fall-back positions
+DESCRIPTION
+Quarterly Business Review
+For new non-standard Google Ads provisions where the advertiser or agency meets minimum requirements to negotiate Google Ads Terms  (spends >US$1B annually).  
+
+For customers that spend below US$1B annually, negotiation is subject to the FMG-approved criteria set out 
+here
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+.
+Ad Credits / Auction Based Incentives
+All deals offering auction-based incentives (unless part of a BC-approved program) greater than the stated amounts. See 
+ go/adrewards
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+ for additional approval guidance. 
+Reviewed by SVPR if: >$500K   
+ 
+Ads Incentives
+Non-auction based incentives offered in a deal or program
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+.
+Ad Credits / Auction Based Incentives
+Yes, if >$10M or if up to $10M but no other review / approval option exists with sufficient authority to approve
+>$50M
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+DESCRIPTION
+Quarterly Business Review
+BUYSIDE PLATFORMS
+Note
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+DESCRIPTION
+Quarterly Business Review
+Pricing/Discounts
+All new or existing deals (including renewals, auto-renewals, or customers moving from legacy paperwork) that trigger the escalation criteria
+Display & Video 360, Search Ads 360, Campaign Manager, or Google Analytics deals that trigger level 3, 4, or 5 escalation per the rules at go/buysideapproval
+.
+Ad Credits / Auction Based Incentives
+If escalated by GBX
+Prior Deals
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+.
+Ad Credits / Auction Based Incentives
+Auto-renewals
+Agreements with auto-renew remain subject to the deal review criteria and approval requirements, and should be reviewed if necessary prior to the auto-renewal notice period.
+Removal of the auto-renewal clause is within each region's approval authority (RBX or Regional VP/Director + Regional Sales Finance).
+All deals that have not been executed in six months after the last GBX approval
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+Seema Pandya
+Seema Pandya
+Yes, all deals
+If escalated by GBX/FMG
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+.
+Ad Credits / Auction Based Incentives
+Material changes or amendments to deals previously reviewed at GBX
+Extensions:
+o Extensions of deals with pricing/terms that trigger GBX AND are longer than a cumulative 60 days from the expiration of the underlying contract.
+o GA360 UA extensions may proceed without GBX until the GA360 sunset date (July 1, 2024), subject to RBX approval requested via this form.
+
+Notes: 
+o Contract extensions <60 cumulative days (2 months) can be approved in-region by the submitter's Manager as defined by Salesforce.
+o Contract extensions >60 cumulative days (2 months) require the same approvals as the underlying contract (Manager, Regional Director + Sales Finance, or GBX).
+o Contract extensions >6 cumulative months are discouraged. Renewals should be signed instead.
+Any AGP goodwill
+Any KPI goodwill
+VIP goodwill:
+   - Per 
+.
+Ad Credits / Auction Based Incentives
+Goodwill above the stated amounts
+See go/goodwillapprovers and go/amg-poliocy for additional approval guidance.
+>$500k
+Offering MFN or pricing parity terms
+Giving free ad credit or bartering, outside of approved programs
+Agreeing To “Game Changers”
+Yes. Quarterly basis.
+Q1 and Q4 (Q2 and Q3 light review for highlights)
+>$2M
+Revenue Share
+Forgiveness, or material restructuring of missed annual minimums
+Customer type
+All new, renewed, or modified:
+o Group deals with the "Big Six" holding companies or their subsidiaries, excluding localization of globally approved rates
+o Deals that includes both Buy-Side and Sell-Side Products
+o Venture capital-based group deal, regardless of geographic scope
+o DV360 spend aggregation across multiple regions
+Deal offering a Buy-Side GMP product to a new sales channel or customer type for the first time in a region
+All deals with top partners unless waived by the GP Top Partners Team (see go/toppartner)
+At the discretion of the GP Top Partners Team
+Incentives, free trials and fee waivers
+Incentive terms in the form of cash rebates, credits, "tech fund", "training funds", or similar "pools of money"
+If deal is "first of kind" per "General Escalation Rules" tab or the total fund amount is >$10M
+If escalated by FMG or the total fund amount is >$50M
+Seema Pandya
+Incentive terms that span to products outside of GMP Buy-Side
+If deal is "first of kind" per "General Escalation Rules" tab
+Deals offering format-specific CM fee waivers for DV360 impressions
+Deals offering a DV360, SA360 or GA360 free trial regardless of length
+Non-standard/Unsupported Billing or Currencies
+Deals containing non-standard/unsupported billing (non-standard mins, aggregated/manual billing, prepaid contracts, etc.) or unsupported currencies. In addition, these deals require Billing approval in Salesforce.
+Deal Term
+Seema Pandya
+Seema Pandya
+o Term <12 months or >24 months
+o Term is >12 months and not a multiple of 12 months (e.g. 13 months, 17 months, etc.)
+o GBX approval is required for GMP (not GA4) deals that include rates at the floor of what can be approved by Level 2 approvers AND have a term >1 year.
+Legal
+Seema Pandya
+Seema Pandya
+o Deals with non-standard financial terms, discounts, or credits
+o Sub-syndication, co-branding or whitelabeling
+o DLAs, particularly any new DLA partner or mobile DLA
+o Patent indemnities, patent reps
+o Data use restrictions/requirements
+o Non standard governing law or jurisdiction
+o Term longer than 2 years
+o Transition Services Content Letter
+At the discretion of Legal
+All deals proposing updates to Google's liability to a partner that are outside of agreed standard Google positions or uncapped. 
+*For all risks considered "controllable" GBX would suffice as the final approval authority regardless of the cap.
+All changes to our standard liability caps ≤$10M*
+If uncapped
+GLOBAL CUSTOMER SOULTIONS  (GCSX)
+GLOBAL CUSTOMER SOULTIONS  (GCSX)
+
+
+1: Ads coupon/credit over 500K
+
+2: If one advertiser/agency receives between $1.25 to 5.25M, need GPS and Finance approval. Anything over that requires GMX.
+Yes
+Reviewed by SVPR if: 
+>$500K if part of a test, trial or pilot  
+Program/Policy Guardrails
+“First of Kind” (>$250K)
+
+“First of Kind” (>$250K)
+
+Platform Pricing
+Yes all deals
+>$10M Total spend
+“First of Kind” (>$250K)
+
+“First of Kind” (>$250K)
+
+>$50M Total spend
+All deals which include negotiated partner exclusivity to a Google product
+“First of Kind” (>$250K)
+
+“First of Kind” (>$250K)
+
+Ad Credits / Auction Based Incentives/Goodwill
+Deal related auction based Credits, Goodwill, refunds, marketing-funded incentives or other incentives issued to a customer beyond those arising from a contractual obligation as validated by Legal. For goodwill requests that are not arising from a deal, please see go/amg-policy and go/goodwillapprovers for approval guidance
+
+“First of Kind” (>$250K)
+
+“First of Kind” (>$250K)
+
+>$250K 
+>$500K SVPR (with GCSX pre-review)
+N/A
+>$10M or >70% of total deal revenue
+“First of Kind” (>$250K)
+
+“First of Kind” (>$250K)
+
+Goodwill
+Credits, refunds, or other incentives issued to a customer  beyond those arising from a contractual obligation as validated by Legal. See 
+
+Deal Structure:
+
+
+Deal Structure:
+
+“First of Kind” (>$250K)
+
+go/amg-policy
+ for additional approval guidance. 
+
+Deal Structure:
+
+Seema Pandya
+Seema Pandya
+Please Refer 
+here
+All deals offering a prepayment by Google greater than stated amounts 
+Seema Pandya
+Seema Pandya
+>$250K
+3P Compliance Policy
+Any proposal that doesn’t include explicit verification of compliance with Google's third-party policy
+Seema Pandya
+Seema Pandya
+>$10M annual spend
+>$50M annual spend
+
+Deal Structure:
+
+Seema Pandya
+Seema Pandya
+Customization
+All agreements containing 
+(a) additional technical support or custom product features for API if escalated by PM and API DevRel 
+(b) custom payout calculations by accounting 
+(c) custom economic analysis from finance 
+
+Deal Structure:
+
+Seema Pandya
+Seema Pandya
+>$10M annual opex spend
+> $50M annual opex spend
+
+Deal Structure:
+
+Termination Clause 
+Seema Pandya
+All agreements with changes to any of the termination clauses below:
+(1) Mutual termination for convenience with 60 days notice
+(2) Right to terminate if transparency Ts and Cs are not met (policy team)
+Cross PA / Region Deals
+All deals relating to either a brand new product/service launch or any additional launch of pre-existing product/service into a new org, region, etc. OR All deals likely to require allocation of revenue and/or costs from one product area to another, as determined by Accounting
+All deals relating to either a brand new product/service launch or any additional launch of pre-existing product/service into a new org, region, etc. OR All deals likely to require allocation of revenue and/or costs from one product area to another, as determined by Accounting
+Seema Pandya
+[AIF] Global Reseller Deals 
+Any proposal with a reseller that is global in nature
+[AIF] Spend Limit
+Spend above a certain limit for any individual deal.        
+Seema Pandya
+>$1M annual spend
+[AIF] Transparency to Advertisers 
+All agreements not requiring disclosure of the PSP’s management fee in the Retail Price, e.g. an agreement that does not require disclosure of the management fee to the qualified advertiser in writing.
+[AIF] Exclusion of Advertisers
+Ana Corrales (HW Supply & Ops)
+All agreements where Google does not have the right to exclude any advertiser and/or will not exclude any advertisers who have had active AdWords accounts in the preceding 90 days.
+Seema Pandya
+[AIF] Termination Clause 
+All agreements with changes to any of the termination clauses below:
+(1) Right to terminate if AIF misses quarterly min. advertiser target and/or revenue growth target
+(2) Explicit Google right to terminate if churn exceeds 20% per month.
+
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+[AIF] Goodwill
+Any Goodwill payment request for AIF
+GLOBAL PARTNERSHIPS (PARTNER BUSINESS SOLUTIONS)
+CROSS-FUNCTIONAL BUSINESS 
+REVIEW REQUIRED? 
+(GPX )
+1. For approval criteria related to deals that are not escalated to GPX/FMG/BC, refer to go/sellsidedealprocess
+2. For 
+AFS deals 
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+please refer to the tab "AFS" in
+ 
+go/sellsidedealprocess
+Seema Pandya
+Commerical deals that lose money or break even, in any year
+Large incentives
+Large discounts on rate cards, transfer pricing
+Pricing below minimum floors 
+High revenue shares
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+.
+GAM Rev Share
+PA: >80
+
+PD:>90
+
+OA: >80
+
+PG: =>95 OR > 1 year term
+
+SBI unless otherwise qualified for streamlined approval process (see go/sellsidedealprocess)
+>85 - <90 (Open Auction)
+
+For other AdX deals, FMG review required if escalated
+Seema Pandya
+Quarterly Business Review
+>=90 (Open Auction)
+=100 (Self-Bought Inventory)
+
+For other AdX deals, BC review required if escalated
+All deals offering a minimum revenue guarantee or equivalent by Google greater than stated amounts over the life of the deal
+AFC Rev Share 
+over $10M for Ad Credits
+over $50M for Ads Incentives
+Americas/EMEA >72.25% Effective TAC
+APAC >68% Effective TAC
+Americas/EMEA >72.25% - <76.6% Effective TAC
+APAC >68% - <72% Effective TAC
+
+--- xl/worksheets/sheet4.xml ---
+Americas/EMEA >=76.5% Effective TAC
+APAC >=72% Effective TAC
+AdMob Rev Share
+ILLUSTRATIVE EXAMPLES
+>80% TAC
+Steve Fieler 
+Selim Freiha
+>85% TAC
+AFS Direct Desktop Rev Share
+GLOBAL > 72% - 78% Effective TAC
+All significant expenditures which are outside the Signature & Spend Policy for SAC Review
+GLOBAL > 78% - 81% Effective TAC
+GLOBAL > 81% Effective TAC
+AFS Direct Mobile/Tablet Rev Share
+<= 25% - No Approval Needed
+>25% - Existing MCP partner
+AFS Online Desktop/Mobile/Tablet Rev Share
+Steve Fieler 
+Selim Freiha
+51% - No Approval Needed
+Offering MFN or pricing parity terms
+Giving free ad credit or bartering, outside of approved programs
+AFSh Rev Share
+GLOBAL > 72% - 78% Effective TAC
+Yes. Quarterly basis.
+Q1 and Q4 (Q2 and Q3 light review for highlights)
+For listing of key contract provisions and risk thresholds, refer to HWX Sales Scorecard
+For listing of key contract provisions and risk thresholds, refer to HWX Supply Chain Scorecard - HSA
+For listing of key contract provisions and risk thresholds, refer to HWX Supply Chain Scorecard - EPA
+For listing of key contract provisions and risk thresholds, refer to HWX Supply Chain Scorecard - CMA
+For listing of key contract provisions and risk thresholds, refer to HWX Supply Chain Scorecard - ISA
+NO NEW AFSh contracts should be executed.
+Prepayment or Min Guarantee
+Prepayment or a minimum revenue guarantee of revenue share
+Any deal with prepayment or minimum guarantee
+Seema Pandya
+Seema Pandya
+Per "2a. General Escalation Rules"
+If escalated
+Seema Pandya
+Seema Pandya
+DFP/XFP/Audience 1st/DFP SB/DT/OCR Discount
+> 20%
+
+*Nordic market: >40% for DFP/XFP/Audience
+Seema Pandya
+Seema Pandya
+DSM/RM/DFP Video Discount/DAI
+> 40%
+Premium Video Support Discount
+Seema Pandya
+Seema Pandya
+> 0 %
+Termination Clause
+Seema Pandya
+Seema Pandya
+Non-standard termination rights
+Any unilateral partner termination right
+Seema Pandya
+Seema Pandya
+Image Search Deals
+Any deal offering Image Search (regardless of implementation or monetization)
+Free Trials
+Seema Pandya
+Seema Pandya
+Granting free trials with no contractual commitment for a paid period
+Non-Standard Financial Structure
+Seema Pandya
+Seema Pandya
+Deals with non-standard financial structures
+At the discretion of Sales Finance
+Renewals / Extensions
+Seema Pandya
+Seema Pandya
+Extension of a deal that requires GPX approval
+As defined at go/sellsidedealprocess
+Seema Pandya
+Extension Rights
+For all Sell-Side products, deals with unilateral option for partners to extend deals will be escalated.
+Non-SDK Mobile Implementation
+Seema Pandya
+Seema Pandya
+Sell-side product deals offering non-SDK mobile implementation
+Search Box Distribution
+Seema Pandya
+Seema Pandya
+AFS and mAFS search box distribution requests
+All new SBD deals or SBD renewals with worse terms for Google vs. the preceding deal require FMG approval. For renewals with same or better terms vs. the preceding deal may be approved by GPX.  'Worse vs. better' is assessed based on (a) TAC economics for Google, or (b) worse in any other way so deemed by an approver at GPX.
+
+Note: FMG may stipulate at the time of initial SBD deal approval that renewals continue to come to FMG
+Seema Pandya
+Seema Pandya
+Sub-syndication
+Deals with subsyndication rights for partner
+Seema Pandya
+Seema Pandya
+Yes, all new subsyndication requests
+GOOGLE CLOUD
+Seema Pandya
+Seema Pandya
+Pricing Discounts, Incentives & Contract Terms Changes
+Deals with product pricing, non-standard incentives, investments or contract terms that exceed field empowerment or BC-delegated threshold. 
+
+See 
+Seema Pandya
+Seema Pandya
+go/cloudapprovals 
+for approval thresholds below Business Council for product discounts, non-standard incentives and contract terms changes
+Seema Pandya
+Seema Pandya
+See governance model: 
+link
+Seema Pandya
+Seema Pandya
+As per BC Delegation to CEO, Google Cloud: 
+link
+YOUTUBE
+As per BC Delegation to CEO, Google Cloud: 
+First of Kind
+1) First of kind deal or business structure (e.g. new content license type, new product, new partnership type).
+Seema Pandya
+Seema Pandya
+Ben Treynor Sloss
+Deals outside guidance escalate directly to BC
+New Revshare or Pricing
+Seema Pandya
+2) Deals, programs or product changes that establish and/or change rev-share (e.g. non-standard >55% rev-share or rev-share calculations) per subscriber rates or product pricing.
+
+Notes:
+a) Pricing decisions can be made at YouTube Product Review (YTPR) or YTX, whichever is prefered by product/deal team
+b) Excludes ads pricing
+All deals offering auction-based incentives (unless part of a BC-approved program) greater than the stated amounts. See 
+Commitments, Bonuses & Minimum Guarantees
+3) Any committed spend (e.g. MGs, fixed fees, bonuses, settlements, etc.):
+>$5M for stand alone deals 
+
+>$25M within YTX approved guardrails 
+
+>$25M status quo negotiation (max of 12 month and 24 month in aggregate)
+
+Note: Any marketing commitments tied to commercial deals must be included in aggregate for purposes of escalation
+>$5M to YTX
+Seema Pandya
+> $50M
+> $100M (for music deals)
+Program Review
+4) New programs, changes to YTX-approved programs, or program budget unlocks (as required by annual budget process) with total committed payments >$5M.
+
+Guardrail Exceptions: All rev-share guardrail exceptions to return to YTX. >$5M deal value with exceptions to return to YTX. <$5M deal value with exceptions to be approved by Biz & Finance.
+Seema Pandya
+Seema Pandya
+Non-Standard Terms & Requirements
+5) Any of the following non-standard terms or requirements:
+a) Ads provisions (e.g. restrictions on ad availability or types of ads),
+b) Sales provisions (e.g. new first sales rights, selling other partner’s inventory, rights outside of Partner Sales program guidance)
+c) “Most Favored Nation” (e.g. offering partner access to most favorable terms available, including economic/feature parity commitments). Note: does not include any best effort product commitments.
+d) Significant custom Product, Eng or Operational resourcing, development, or aggressive/accelerated timetables as determined by Product, Eng or Operations.e) Commitments that could result in Google owning IP, excluding approved YTO content
+f) Any non-standard terms deemed to require YTX review by compliance, legal and/or finance
+g) Music deal exit (MDE’s) or major content removal 
+Seema Pandya
+Seema Pandya
+Yes,
+
+Parity and "Most Favored Nation Clauses" for all Non-Music deals/partners need approval at BC
+AI Business Velocity (AIBV)
+External Partnership Commitments
+Seema Pandya
+Seema Pandya
+Centrally-funded data license agreements with total commitment value exceeding stated amounts
+Up to $5M: utlizes 
+Seema Pandya
+Seema Pandya
+contract approvers
+ for "AI BV Data Partnerships" in contracting systems
+
+>$5M up to $50M: AIBV Council 
+Health PA
+Seema Pandya
+Seema Pandya
+All deals where Google's liability to a partner is uncapped outside of agreed standard Google positions. Excludes indemnification.
+Yes, if >$10M unless for a Notified Body (NB) agreement
+Seema Pandya
+Seema Pandya
+Yes, if uncapped for any agreement except with a Notified Body (NB)
+IMF / HWX Escalation Criteria
+Seema Pandya
+Seema Pandya
+The rules below are applicable to all hardware inventory and/or capex purchases AND deals for manufacture, ops/logistics or sales
+HARDWARE SPEND REVIEW
+Seema Pandya
+Seema Pandya
+INVENTORY MANAGEMENT FORUM (IMF)
+APPROVAL REQUIRED FOR...
+SPEND APPROVAL COMMITTEE
+APPROVAL REQUIRED?
+Seema Pandya
+Seema Pandya
+General Escalation 
+General Guidance
+Seema Pandya
+Seema Pandya
+"Commercial Hardware: On a monthly basis inventory and capex budgets for mass production and spare parts for a cumulative 13 months (Feb 1 - Mar 1) is reviewed at Executive Sales and Operations Planning (ESOP), where any MPS Product Line increases are at minimum AOP/LTV Gross Profit or Gross Margin neutral. Non-MPS spend increases (e.g strategic component buy aheads) require approval based on the General Commitment Authority.  
+
+Google Retail Store (Montgomery): All Real Estate transactions require approvals per 
+>$500M
+go/spendpolicy
+.  
+
+
+
+Seema Pandya
+All deals offering a minimum revenue guarantee or equivalent by Google greater than stated amounts over the life of the deal
+All spend requests for commercial hardware require annual governance review with SAC, Google & Alphabet CEO, and Audit Committee (January). 
+
+All spend requests for commercial hardware require a quarterly email update to CFO (w/spend reapproval as necessary). 
+
+All spend requests for commercial hardware, not tied to MPS increases or negative AOP/LTV, GP/GM, require approvals per 
+Seema Pandya
+go/spendpolicy
+.
+
+All spend requests for Google Retail Store (Montgomery) require approvals per go/spendpolicy. 
+
+All spend requests tied to commercial deals, require HWX, DSPA CEO Approval, SAC, CSR, or Audit Compliance Committee as required per spend policy and compliance advisor guidance. 
+HARDWARE DEAL REVIEW
+Seema Pandya
+Seema Pandya
+CATEGORY
+HWX
+APPROVAL REQUIRED FOR...
+Seema Pandya
+Seema Pandya
+BC DEAL REVIEW 
+APPROVAL REQUIRED?
+For listing of key contract provisions and risk thresholds, refer to HWX Supply Chain Scorecard - SLA
+Seema Pandya
+Seema Pandya
+License Grant, Restrictions and Intellectual Property (IP)
+Intellectual Property (IP) Ownership
+a) If Google does not own derivative works created by Google or custom IP developed for Google; or (b) doesn't receive a broad license to derivative works created by Google or custom IP developed for Google.
+Seema Pandya
+Seema Pandya
+3rd Party Software Liability
+If there is 3rd party software and Google does not receive an appropriate license. If Google is provided with source code that comes with unique use restrictions, a compliance plan should be in place for those restrictions. 
+
+Discuss with Head of Pixel Engineering, Head of Android Engineering, and Head of Android Security. 
+Non-Assert by Google
+Seema Pandya
+Seema Pandya
+If Google grants any non-assert. Discuss with LTM, Litigation, and Patent Attorney
+Technical Support, Source Code Escrow, Continued Rights and End User RIghts
+Seema Pandya
+Seema Pandya
+Technical Support from Licensor
+For Android/Pixel and Nest Products: No support
+Seema Pandya
+Seema Pandya
+Security Updates
+All agreements not requiring disclosure of the PSP’s management fee in the Retail Price, e.g. an agreement that does not require disclosure of the management fee to the qualified advertiser in writing.
+For any Supplier who may provide ASICs critical for device security (e.g., SoC, MCU, Wifi, NFC, Bluetooth, UWB), any deals with less than 5 years of support (from launch date of the Google 1P device) to address critical security issues related to embedded software/firmware and no source code escrow for the relevant embedded software/firmware.
+End User Rights
+Seema Pandya
+Note
+: LTM determines escalation
+Seema Pandya
+Reps and Warranties, Indemnities, Liability, Security
+Christian Cramer
+Change of Control 
+Seema Pandya
+If Licensor is subject to public acquistion, or risk of acquisition, Change of Control language must be included.  
+1) All media incentive deals that require FMG/BC review must first be reviewed at GMX
+2) Deals may be escalated in any situation to the next level forum at the discretion of the original forum
+3) All deals originating out of the region and involve regional partners require regional forum review and approval as a pre-requisite
+4) All email updates must provide at least 2 full business days for feedback
+5) Approvals valid for 6 months
+Regional Ads (RMDR, RADR) criteria - AMER, EMEA, APAC 
+Seat License or Premise Limitations
+Note
+: LTM determines escalation
+FMG DEAL REVIEW 
+APPROVAL NEEDED?
+Price & Payment
+Seema Pandya
+Inventory Price Protection
+Any deal with any IPP days > 45 calendar days from delivery by Google (Pixel and Pixel Watch); Any IPP (all other products)* See regional exceptions tab in stoplight
+MFN / Price Parity
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+No - see 
+Any deal where Google offers price parity or MFN or MPP except for Pixel carrier deals in Canada.* See regional exceptions tab in stoplight
+Yes. Any new deal where Google offers price parity or MFN for US / UK markets > 12 months.
+MSRP, TP, NTP
+ for approval requirements
+GLOBAL - ALL PRODUCTS: 
+
+NTP deviation from guidance* > $2M (based on greater of 12-month historical or future sales) OR deviation from NTP guidance is > 10%
+
+PFX (Pricing Review Forum) required
+
+*Net Transfer Price (NTP) as documented at go/ratecardhub, If no pricing guidance is set, follow the DSPA Pricing Process at go/DSPAPricingReview.
+Ana Corrales (HW Supply & Ops)
+MSRP, TP, NTP
+Payment Terms
+All deals with changes to the Downloadable Application guidelines, where included in the deal terms
+Any new Sales Deal: (Partner to Google) Payment terms > 60 calendar days (45 business days) See regional exceptions tab in 
+Seema Pandya
+go/sales-stoplight
+Seema Pandya
+Ana Corrales (HW Supply & Ops)
+.
+(Google to Partner) < 45 calendar days (30 business days)* 
+*All payment terms require set-up with P2P, updating the specific partner payment terms as aligned with the contract terms, in Buying Hub.
+
+OR Any new Supply Chain deal (CMA/HSA/EPA/ISA) with <45 payment days
+Quick Pay Discount
+Seema Pandya
+Ana Corrales (HW Supply & Ops)
+Business Controller or Head of Sales determines escalation to HWX
+Additional Rights to Return
+Seema Pandya
+Ana Corrales (HW Supply & Ops)
+Any new deal with additional rights to return. Note: Business Controller determines escalation to HWX.
+Handling Charges
+Seema Pandya
+Ana Corrales (HW Supply & Ops)
+Any handling charges >$40 USD payable by Google for returns made by Partner of in-warranty products shipped to Google's authorized service center (inclusive of Dead-On-Arrival & In-Warranty Return products)
+Seema Pandya
+Ana Corrales (HW Supply & Ops)
+BOM
+Any new Supply Chain - CMA deal with deviation to specifications/BOM modification
+Seema Pandya
+Excess Mitigation Deals N-1 and Older Gens (Includes Disposition Deals)
+GLOBAL:
+
+Any deals with incremental gross profit negative impact >USD$2M across all regions and all products. 
+
+^Please confirm with BU finance and acctg for the true gross profit impact after taking reserves into account.
+Fee Structure
+Seema Pandya
+Ana Corrales (HW Supply & Ops)
+Any royalties paid 
+Any royalties paid 
+RIB (Retail Incentive Budget)
+Seema Pandya
+Seema Pandya
+Revision to HWX Criteria Q1'14 (2/13/14)
+Revision to HWX Criteria (Play Retail Margins) Q3'14 (8/28/14)
+Revision to HWX Criteria Q4'14 (12/18/14)
+Revision to GHM Criteria Q4'14 (1/12/15)
+Revision to GHM Criteria Q3'15
+Revision to HWX Criteria Q3'16
+Sell-In Incentives
+GLOBAL (excl Japan): Any permanent sell-in incentives/credits (for the lifetime of a product).
+
+Japan (JP): Any sell-in incentives that deviate from the HWX guiding principles framework
+HCMFA
+For RIB: Any HCMFA cap >$2M for APAC, >€1M for EMEA, or >$10M for non-dollars off promotions for NA
+
+--- xl/worksheets/sheet5.xml ---
+Product Exclusivity
+Any new deal which includes negotiated partner exclusivity to a Google product.
+
+
+Note
+: Finance/Compliance determines escalation to HWX / BC based on level of risk (major market, major product, impacts other Google products, etc).
+Yes. Any new deal which includes partner exclusivity to a Google product in US/UK markets for > 12 months.
+Security Updates
+Security Updates
+All deals that meet the General criteria
+As per General criteria tab
+As per General criteria tab
+Co-Branding / Spec Modification
+Any deal requiring development of a customized spec modification or co-branding request for the SKU
+Yes, Any new deal requiring development of a customized product feature or support
+Ordering & Delivery
+Scheduling & Cancellation
+Any new deal with a cancellation fee >$2M (other than material liability for cancelled POs)
+Forecasts / Supply Commitment
+Any new Supply Chain - CMA deal with binding forecast outside of lead time of the components
+
+--- xl/worksheets/sheet6.xml ---
+Manufacturing
+PRINCIPLE
+Specifications / Modifications
+Any new deal with spec changes or suppler can modify price without Google consent
+Custom Tooling
+Steve Fieler 
+Selim Freiha
+Org/PA S/VP + BFO (or specified delegate)
+
+Please see the Google Signature and Commitment Policy for guidance on REWS, TI, Legal, and P&D delegated spend authority.
+Deals that set lower margin or revenue precedents with a customer or product’s market
+Agreeing To “Game Changers”
+Any new Supply Chain (CMA/EPA) deal where Google takes title of capital equipment outside of the US
+Warranty & Quality
+Warranty / Period
+Ana Corrales (HW Supply & Ops)
+DESCRIPTION
+Not Required
+Any new Sales deal where From date of delivery to the partner:
+EMEA/AUS > 27 months
+ROW: Any* See Regional exceptions tab in stoplight
+
+From date of sale to the customer:
+EMEA/AUS >24 months
+ROW: Any deviation from standard* See Regional exceptions tab in stoplight
+
+OR
+Any new Supply Chain component deal (HSA) where <15 Months GLOBAL; <27 Months EU (as well as parts of APAC (e.g. AU)) from the date of manufacturing;
+Any new Supply Chain equipment deal (EPA) where <12 months from the date of written acceptance
+Comment created
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Ben Treynor Sloss
+Epidemic Failure Rate
+Ana Corrales (HW Supply & Ops)
+Ana Corrales (HW Supply & Ops)
+Any new Sales deal with: Any Phones deals with (i) single cause failure rate < 2% for each month over three consecutive months (ii) <3% overall failure rate for each month over three consecutive months; (iii) any deals where we are buying back inventory; (iv) any deal with a rate calculated on a lifetime, cumulative basis* See Regional exceptions tab in stoplight; for Non-Phones - Head of Quality and Business Controller determine escalation
+OR
+Any new Supply Chain deal: 
+HSA with: (i) a single cause failure rate > 2% (90 days); (ii) > 2% overall failure rate (90 days). Or Single Batch > 1%, aggregate deliveries > 1.5%
+OR
+CMA with: (i) a single cause failure rate >2% (90 days); (ii) > 3% overall failure rate (90 days). Or Single Batch >1.5%, aggregate deliveries >2%
+BC DEAL REVIEW 
+APPROVAL NEEDED?
+Warranty Remedies
+Quarterly Business Review
+Christian Cramer
+Jamie Rosenberg (Eric Kay)
+Warranty Remedies
+Quarterly Business Review
+Note
+: LTM determines escalation
+Warranty Remedies
+Quarterly Business Review
+Failure Remedies
+Any new deal where partner controls recall rights or type of remedy; recall remedies are greater than amounts paid or uncapped.
+Warranty Remedies
+Quarterly Business Review
+Dead On Arrival ("DOA")
+Any new Sales deal where DOA period allowance >14 days after customer purchase (ROW)* See Regional exceptions tab in stoplight; DOA period allowance >30 days after customer purchase (EMEA/AU)
+NFF/NTF Tolerance
+EMEA: An allowance >5% of the total NFF returns sent by the Partner will be repaired at Google's cost.
+APAC: Any deviation from the standard.* See Regional exceptions tab in stoplight
+ROW: N/A
+Cross Product Area Deals
+Defense, Indemnity & Security
+MSA: Google to Partner: Any deals with uncapped indemnity for 3rd Party IP Infringement Claims, LTM determines escalation pursuant to go/MSAFallbacks document and go/indemnity policy
+
+Partner to Google: Partner's indemnity should be uncapped. If there is any deivation, LTM determines escalation.
+
+All Other Deals: Google to Partner: Deals with uncontrollable indemnity capped >$10M (also require Legal VP or GC approval and all affected Product VPs approval in Accord deal folder)
+
+Partner to Google:
+Any deals with deviation from unlimited and/or uncapped indemnification for personal injury, property damage and IP - LTM determines escalation
+DESCRIPTION
+No - see go/indemnitypolicy for approval guidelines for indemnification              
+Any new deal with liability capped > $10M (Product & Legal VP) or uncapped (Product & Legal VP + BC) outside of agreed standard Google positions. Excludes indemnification.
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Yes. Uncapped
+Intellectual Property
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Any new deal with deviation to Google terms as base (including reduction to IP Infringement or any agreement or deviation of carveout)
+
+
+Note:
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+ LTM or Patent Attorney determines escalation
+LIability for Third Parties
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Any new deal which offer Google liability for affiliates, other Bets, CMS/ODMs or any third parties
+Information Sharing
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+
+
+
+Any new deal that doesn't offer one-way feedback and residuals clauses to protect against tainting from supplier ideas.
+
+
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Note:
+Warranty & Quality
+ LTM and/or Patent Attorney determines escalation.
+Ana Corrales (HW Supply & Ops)
+Ana Corrales (HW Supply & Ops)
+Not Required
+License Grant, Restrictions, and IP
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Ben Treynor Sloss
+Epidemic Failure Rate
+Ana Corrales (HW Supply & Ops)
+Ana Corrales (HW Supply & Ops)
+Christian Cramer
+AI Related Language (Software, Connected Apps, Hardware Bundles, Media Collabs, Product Partnerships, and more)
+Warranty Remedies
+Quarterly Business Review
+LTM, Engineering, or Patent Counsel to escalate (as needed) to Legal AI Working Group PoC for your PA to determine escalation to HWX.
+Audit & Insurance
+Insurance
+Quarterly Business Review
+No - see go/indemnitypolicy for approval guidelines for indemnification              
+Any deviation from standard or any request for customized requirement.
+
+
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Note:
+ Head of Treasury determines escalation
+Audit Rights
+Yes. Uncapped
+Note
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+If escalated / bypassing FMG
+: Business Controller determines escalation
+Supplier Audits and Supply-Chain Transparency / Ethical Standards
+Any new Sales deal where the Partner requests to conduct own Audit of Supplier sites.
+General Criteria
+Seema Pandya
+Any new Sales deal partnering for (including new logistics or services provider) or distributing a new product/business model for the first time, without prior HWX/FMG approval on program or channel launch plan
+OR
+Any new Supply Chain deal partnering for (including new logistics or services provider) or distributing a new product/business model for the first time, without prior HWX/FMG approval on program or channel launch plan
+Yes, per HWX discretion
+Seema Pandya
+Total Payout (Content Licensing & IP Integration deals only)
+Warranty Remedies
+All content licensing, content sponsorship, content development, IP integration or other non-standard commitments with a total payout by Google over the life of the deal greater than stated amounts, unless within scope of an approved program. 
+$5M - >$10M (HWX); >$10M (HWX and BFO approval); >$50M (HWX, BC, and TA). 
+
+Content licensing or IP integration deals >$250M require CEO approval and >$500M require Board of Directors approval. 
+Yes, any content licensing or IP integration deals >$50M
+Any new Sales deal with minimum guarantee >$5M (HWX required); >$10M (HWX and BFO approval); >$50M (HWX + Business Council), >$100M (HWX + Business Council + Technical Accounting), >$250M (HWX + Business Council + Technical Accounting + CEO), >$500M (HWX + Business Council + Technical Accounting + CEO + ACC)
+OR
+Any new Supply Chain/Inventory deal with minimum guarantee >$10M (HWX+BFO Delegate 1 approval), >$30M (HWX+BFO approval), >$50M (HWX+BFO approval+ CSR), >$100M (HWX+BFO approval+ CSR+TA), >$250M (HWX+BFO approval+CSR+TA+CEO), >$500M (HWX+BFO approval+CSR+TA+CEO+ACC)
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Sales deals >$50M to BC+TA; >$250M to CEO; >$500M to AC.
+
+Supply Chain deals do not go to BC; Instead deals >$50M go to CSR +TA; >$250M to CEO; >$500M to AC.
+Any credits, refunds, or other incentives issued to a customer beyond those arising from a contractual obligation as validated by Legal. See go/amg-policy for additional approval guidance. $500K - $10M (HWX); >$10M (HWX and BC or CSR). 
+
+Deal Structure:
+
+See 
+go/amg-policy
+See 
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+go/amg-policy
+Any new Sales deal with prepayment $5M - $10M (HWX required); >$10M (HWX and BFO approval); >$50M must go to BC and Technical Accounting, >$250M to CEO, >$500M to AC
+OR
+Any new Supply Chain/Inventory deal with preypayment >$10M (HWX+BFO Delegate 1 approval), >$30M (HWX+BFO approval), >$50M (HWX+CSR+TA), >$250M (HWX+CSR+TA+CEO), >$500M (HWX+CSR+TA+CEO+AC)
+
+Deal Structure:
+
+Seema Pandya
+Sales deals >$50M to BC+TA; >$250M to CEO; >$500M to AC.
+
+Supply Chain deals do not go to BC; Instead deals >$50M go to CSR+TA; >$250M to CEO; >$500M to AC.
+Customization Product Feature or Support
+
+Deal Structure:
+
+Seema Pandya
+
+
+
+Any new deal that doesn't offer one-way feedback and residuals clauses to protect against tainting from supplier ideas.
+
+
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Any deals requiring development of a customized product feature or support (HWX and FMG)
+Warranty & Quality
+Any deals that are likely to trigger review or inquiry by a regulatory body (e.g., FTC, DOJ, EC, OFT, etc.), as determined by Legal
+(HWX and FMG, BC if escalated by FMG)
+Ana Corrales (HW Supply & Ops)
+Quarterly Business Review
+Not Required
+Yes, Any new deal that are likely to trigger review or inquiry by a regulatory body (e.g., FTC, DOJ, EC, OFT, etc.), as determined by Legal
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Ben Treynor Sloss
+Yes, if escalated by FMG
+Ana Corrales (HW Supply & Ops)
+Ana Corrales (HW Supply & Ops)
+Dead On Arrival ("DOA")
+Any new Sales deal where DOA period allowance >14 days after customer purchase (ROW)* See Regional exceptions tab in stoplight; DOA period allowance >30 days after customer purchase (EMEA/AU)
+NFF/NTF Tolerance
+EMEA: An allowance >5% of the total NFF returns sent by the Partner will be repaired at Google's cost.
+APAC: Any deviation from the standard.* See Regional exceptions tab in stoplight
+ROW: N/A
+Cross Product Area Deals
+All deals likely to pose a significant risk to the Google brand (HWX and FMG, BC if escalated by FMG)
+General Principles (Google-wide)
+DESCRIPTION
+No - see go/indemnitypolicy for approval guidelines for indemnification              
+Any revenue deals that lose money or break even, in any year require BC approval. Additionally, any deals that set lower margin or revenue precedents with a customer or product’s market also require BC approval.
+
+Note: Sales deals >$50M of spend (without revenue) require BC review
+Note: Supply Chain deals with >$10M of spend (without revenue) require BC* review
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Yes. Uncapped
+Intellectual Property
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+
+
+
+Any new deal that doesn't offer one-way feedback and residuals clauses to protect against tainting from supplier ideas.
+
+
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Any revenue deals that lose money or break even in any year OR any deals that set lower margin or revenue precedents with a customer or product’s market
+Commiting Other Groups / Setting Company-wide Precedents
+All deals that limit what another function or PA (including other bets) can do in the future also require BC* approval
+Co-ordinating Broader Google Relationships
+Any new deal with suppliers / customers that require broader executive co-ordination also require BC approval
+Agreeing to "Game Changers"
+Any new deal that set new market or customer expectations also require BC approval
+Any new deal that contain significant investments in a commercial product also require BC approval
+Warranty Remedies
+Seema Pandya
+Public Announcement
+Any deal in which there will be a public announcement.
+Ana Corrales (HW Supply & Ops)
+Quarterly Business Review
+Yes, if escalated by HWX
+Cross-PA Reallocation
+Any new deal with suppliers / customers that require broader executive co-ordination also require BC approval
+All deals likely to require allocation of revenue and/or costs from one product area to another, as determined by Accounting (HWX and BC* unless approved by PA lead, BFOs, and controllers)
+EDI & Reporting 
+EDI and/or reporting requirements removed	
+Ana Corrales (HW Supply & Ops)
+Revision to HWX Criteria Q4'16 (12/52016)
+Revision to HWX Criteria Q4'19
+Warranty & Quality
+Any deals that are likely to trigger review or inquiry by a regulatory body (e.g., FTC, DOJ, EC, OFT, etc.), as determined by Legal
+(HWX and FMG, BC if escalated by FMG)
+Ana Corrales (HW Supply & Ops)
+Quarterly Business Review
+Not Required
+Yes, Any new deal that are likely to trigger review or inquiry by a regulatory body (e.g., FTC, DOJ, EC, OFT, etc.), as determined by Legal
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Ben Treynor Sloss
+Yes, if escalated by FMG
+Ana Corrales (HW Supply & Ops)
+Ana Corrales (HW Supply & Ops)
+Dead On Arrival ("DOA")
+Any new Sales deal where DOA period allowance >14 days after customer purchase (ROW)* See Regional exceptions tab in stoplight; DOA period allowance >30 days after customer purchase (EMEA/AU)
+NFF/NTF Tolerance
+EMEA: An allowance >5% of the total NFF returns sent by the Partner will be repaired at Google's cost.
+APAC: Any deviation from the standard.* See Regional exceptions tab in stoplight
+ROW: N/A
+Cross Product Area Deals
+All deals likely to pose a significant risk to the Google brand (HWX and FMG, BC if escalated by FMG)
+Revision to HWX Criteria Q2'20
+DESCRIPTION
+No - see go/indemnitypolicy for approval guidelines for indemnification              
+Any revenue deals that lose money or break even, in any year require BC approval. Additionally, any deals that set lower margin or revenue precedents with a customer or product’s market also require BC approval.
+
+Note: Sales deals >$50M of spend (without revenue) require BC review
+Note: Supply Chain deals with >$10M of spend (without revenue) require BC* review
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Yes. Uncapped
+Intellectual Property
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+
+
+
+Any new deal that doesn't offer one-way feedback and residuals clauses to protect against tainting from supplier ideas.
+
+
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Revision to HWX Criteria Q4'25
+Commerce, Shopping & Emerging Ads Local Escalation Criteria
+Criteria
+Seema Pandya
+Any new deal with deviation to Google terms as base (including reduction to IP Infringement or any agreement or deviation of carveout)
+
+
+EPX Review Approval Threshold
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+ LTM or Patent Attorney determines escalation
+LIability for Third Parties
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Any new Sales deal with: Any Phones deals with (i) single cause failure rate < 2% for each month over three consecutive months (ii) <3% overall failure rate for each month over three consecutive months; (iii) any deals where we are buying back inventory; (iv) any deal with a rate calculated on a lifetime, cumulative basis* See Regional exceptions tab in stoplight; for Non-Phones - Head of Quality and Business Controller determine escalation
+OR
+Any new Supply Chain deal: 
+HSA with: (i) a single cause failure rate > 2% (90 days); (ii) > 2% overall failure rate (90 days). Or Single Batch > 1%, aggregate deliveries > 1.5%
+OR
+CMA with: (i) a single cause failure rate >2% (90 days); (ii) > 3% overall failure rate (90 days). Or Single Batch >1.5%, aggregate deliveries >2%
+BC DEAL REVIEW 
+APPROVAL NEEDED?
+Warranty Remedies
+Quarterly Business Review
+Christian Cramer
+Jamie Rosenberg (Eric Kay)
+Warranty Remedies
+Quarterly Business Review
+Note
+: LTM determines escalation
+Warranty Remedies
+Quarterly Business Review
+FMG Deal Review Approval Required?
+BC Deal Review Approval Required?
+Local Escalation Criteria
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+
+All deals with material, non-standard business terms
+
+
+
+All deals with material, non-standard legal terms/risk
+
+
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+
+All deals with material, non-standard XFN commitment
+
+
+All deals with any revenue guarantee
+Ana Corrales (HW Supply & Ops)
+Ana Corrales (HW Supply & Ops)
+
+All deals with,
+1. material financial commitment by Google greater than $2M over lifetime of deal
+2. or otherwise material under the circumstances
+
+
+
+All deals with new programs/template agreements that require material XFN commitment 
+
+
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+All deals offering a minimum revenue guarantee or equivalent by Google greater than stated amounts over the life of the deal
+
+All deals led by AFD team that is for a product other than AFD (e.g., AFS, AFG) which will require support from the Publisher gTech team
+
+
+Deal Review Escalation Rules for Knowledge & Information Partnerships (go/KIPescalation)
+EMEA: An allowance >5% of the total NFF returns sent by the Partner will be repaired at Google's cost.
+APAC: Any deviation from the standard.* See Regional exceptions tab in stoplight
+ROW: N/A
+If a decision-making body feels it cannot take a decision, it has the right to escalate to the next forum up (i.e. K&IP Forum to BC; BC to Board of Directors)
+In addition to the below, the 
+In addition to the below, the 
+Quarterly Business Review
+All agreements not requiring disclosure of the PSP’s management fee in the Retail Price, e.g. an agreement that does not require disclosure of the management fee to the qualified advertiser in writing.
+General Escalation Rules
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+ apply to all deals
+BC escalation rules and principles last validated: May 18, 2021
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+K&IP Forum (Ads)(Formerly ACX)
+All Functions
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+Anything requring BC Review
+Material, non-standard XFN commitment, business terms, or legal terms/risk
+All deals partnering for a new product / service for the first time / Impact on a new Region
+New programs/ template agreements that require material XFN commitment  
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+No - see 
+Requires from Google and/or partner: exclusivity (either from Google or partner), MFN or right of first refusal/offer 
+Ana Corrales (HW Supply & Ops)
+Prepayment 
+>$5M
+Total Payout
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+All deals having total payout to the Partner greater than stated amounts over the life of the deal
+Guarantees
+Ana Corrales (HW Supply & Ops)
+
+
+
+Any new deal that doesn't offer one-way feedback and residuals clauses to protect against tainting from supplier ideas.
+
+
+Ana Corrales (HW Supply & Ops)
+Seema Pandya
+
+--- xl/worksheets/sheet7.xml ---
+Any revenue guarantee greater than stated amounts or any revenue guarantee specifically recognized by a quorum member as triggering review
+Other Guarantees/Warranties (e.g., # of impressions/clicks, placement, audience, not to revise the product, not to use data in a certain way, non-infringement)
+Non-standard Legal Terms
+Non-standard financial terms (e.g., audit rights, offsets, etc.)
+Non-standard co-marketing commitments
+Non-standard data use and/or privacy restrictions/requirements
+Non-standard IP indemnities and LOL
+Non-standard IP rights (granting partners IP ownership, joint ownership, broad license grants, etc.)
+Per Legal discretion.
+If LOL is >$10M
+See go/indemnitypolicy for approval guidelines for indemnification
+Yes, if LOL is uncapped
+See go/indemnitypolicy for approval guidelines for indemnification 
+All deals offering auction-based incentives, under a program not previously approved by the BC greater than the stated amounts. See 
+go/adrewards
+ for additional approval guidance.
+
+>$100K
+>$500K requires 
+go/svpr
+ review
+Non-standard gTech support
+Material, non-standard gTech support/terms
+Non-standard content ingestion requirements, especially feeds or files in formats not supported by existing product workflows.
+Non-standard support obligations (Named resources, non-standard SLAs, extended support hours, etc)
+Non-standard reporting requirements
+Integration or custom engineering work (partner APIs, back end reporting development, parser development, front ends, etc).
+Any deals led by AFD team that is for a product other than AFD (e.g., AFS, AFG) which will require support from the Publisher gTech team
+Products of first impression or existing products utilized in a new or non-standard way, especially where support plan is not yet established.
+Material or Non-standard Product support 
+Non-standard data use and/or privacy restrictions/requirements
+All deals requiring development of a customized Product feature
+Any deal requiring additional, non-standard, or unplanned Product/Engineering Headcount
+EC Ruling
+Any deal that has non-standard financial and legal terms relevant to the European Commission ruling (
+reference
+)
+TAC or Ads Revenue Share
+Any deal with TAC (Traffic Acquisitions Cost) or ads revenue share generated from:
+1. shopping.google.com; 
+2. the Image Search tab; 
+3. Buy on Google
+Non-standard ads policies
+Any changes to Google's standard ads policy for debiting partner payments for refunds issued to advertisers for invalid activity
+Deals not executed within six months of forum approval
+Material changes or amendments to deals previously reviewed at deal forum
+Search and Geo (Formerly SGX)
+Anything requiring BC Review
+Material, non-standard XFN commitment, business terms, or legal terms/risk
+Any deal setting a precedent for commercial terms, or opening Google up to a new level or risk or exposure (e.g., partnering for a new product / service for the first time or in a new region) 
+All deals offering a minimum guarantee (e.g., traffic, revenue, GMV, sales) by Google 
+Total Cost
+Any deal with a total cost to Google over the life of the contract greater than the stated amounts
+>$5M (new and renewal deals)
+
+--- xl/worksheets/sheet8.xml ---
+Material, non-standard gTech support/terms
+Custom development of tools or solutions (e.g, custom reporting solutions or integrations) 
+ILLUSTRATIVE EXAMPLES
+Non-standard support obligations (e.g., dedicated support, named resources, non-standard SLAs, extended support hours, commitment of launch date, etc.)
+Steve Fieler 
+Selim Freiha
+First of a kind, or existing products utilized in a new or non-standard way, especially where support plan is not yet established.
+AFSh Rev Share
+Non-standard data use and/or privacy restrictions/requirements
+Any deal requiring additional, non-standard, or unplanned Product/Engineering Headcount
+Search Distribution
+All OEM / Carrier Deals offering a search revenue share greater than the stated amounts (before 20% operating cost deduction). Note: excludes transitional deals for existing partners
+Desktop: >20% of gross
+Mobile: >16% of gross
+
+*If a renewal with equal to or better terms previously approved by forum: No escalation needed
+Search Distribution
+All deals offering bounty payments with a payment per marginal revenue greater than the stated amounts
+For OEMs: >40%
+For ISVs / bundle partners: >30%
+
+*If a renewal with equal to or better terms previously approved by forum: No escalation needed
+All deals with a guaranteed maximum payout or distribution commitment (MDC) greater than the stated amounts over full term of the deal
+>$100M
+Non-standard Android Partner Engineering
+Material, non-standard Android/APE support/terms
+Non-standard support obligations (e.g. non-standard SLA requirements, different downtime limits and availability thresholds for DCB, etc. )
+Non-standard reporting requirements (e.g. non-standard RSA reporting requirements, etc.)
+New or non-standard payment and revenue tracking requirementsRequires integration or custom engineering work
+Products of first impression or existing products utilized in a new or non-standard way, especially where support plan is not yet established.
+Incentives
+All deals that include credits / discounts for a Google Product
+No, unless outside general escalation rules
+0.05
+0.03
+0.03
+QPX Pricing
+Any QPX deal with a > 5% discount, applied to current rates for renewals and comparable partner rates for new partners
+
+Google Proprietary IP
+0.025
+All deals offering partners access to Google proprietary IP, information not available publicly or obtainable through an API
+Custom Product Commitment
+All deals containing a commitment or guarantee to support a custom / bespoke product feature that requires new or additional Engineering or gTech resources
+Commerce (Payments) (Formerly PayX)
+0.025
+All deals offering partners access to Google proprietary IP, information not available publicly or obtainable through an API
+Anything requring BC Review
+eg. material, non-standard XFN commitment, business terms, or legal terms/risk
+Any deal setting a precedent for commercial terms, or opening Google up to a new level or risk or exposure (e.g., partnering for a new product / service for the first time or in a new region)
+0.04
+0.04
+0.04
+0.04
+Requires from Google and/or partner: exclusivity (either from Google or partner), MFN, or right of first refusal/offer 
+0.05
+0.05
+0.05
+0.05
+All deals offering auction-based incentives, under a program not previously approved by the BC greater than the stated amounts. See go/incentivepolicy for additional approval guidance.
+
+0.05
+0.05
+0.05
+0.05
+>$100K
+>$500K requires 
+go/svpr
+go/svpr
+go/svpr
+go/svpr
+ review
+Material, non-standard gTech support/terms
+Custom development of tools or solutions (e.g, custom reporting solutions or integrations) 
+Non-standard support obligations (e.g., dedicated support, named resources, non-standard SLAs, extended support hours, commitment of launch date, etc.)
+First of a kind, or existing products utilized in a new or non-standard way, especially where support plan is not yet established.
+0.04
+Platforms
+0.02
+Please see tab 6. Payments Platform Rules
+0.025
+0.018
+0.02
+Total Payout for Commercial Terms
+All deals having commercial or co-marketing commitments with a total payout to the Partner greater than stated amounts over the life of the deal. Commercial commitments include offers, bounty payouts, licensing fees, etc.
+
+Note: Thresholds are being established for Platforms deals. Direct-to-consumer offers reviewed by the Offers Council require escalation to PayX for any programs > $5M. 
+All deals having commercial or co-marketing commitments with a total payout to the Partner greater than stated amounts over the life of the deal. Commercial commitments include offers, bounty payouts, licensing fees, etc.
+
+Note: Thresholds are being established for Platforms deals. Direct-to-consumer offers reviewed by the Offers Council require escalation to PayX for any programs > $5M. 
+All deals having commercial or co-marketing commitments with a total payout to the Partner greater than stated amounts over the life of the deal. Commercial commitments include offers, bounty payouts, licensing fees, etc.
+
+Note: Thresholds are being established for Platforms deals. Direct-to-consumer offers reviewed by the Offers Council require escalation to PayX for any programs > $5M. 
+All deals having commercial or co-marketing commitments with a total payout to the Partner greater than stated amounts over the life of the deal. Commercial commitments include offers, bounty payouts, licensing fees, etc.
+
+Note: Thresholds are being established for Platforms deals. Direct-to-consumer offers reviewed by the Offers Council require escalation to PayX for any programs > $5M. 
+>$1M
+>$50M
+
+>$250M Feet on Street (India) commitments within established budgets [starting 2022]
+>$50M
+
+>$250M Feet on Street (India) commitments within established budgets [starting 2022]
+>$50M
+
+>$250M Feet on Street (India) commitments within established budgets [starting 2022]
+>$50M
+
+>$250M Feet on Street (India) commitments within established budgets [starting 2022]
+Total Payout for Operating Expenses
+
+--- xl/worksheets/sheet9.xml ---
+Any deal that has total spend greater than stated thresholds over the life of the deal. This includes TVC spend, other SOW spend, etc.
+Minimum Guarantees
+All deals offering a minimum revenue guarantee by Google (e.g., # of impressions/clicks, placement, audience, not to revise the product, not to use data in a certain way, non-infringement)
+Noncancellable Multi-Year Commitments
+
+Any non-cancellable multi-year commitments.
+Any new deal which includes negotiated partner exclusivity to a Google product.
+
+
+See Global Escalation Rules
+Payment Service Provider (PSP) Deals
+Any deal with a partner that is processing payments for Buy on Google.
+No (per delegation)
+Commerce (Shopping) (Formerly PayX/ACX)
+>$100K
+>$500K requires 
+go/svpr
+ review
+Merchant Credit Policy
+Any changes to the merchant credit policy or exceptions to the standard merchant credit policy greater than stated amounts
+For Merchant Credit Requests (non-deal) due to Product-related issues, the following approvals would be required: 
+>$250K: K&IP Commerce forum 
+>$50K: BoG SteerCo  
+>$10K: PM and BD Director (Jeff and Pierre-Etienne). 
+<= $10K: Finance (Barrett) 
+
+For merchant credits given as a result of a partnership: 
+>$50K: K&IP Commerce forum
+Merchant credit requests >$10K: Require relevant PM and BD Director approval. 
+Any deal that has non-standard financial and legal terms relevant to the European Commission ruling (
+reference
+)
+Research, Core, Labs/Tech & Society
+Compensation (Research only)
+Any commercial deal where Research gets compensated for its work in the form of revenue or contra-opex (whether from revenue share, royalty, milestone payments, etc). This includes any deal where Google gets direct compensation for conducting development with and for a third party - Google Research principles for collecting revenue are outlined 
+HERE
+Any deal that has non-standard financial and legal terms relevant to the European Commission ruling (
+.
+xPA compensation
+Collaborations which are tied to broader xPA commercial contracts where the other PA is being compensated (which may also then require xPA Deal Forum review)
+Favored terms
+Any deal that has non-standard financial and legal terms relevant to the European Commission ruling (
+Exclusivity/non-compete/most favored nation clauses (which may also trigger BC)
+TI Spend Review
+Research support
+Any deal that has non-standard financial and legal terms relevant to the European Commission ruling (
+Customer support required from Research
+All deals proposing updates to Google's liability to a partner that are >$10M
+over $10M for Ad Credits
+over $50M for Ads Incentives
+Yes
+See go/indemnitypolicy for approval guidelines for indemnification 
+Spend
+All deals having total payout (minimum guarantees, prepayment, or total cost) to the Partner greater than stated amounts over the life of the deal
+Any deal that has non-standard financial and legal terms relevant to the European Commission ruling (
+1) All media incentive deals that require FMG/BC review must first be reviewed at GMX
+2) Deals may be escalated in any situation to the next level forum at the discretion of the original forum
+3) All deals originating out of the region and involve regional partners require regional forum review and approval as a pre-requisite
+4) All email updates must provide at least 2 full business days for feedback
+5) Approvals valid for 6 months
+Regional Ads (RMDR, RADR) criteria - AMER, EMEA, APAC 
+1) All media incentive deals that require FMG/BC review must first be reviewed at GMX
+2) Deals may be escalated in any situation to the next level forum at the discretion of the original forum
+3) All deals originating out of the region and involve regional partners require regional forum review and approval as a pre-requisite
+4) All email updates must provide at least 2 full business days for feedback
+5) Approvals valid for 6 months
+Regional Ads (RMDR, RADR) criteria - AMER, EMEA, APAC 
+over $10M for Ad Credits
+over $50M for Ads Incentives
+Any first of kind of kind deals
+Valuation of IP
+Any disclosure or mention of the value of IP to the third party
+Googler FTE commitment
+Any deal that has non-standard financial and legal terms relevant to the European Commission ruling (
+FMG DEAL REVIEW 
+APPROVAL NEEDED?
+FMG DEAL REVIEW 
+APPROVAL NEEDED?
+over $10M for Ad Credits
+over $50M for Ads Incentives
+If there is an explicit contractual commitment of Googler resources for a period of time greater than 6 months (e.g. X # of SWE to support X deliverable)
+PII / Sensitive Data Sharing
+Sharing/receiving of sensitive data (e.g., personal data, employee/TVC data, candidate data)
+[note this excludes Health data which is reviewed by MaxFN instead]
+Any deal that has non-standard financial and legal terms relevant to the European Commission ruling (
+All deals likely to trigger review or inquiry by a regulatory body (e.g., FTC, DOJ, EC, OFT, FDA, etc.), as determined by Legal
+If escalated by Legal
+IP rights
+Creation of Joint IP
+EDU Deals
+All agreements not requiring disclosure of the PSP’s management fee in the Retail Price, e.g. an agreement that does not require disclosure of the management fee to the qualified advertiser in writing.
+Discounts over 60% AND greater than $10M are escalated to PEX		"Discounts up to 20% can be approved by the following:
+EDU: sbutschi@, rodrigoap@, grainnep@google.com, or cmarson@ w/ StratOps: ayamada@
+ENT: scheiters@, mwwyatt@, or nealfrench@ w/ StratOps: ayamada@
+
+up to 30% and up to 12 months can be approved by the following:
+ENT: scheiters@, mywatt@, or nealfrench@ w/StratOps: ayamada@
+EDU: kkells@ w/StratOps: ayamada@
+
+Discounts up to 40% can be approved by the following :
+ENT or EDU : leebryan@, w/StratOps : ayamada@
+
+Discounts up to 60% OR $1M, and for up to 24 months, can now be approved by morenocarlos@
+
+
+
+Discount approvals up to 50% have been delegated to Mike Daoust (mdaoust@) Or Bryan Lee (leebryan@) for Enterprise Licenses for Kiosk use"
+Marketing Deal Forum (MDX)
+Please submit deals with Marketing spend commitments (in scope are commercial deals, partnerships, co-marketing, or sponsorships) =>$5M over the term to MDX. 
+Email mf-rmc@ for any questions.
+EDU Deals
+Note:
+(1)
+over $10M for Ad Credits
+over $50M for Ads Incentives
+The following BAU (business as usual) items will not require MDX review & approval: BAU media agency deals, BAU Marketing goods & services.
+EDU Deals
+(2)
+MDX standing members may also request MDX to consider review of any in scope deals even if they do not meet existing forum deal parameters.
+DEAL PARAMETERS
+DESCRIPTION 
+EDU Deals
+xPA deals
+Any deal with 2 or more Product Areas (PAs) with Marketing commitment
+Deals escalated to PA deal forums
+Deals escalated to Product Area (PA) specific deal forums (e.g. PEX, YTX, etc) that include Marketing commitment(s)
+First-of-kind
+First of kind deal structure
+EDU Deals
+Insufficient ROI / KPI
+If success metric is not defined, agreed upon, or insufficient. If no ROI, then alternative is agreed upon KPI. Escalation criteria triggered if deal KPI less than what is required to get value for spend (will vary depending on deal).
+over $10M for Ad Credits
+over $50M for Ads Incentives
+Not within Budget / Forecast
+Marketing commitment is above budget / forecast for the Marketing PA (without offsetting in another broader part of budget / forecast)
+EDU Deals
+Non-standard Financial Terms
+Non-standard financial terms (e.g., audit rights, offsets, non-cancellable marketing commit >$1M, etc.)
+Deal Length 
+EDU Deals
+All agreements with a term of >1 year
+Top Partners
+over $10M for Ad Credits
+over $50M for Ads Incentives
+All deals with top partners unless waived by the Global Alliances Team.
+(see go/toppartner)
+EDU Deals
+BOM
+BOM
+over $10M for Ad Credits
+over $50M for Ads Incentives
+Off-strategy
+Activities not aligned with Google / Marketing strategy, priorities, and / or OKRs
+Legal Risks, Non-Standard Terms
+>$500M
+>$500M
+over $10M for Ad Credits
+over $50M for Ads Incentives
+Any deal that is likely to involve highly non-standard legal terms or provisions/activity that increases legal risk (e.g., exclusivity provisions, privacy/consent/IP related issues, working with kids, termination clauses). Additionally, any deal that triggers 
+legal risk as stated in the legal marketing policy
+Legal Risks, Non-Standard Terms
+.
+PR or Reputational risk
+Deals that have a significant risk to the Google brand, as determined by Trust & Safety. (Deals that may expose Google to negative press and scrutiny, risk to Google's reputation and brand, or risk by association). 
+Payments Platform Escalation Criteria
+The rules below are applicable to Payments Platform deals for escalation to the K&IP Forum. 
+The rules below are applicable to Payments Platform deals for escalation to the K&IP Forum. 
+Legal Risks, Non-Standard Terms
+K&IP Commerce Deal Review (formerly PayX)
+>$10M
+PAYMENTS DEAL REVIEW (K&IP Commerce)
+APPROVAL REQUIRED FOR...
+>$10M
+Total Fees
+Legal Risks, Non-Standard Terms
+No - see 
+No - see 
+over $10M for Ad Credits
+over $50M for Ads Incentives
+Any deal where the fees will exceed $100M/year in negotiated fees to the partner 
+No, unless escalated by K&IP Forum
+Legal Risks, Non-Standard Terms
+Transaction Fees
+Any deal exceeding the following transaction fee % on a $10 transaction (see table below)
+Transaction Fee Escalation Table
+Form of Payment
+No, unless escalated by K&IP Forum
+Legal Risks, Non-Standard Terms
+NA
+LATAM
+APAC
+EMEA
+Credit/Debit Cards - Processor Fee in Interchange+ deal
+Annualized Volume Count  100M or less - $.15 (Auth + Deposit), Chargeback $3
+Annualized Volume Count 101M-500M - $.09 to $.05 (Auth+Deposit), Chargebacks $2
+Annualized Volume Count 500M-999M -  $.04 to $.02 (Auth+Deposit) , Chargebacks $1.75
+Annualized Volume 1B or more - $.01 or lower (Auth + Deposit), Chargeback $1.50
+
+(Using current agreements across PTI, First Data, WP, & Adyen). 
+Blended Rate - Debit/Credit (interchange and processor fees are pre-negotiated)
+over $10M for Ad Credits
+over $50M for Ads Incentives
+EU - 2.5%
+Non-EU 3.5%
+Interchange Cost - Debit
+3.5%¹
+over $10M for Ad Credits
+over $50M for Ads Incentives
+TBD3
+EU - 20bps
+Non-EU - 2%
+Interchange Cost -Credit
+4%²
+over $10M for Ad Credits
+over $50M for Ads Incentives
+30bps
+e-Wallet
+Carrier Wallet
+over $10M for Ad Credits
+over $50M for Ads Incentives
+Cash
+Financing
+12mo: 6.5% 
+24mo: 10%
+over $10M for Ad Credits
+over $50M for Ads Incentives
+Push Bank Transfer
+Free
+3% 
+IN (Net Banking): 1.80%
+Pull Bank Transfer (including recurring)
+over $10M for Ad Credits
+over $50M for Ads Incentives
+DCB
+Apps/Games - 15%
+Content - 6%
+Gift Cards
+N/A - not owned by Payments
+1 - Durbin: ~2.5%, Exempt (non negotiated): ~3.5% (based on mix & fee data), Exempt (Pinless Negotiated): ~2.3% from pinless agreements across NYCE, STAR, & PULSE. 
+2 (- Assumes average 2.3%+$0.15 interchange/scheme fees (this is a very high level blend - including domestic & cross border volume we process out of NA entities & across products). 
+3- Have only negotiated a deal of this type in India. Will re-e valuate once we  have more data points (where we have local processing in APAC, this is done through blended fee rate structure as interchange pass through is not the norm and not public). 
+4 - Leveraging current benchmarks and agreements: link
+5 - Bank FoPs currently go through existing Treasury banking relationships and are essentially free to PAs. Will need to build out comparables as we expand Imali banking partnerships
+Apps/Games - 15%
+Content - 6%
+P&D Platforms Deal Criteria - applies to any new/amended deals not covered by existing approved programs and deviations from existing approved programs 
+x
+GOOGLE CONFIDENTIAL AND PROPRIETARY

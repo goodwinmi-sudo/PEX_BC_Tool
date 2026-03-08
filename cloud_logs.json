@@ -1,0 +1,2500 @@
+[
+  {
+    "httpRequest": {
+      "latency": "0.041765929s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d4c000a7dbed7227b82",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:48.709819527Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "a8478e0108c2f8f1",
+    "timestamp": "2026-03-03T18:49:48.587714Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/d9f6fecb5e3a683861a08ec3a6190564"
+  },
+  {
+    "insertId": "69a72d4b000a4ba4c292b35e",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:47.792619522Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:47.674724Z"
+  },
+  {
+    "insertId": "69a72d4b000a4b96b6935cba",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:47.792619522Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:47.674710Z"
+  },
+  {
+    "insertId": "69a72d4a000a57a4ccdff426",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:46.792284677Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:46.677796Z"
+  },
+  {
+    "insertId": "69a72d4a000a579c1a985f2a",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:46.792284677Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:46.677788Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.040819430s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d4a000a5a66f659b331",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:46.712482282Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "aacdd385aae019a7",
+    "timestamp": "2026-03-03T18:49:46.587075Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/e3a6e65c9b30428661a08ec3a6190a09"
+  },
+  {
+    "insertId": "69a72d49000a3e6b6becb53f",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:45.797558793Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:45.671339Z"
+  },
+  {
+    "insertId": "69a72d49000a3e5c26271693",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:45.797558793Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:45.671324Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.069870990s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d48000af6c87ae18b83",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:45.049395946Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "7fdfebfc00e0c8a2",
+    "timestamp": "2026-03-03T18:49:44.598299Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/19ba0c6c46c8be5d61a08ec3a6190b70",
+    "traceSampled": true
+  },
+  {
+    "insertId": "69a72d47000a616bca7336e5",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:43.795890556Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:43.680299Z"
+  },
+  {
+    "insertId": "69a72d47000a6161eab39cfb",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:43.795890556Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:43.680289Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.036580100s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d47000a649a6628ad16",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:43.716344930Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "1c82f491daa9d2db",
+    "timestamp": "2026-03-03T18:49:43.595587Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/fb2d95e0b41cb5f337c0d95d43735f40"
+  },
+  {
+    "insertId": "69a72d46000b12726ae08515",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:42.799580426Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:42.725618Z"
+  },
+  {
+    "insertId": "69a72d46000b126aacd39100",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:42.799580426Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:42.725610Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.038576090s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d46000b15d00a423255",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:43.049133973Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "70b93744119e0059",
+    "timestamp": "2026-03-03T18:49:42.594381Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/9d8603253f117b5f37c0d95d43735d13"
+  },
+  {
+    "insertId": "69a72d45000a8aea993dc118",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:41.799436963Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:41.690922Z"
+  },
+  {
+    "insertId": "69a72d45000a8adfb5e64309",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:41.799436963Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:41.690911Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.038821071s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d45000a8ec7bdbfb3bb",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:41.719202930Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "5113ce3fc6c58f20",
+    "timestamp": "2026-03-03T18:49:41.597360Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/0725460c5737789737c0d95d43735c9c"
+  },
+  {
+    "insertId": "69a72d44000a5e784bf68126",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:40.797796221Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:40.679544Z"
+  },
+  {
+    "insertId": "69a72d44000a5e6f8c86cf10",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:40.797796221Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:40.679535Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.039549120s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d44000a628157d9772d",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:40.720163147Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "930f9943d6811fd8",
+    "timestamp": "2026-03-03T18:49:40.592696Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/13a0d9d2def0576737c0d95d4373573f"
+  },
+  {
+    "insertId": "69a72d43000ab4c54aa6ae63",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:39.800273241Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:39.701637Z"
+  },
+  {
+    "insertId": "69a72d43000ab4b88e2c1cac",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:39.800273241Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:39.701624Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.034560390s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d43000ab8c146cd50f0",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:39.720713451Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "4be29d08ea1dd955",
+    "timestamp": "2026-03-03T18:49:39.605656Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/e111b9459307752c37c0d95d437355cf"
+  },
+  {
+    "insertId": "69a72d42000a348fa4e07de2",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:38.801573453Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:38.668815Z"
+  },
+  {
+    "insertId": "69a72d42000a348770d663b0",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:38.801573453Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:38.668807Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.031060830s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d42000a385206d9e65c",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:38.718999817Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "32f85bafdcd17487",
+    "timestamp": "2026-03-03T18:49:38.597881Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/d2c042176122851c37c0d95d437350b7"
+  },
+  {
+    "insertId": "69a72d41000aaa851f871045",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:37.803116244Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:37.699013Z"
+  },
+  {
+    "insertId": "69a72d41000aaa73f93ac42e",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:37.803116244Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:37.698995Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.046178910s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d41000aadb5d638b2bb",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:37.720890582Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "39f65c737b42e29d",
+    "timestamp": "2026-03-03T18:49:37.623787Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/80f6ac080104331f37c0d95d43735808"
+  },
+  {
+    "insertId": "69a72d40000cf41550d5359c",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:37.134769679Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:36.848917Z"
+  },
+  {
+    "insertId": "69a72d40000cf406f92ef87d",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:37.134769679Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:36.848902Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.209167151s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d40000cf8357f1bc534",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:37.055812932Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "232e0150e0b3c3c7",
+    "timestamp": "2026-03-03T18:49:36.604641Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/b9ae5884d0563b7f37c0d95d43735d78"
+  },
+  {
+    "insertId": "69a72d3f000a4e2bba6fe469",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:35.804603218Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:35.675371Z"
+  },
+  {
+    "insertId": "69a72d3f000a4e1eef8b08e4",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:35.804603218Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:35.675358Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.025594470s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d3f000a52fa2cc11500",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:35.724765830Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "487a7c4d3edd7ec6",
+    "timestamp": "2026-03-03T18:49:35.596398Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/8edf0cb6674ad91c8bc94edee83545ea"
+  },
+  {
+    "insertId": "69a72d3e000b02c09d0b3fd9",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:34.805045834Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:34.721600Z"
+  },
+  {
+    "insertId": "69a72d3e000b02b14c667bd8",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:34.805045834Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:34.721585Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.042970139s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5679",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d3e000b061d3bdcd84b",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:35.058792073Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "812fa7600b7fcc90",
+    "timestamp": "2026-03-03T18:49:34.601331Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/5eff5651dfe06ff58bc94edee8354809"
+  },
+  {
+    "insertId": "69a72d3d000a5dd0d3203798",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:33.806729427Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:33.679376Z"
+  },
+  {
+    "insertId": "69a72d3d000a5dc13a426f50",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:33.806729427Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:33.679361Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.027260670s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d3d000a620ceb2bed16",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:33.724445383Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "36c8e0ad11a8f7c2",
+    "timestamp": "2026-03-03T18:49:33.593073Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/68bbb0984e2de71a8bc94edee83548e9",
+    "traceSampled": true
+  },
+  {
+    "insertId": "69a72d3c000a765d9a2c20e9",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:32.806047650Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:32.685661Z"
+  },
+  {
+    "insertId": "69a72d3c000a764ea19887d6",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:32.806047650Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:32.685646Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.041574260s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d3c000a7a0c2874822a",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:32.724769267Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "9381b9a2fae357de",
+    "timestamp": "2026-03-03T18:49:32.603953Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/63393844ebe7c7018bc94edee83542d4"
+  },
+  {
+    "insertId": "69a72d3b000aa41a1cd832be",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:31.807189639Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:31.697370Z"
+  },
+  {
+    "insertId": "69a72d3b000aa4094fddbbc9",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:31.807189639Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:31.697353Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.028270309s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d3b000aa83261a3ab07",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:31.744785441Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "a640f829a109ae55",
+    "timestamp": "2026-03-03T18:49:31.613066Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/1090582d135fc0038bc94edee8354237"
+  },
+  {
+    "insertId": "69a72d3a000a364d758b6281",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:30.809073638Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:30.669261Z"
+  },
+  {
+    "insertId": "69a72d3a000a363e79587c4c",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:30.809073638Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:30.669246Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.025919159s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5679",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d3a000a3a7f488f11ee",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:30.728290604Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "36126a12a2ee686f",
+    "timestamp": "2026-03-03T18:49:30.595615Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/86b415a58fb0374a8bc94edee8354c4c"
+  },
+  {
+    "insertId": "69a72d39000a98cd45357a10",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:29.809888028Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:29.694477Z"
+  },
+  {
+    "insertId": "69a72d39000a98be4234d934",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:29.809888028Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:29.694462Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.038661580s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d39000a9c8dc9e9fc29",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:29.729451322Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "f184a6635b057c3e",
+    "timestamp": "2026-03-03T18:49:29.604671Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/1bdb0c90390dc3c88bc94edee8354a7b"
+  },
+  {
+    "insertId": "69a72d38000a90fd3b497308",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:28.815609769Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:28.692477Z"
+  },
+  {
+    "insertId": "69a72d38000a90ecbcc41961",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:28.815609769Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:28.692460Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.040492423s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d38000a9444df7d76cd",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:28.729505619Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "82c145409d2194f5",
+    "timestamp": "2026-03-03T18:49:28.587226Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/ae06adb868ff02858bc94edee8354384"
+  },
+  {
+    "insertId": "69a72d37000a810bb5c6b4e9",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:27.812641651Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:27.688395Z"
+  },
+  {
+    "insertId": "69a72d37000a80fe0ac4efec",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:27.812641651Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:27.688382Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.032837902s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d37000a83e451a28ee8",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:27.732693325Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "a887f48617bacd8c",
+    "timestamp": "2026-03-03T18:49:27.594054Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/7828defd8f1974408bc94edee8354f68"
+  },
+  {
+    "insertId": "69a72d36000a913db936bd60",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:26.813775784Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:26.692541Z"
+  },
+  {
+    "insertId": "69a72d36000a912d4770f6ad",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:26.813775784Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:26.692525Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.038134208s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d36000a946fb1549a2c",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:26.731394787Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "189e9f483a57eefe",
+    "timestamp": "2026-03-03T18:49:26.599142Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/7b90b181f6a3228d86ecad2e688a5194"
+  },
+  {
+    "insertId": "69a72d35000add41afc4c565",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:25.814716579Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:25.712001Z"
+  },
+  {
+    "insertId": "69a72d35000add358e990e32",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:25.814716579Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:25.711989Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.031778687s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d35000ae0410d3fa8c5",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:25.732244207Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "04afec67be1a57f3",
+    "timestamp": "2026-03-03T18:49:25.612034Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/7ce7f32810b5dab186ecad2e688a558b"
+  },
+  {
+    "insertId": "69a72d34000a8718ba19a4be",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:24.815228611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:24.689944Z"
+  },
+  {
+    "insertId": "69a72d34000a870b7091311e",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:24.815228611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:24.689931Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.040357915s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d34000a8b01f17d8fe8",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:24.734496878Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "b07b281bb74cc14e",
+    "timestamp": "2026-03-03T18:49:24.596749Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/7ca88cad105f0eb686ecad2e688a5e26"
+  },
+  {
+    "insertId": "69a72d33000abf413679b3cc",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:23.817363860Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:23.704321Z"
+  },
+  {
+    "insertId": "69a72d33000abf344f51f2e3",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:23.817363860Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:23.704308Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.049720293s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d33000ac2b7f94e13c4",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:23.733614757Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "1270be58a8b7e096",
+    "timestamp": "2026-03-03T18:49:23.605082Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/80fcc4ad47d56f7786ecad2e688a5de1"
+  },
+  {
+    "insertId": "69a72d32000aa328f98becae",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:22.812284677Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:22.697128Z"
+  },
+  {
+    "insertId": "69a72d32000aa3189e3452f7",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:22.812284677Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:22.697112Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.030641238s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5679",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d32000aa68b043b9ae5",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:22.734942848Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "0ea206915645bda7",
+    "timestamp": "2026-03-03T18:49:22.610927Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/60c8f0e29de9794086ecad2e688a5393",
+    "traceSampled": true
+  },
+  {
+    "insertId": "69a72d31000b0dc74401d93a",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:21.818006815Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:21.724423Z"
+  },
+  {
+    "insertId": "69a72d31000b0dbc8ee224e9",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:21.818006815Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:21.724412Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.040759267s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d31000b12652cf83ca8",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:21.738897798Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "272f294141c92703",
+    "timestamp": "2026-03-03T18:49:21.608057Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/d4fa2485b4e6950f86ecad2e688a53ac"
+  },
+  {
+    "insertId": "69a72d30000ae654b5283b1e",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:20.818774526Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:20.714324Z"
+  },
+  {
+    "insertId": "69a72d30000ae646823a1d04",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:20.818774526Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:20.714310Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.054991510s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d30000ae9be8d922bed",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:20.737759675Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "fa64bc1646928fa0",
+    "timestamp": "2026-03-03T18:49:20.595433Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/6fadabbdd25d64a386ecad2e688a5fbd"
+  },
+  {
+    "insertId": "69a72d2f000a7b76f913a5ac",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:19.826070201Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:19.686966Z"
+  },
+  {
+    "insertId": "69a72d2f000a7b67b894ba7d",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:19.826070201Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:19.686951Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.025177s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d2f000a7f50912c970d",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:19.738730044Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "d34cc85f6a73bafe",
+    "timestamp": "2026-03-03T18:49:19.599526Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/11af8b69052670d486ecad2e688a578d"
+  },
+  {
+    "insertId": "69a72d2e000a5916bc83f879",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:18.821141727Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:18.678166Z"
+  },
+  {
+    "insertId": "69a72d2e000a590ac2ced399",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:18.821141727Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:18.678154Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.031564232s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d2e000a5d12e9f6d1f1",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:18.739230066Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "5c224497f47d5b6a",
+    "timestamp": "2026-03-03T18:49:18.596507Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/e0eb68824485830c86ecad2e688a52d8"
+  },
+  {
+    "insertId": "69a72d2d000a02608a5107e4",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:17.820583023Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:17.655968Z"
+  },
+  {
+    "insertId": "69a72d2d000a02519dead4dd",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:17.820583023Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:17.655953Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.027381401s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d2d000a05db1e4be381",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:17.741021271Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "4b95a358008ed880",
+    "timestamp": "2026-03-03T18:49:17.597718Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/2d66bfbc6197c0145c45724e24d9ae43"
+  },
+  {
+    "insertId": "69a72d2c000a8a19665e0243",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:16.821935139Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:16.690713Z"
+  },
+  {
+    "insertId": "69a72d2c000a8a0f8168ad96",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:16.821935139Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:16.690703Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.042091788s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d2c000a8e471ca83f27",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:16.739927864Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "4f75292cb9ecb22d",
+    "timestamp": "2026-03-03T18:49:16.595651Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/a9111418641b61ce5c45724e24d9a14d"
+  },
+  {
+    "insertId": "69a72d2b000a792396a64f1e",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:15.822337796Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:15.686371Z"
+  },
+  {
+    "insertId": "69a72d2b000a7914dddd68ca",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:15.822337796Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:15.686356Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.035140998s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5680",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d2b000a7c78a8aa8292",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:15.741098636Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "5fc615e059fb248c",
+    "timestamp": "2026-03-03T18:49:15.597213Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/fb73999ea0f95d945c45724e24d9ad58"
+  },
+  {
+    "insertId": "69a72d2a000a6d4d3b6fba40",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:14.824104518Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 55d4c99c-2b43-4389-9934-0b150f4e3589",
+    "timestamp": "2026-03-03T18:49:14.683341Z"
+  },
+  {
+    "insertId": "69a72d2a000a6d40b8729dd4",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:14.824104518Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] /api/job/55d4c99c-2b43-4389-9934-0b150f4e3589 returning. Job State: queued. Events fetched: 0.",
+    "timestamp": "2026-03-03T18:49:14.683328Z"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.022380418s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "172.56.210.178",
+      "requestMethod": "GET",
+      "requestSize": "5681",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/55d4c99c-2b43-4389-9934-0b150f4e3589",
+      "responseSize": "201",
+      "serverIp": "34.143.73.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a72d2a000a7122cd98a192",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-03T18:49:14.741672956Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "afcb48e3bf587ede",
+    "timestamp": "2026-03-03T18:49:14.607031Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/58a9fcfd74ac77b15c45724e24d9a8ee"
+  },
+  {
+    "insertId": "69a72d29000a17922e33db17",
+    "labels": {
+      "instanceId": "00da6cd2c4d16bbe4fe6235985ed7cee62f20f8ea18e6122ec247ba90b441b23ee2950888c475b628c780169be8f6f176b3025b5d68f4244f613eeed6df27d0a278d04d3851bf4856da6865a6159e1"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2026-03-03T18:49:13.823855332Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00105-rfm",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "[DIAGNOSTICS] Datastore query returned NO events for ancestor 3af0c63b-8ea2-4401-924c-0e87c41cbd58",
+    "timestamp": "2026-03-03T18:49:13.661394Z"
+  }
+]

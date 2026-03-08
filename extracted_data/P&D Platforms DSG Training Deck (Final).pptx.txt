@@ -1,0 +1,1099 @@
+Platforms
+Deal & Spend Governance 
+Training
+ 
+Team Page: 
+go/PEDealCompliance
+Deal & Spend Governance
+New risk assessment to guide teams on approval path…
+Deal teams to use the risk assessment to determine what deal approvals are required (and work with Deal Governance as needed to guide/prep). Illustrative summary below, please see 
+Platforms Deal Governance Risk Assessment
+ for full list.
+Your PEX Quorum Approvers (PEX)
+Product Area
+Android OS, OEMs, Carriers
+Android Auto
+Android TV
+Privacy Sandbox
+XR/VR
+G1 / Photos
+Android Bus Comms 
+Chrome OS
+Chrome Browser
+Play
+BD / Partnerships
+Finance
+Legal
+Product/Strategy
+Peter Fitzgerald
+Cristina Bita
+Bryan Lee
+Kate Lee
+Myisha Frazier
+Sameer Samat
+Shimrit Ben-Yair
+Parisa Tabriz
+Anthony Chavez
+Approvers
+EDU
+Refer to 
+PEX and PEXpress approvers list
+Marketing (as needed)
+Nick Drake (all other)
+Adrienne Hayes (G1/Photos)
+PEX covers $25-50M and high risk deals 
+Rick is a required approver for high risk deals  
+Android Ecosystem
+Peter Fitzgerald
+Myisha Frazier
+Kate Lee
+‹#›
+Your PEX Quorum Approvers (PEXpress)
+Product Area
+Android OS, OEMs, Carriers
+Android Auto
+Android TV
+Privacy Sandbox
+XR/VR
+G1 / Photos
+Android Bus Comms 
+Chrome OS
+Chrome Browser
+Play
+BD / Partnerships
+Finance
+Legal
+Product/Strategy
+Kara Bailey
+Shalini GovilPai
+Elmar Weber
+Yael Marzan
+Sam Bright
+Mike Torres
+Anthony Chavez
+John Solomon
+Approvers
+EDU
+Marketing (as needed)
+Patrick Brady
+Jorgen Behrens
+Shahram Izadi
+Approvers updated to PEX approver direct reports (changes most notable in Product/Strategy)
+Increase PEXpress thresholds to $25M and also cover medium risk deals per risk assessment 
+Android Ecosystem
+Christian Cramer
++ 
+Lavanya Swetharanyan
+(for ex-Global deals)
+Sonal S + Lavanya S 
+(for ex-Global deals)
+Mike Maigret
+Mike Maigret
+Yukoh Hammura (non-
+Sam Dollery (EMEA)
+Richard Lee
+Yukoh Hammura
+Yukoh Hammura
+Richard Lee / Kate Lee
+Chelsea Tanaka
+Chelsea Tanaka
+Chelsea Tanaka
+Rina Shah
+Rina Shah
+Chelsea Tanaka
+Ariel Spivak
+Jalil Cha
+Karen Teo
+Ariel Spivak
+Adrienne McCallister
+Adrienne McCallister
+Purnima Kochikar
+Adrienne McCallister
+Thao Tran
+Bryan Lee
+Ariel Spivak
+Jonathan Zepp
+Kevin Kells
+Menaka Shroff
+ (all other)
+Alice Repetto (G1/Photos)
+‹#›
+Pricing Considerations
+What?
+New product pricing, pricing changes, or financing terms (software, hardware, support)
+Existing products looking to update their price list or financing terms
+Pricing in new markets/new currencies
+Public pricing and associated policies for new and existing products or regions
+How?
+Who?
+Most applicable to: GAS, EDU, ChromeOS, and G1/Photos
+Same members as PEX by product, but will include Biz Ops Pricing team (swavek@ and ypetrov@) for guidance & signoff 
+Introductions
+ & Overview
+Contracting
+If your deal meets any of the criteria above, please include swavek@ and ypetrov@ in the Bizops stakeholder section of the GGA too before moving to submit for stakeholder feedback
+Deal 
+Review
+ & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Deals
+ with certain pricing considerations
+ 
+require Biz Ops sign-off
+ in the PEX/PEXpress process.
+ 
+Knowledge Check:  Deal Forum
+Introductions & Overview
+Contracting
+Deal Review & Policies
+Spend & PR / PO Process
+Wrap-up / Q&A
+Q: W
+hat types of deals go to PEX?
+A) Only deals over $50M that have significant revenue considerations.
+B) All deals, regardless of size, submitted by senior management from any department.
+C) Deals up to $50M and escalated higher-risk deals from PEXpress.
+D) Only one-off deals that require adjustments to existing programs.
+TL;DR Cheat Sheet 
+| Watch Items
+Calendaring Live Deal Review: 
+2-3 weeks min. advance notice required
+Weekly PEX sessions on Thursdays (9-10am or 4-5pm PST, alternating).
+Scheduling depends on Exec availability, Dea
+l waitli
+st, and readiness; notify Deal Advisors of similar Deals.
+Live Deal Review Readiness:
+ 
+EOD Friday before next week’s live deal review meeting
+Submit complete deal record one week before PEX to secure the slot; incomplete records may delay review.
+Include all key fields (ask, context, financials, risks, payment, etc.) and xFN feedback.
+Refer to 
+go/drdocguidance
+ and 
+go/pex_template
+ for best practices.
+GGA Role Definitions: 
+GGA user guide
+ provides E2E tool overview + User Role definitions:
+Initiator: 
+GGA “author” (ideally primary Deal Team POC)
+ 
+Contributor and 
+Stakeholders
+:
+ Provide cross-functional input (one per functional group recommended). See 
+Stakeholder Guidance
+ 
+for details.
+Approver:
+ Refer to
+ 
+PEX Approvers & Attendees
+Introductions
+ & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Hot Topic: 
+ Indemnity Caps, Escalations and Best Practices
+Indemnity exposes Google to legal and financial risk and can arise late in the negotiation cycle   
+Aim to always negotiate to our standards and not offer out-sized indemnity to partners
+  
+Guidelines to consider when evaluating indemnity caps:
+Include in deal costs,
+ and cap to a financially reasonable amount (the PA bears the cost)
+Google should not offer significant capped (e.g. >10M) or 
+uncapped
+ indemnities 
+outside of approved standard positions
+ without obtaining approvals
+Google should not offer indemnity for free Google products.
+Include indemnity with other deal terms early in negotiations 
+Approvals are required as follows 
+(refer to 
+go/indemnitypolicy
+) prior to finalizing the contract:
+C
+apped >$10M or uncapped
+ requires Legal VP and affected Product VP(s) approval  + PEX
+   
+Questions to evaluate as you work with Legal, Finance, and Product to evaluate indemnity caps:
+What is the significance of the deal / deal value / competitive pressures?
+Is the indemnity controllable or uncontrollable by Google?  Is the indemnity mutual (both ways)?
+Per Legal, what are common indemnity payout amounts, claims, or litigation costs we are seeing?
+For IP indemnity, types of claims that are typical with this type of product? 
+For Regulatory indemnity, how active is the policy environment and what are the risks?
+Is there any precedent / spillover to other deals with the same partner or other partners? 
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Contracting and 
+Spend Process
+ 
+Deal & Spend Governance
+Accord Tips & Tricks
+Introductions & Overview
+Contracting
+Policy Reminder
+Deal activities should not start until the contract is fully executed. 
+Retrodating is when the work begins without a contract, however, once the contract is in place, the effective date is updated. If the work starts within a different month as the agreement date, this is a policy violation and must be flagged to both Accounting and Compliance. 
+Please visit the 
+RMC Contracting Principles page
+ or reach out to rmc-support@google.com for further guidance.
+Accord, Google's contract management solution, has replaced Simba for commercial contracts offering faster turnaround times, fewer latency issues, and a more intuitive experience. 
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+01
+02
+Executive Summaries - 
+Required for all non-standard deals. Connect with your finance / budget operations partner and include the Budget ID. Visit 
+go/execsummary
+ for more information.
+03
+Contract Changes  - 
+Ensure the system is up-to-date with all contract changes. Accord should always reflect the most updated terms. Visit 
+go/cirgotpushback
+ for a list of top pendback issues.
+Key Items to Remember 
+OOO Approver Support - 
+If you are an approver, include a delegate to approve deals while you are OOO to avoid delays. 
+Deal Folder Watch Items
+Ensure the intended Service Group (SG) has the 
+correct contract approvers in-place to avoid last-minute change requests (and potential approval delays)  - 
+see 
+PE Deal Folder Approver Table
+ for approvers
+Your Deal Advisor and RMC can help with this, but we advise checking early in the deal process 
+Contracting Approval Flow
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Sign NDA
+Create deal in Accord
+Partner signs
+Upload signed contract
+Contract Integrity Review
+Google countersigns
+Fill out template
+Negotiate terms
+Draft contract
+Partner reviews draft contract
+Deal folder / internal approvals
+Initial Negotiations
+Contract Negotiations
+Contract Signatures
+No legal assistance needed (MOCA/MOCA+ template)
+Legal assistance needed
+Non-standard
+Standard
+To streamline approvals, leverage standard templates whenever possible
+Thanks for joining today! 
+Attendance will be tracked and this session will be recorded. If you’re in a room with others, please join individually on your own GVC for accurate tracking. 
+Ques
+tions?
+Submit them in the Dory or raise your hand during the Q&A. We’ll address as many as time allows.
+Before we dive in…
+dory/pe2024
+Side Agreements & Retrodating 
+Side agreements are a type of policy violation, where written or verbal agreements are not authorized in accordance with Alphabet’s Commitment and Signature Authority Policy, and that are outside of and/or supersede any terms and conditions of the original contract.
+Side agreements present a risk of financial reporting. 
+Side agreements can include arrangements where promises are made without advance approval for:
+Performance of Google's services
+Spend commitments
+Commercial terms
+Promised credits or refunds if a Google service fails to meet specified customer or partner expectations 
+Side Agreements
+Retrodating
+Retrodating is when work begins or is honored 
+before 
+a contract
+ is in place. 
+O
+nce the contract is in place, the effective date is updated to reflect the date that the contract should have been in place. 
+When 
+the 
+effective
+ date of work starts 
+in a prior month or quarter than the contract 
+date, this is a policy violation and must be flagged to both Accounting and Compliance. 
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Spend Approval
+ 
+Introductions & Overview
+Contracting
+Budget approval is the confirmation that there are funds available.
+Spend approval is the confirmation that it is okay to spend those available funds. 
+Before spending, determine if:
+This request will achieve our objectives
+The money could be used better elsewhere
+The request requires deal review
+Note:
+ Incremental Requests
+ - f
+or increases to approved spend approval is based on the full amount, not the incremental value. Large requests cannot be split into separate, smaller requests approved at lower levels.
+Just 
+because
+ a spend request is within budget, doesn’t necessarily mean it should be approved.
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Process on a Page
+TVCs can prepare PRs on behalf of a FTE, but the FTE must approve. 
+PR gets routed through the Approval Chain until someone with 
+requisite spend authority
+ approves.
+Requester’s Manager Approves
+Requester submits PR via Buying Hub 
+go/createpr
+FP&A Approves
+Final Approver Approves
+Automatic Issuance of PO
+PO issued to the partner through the Ariba Network. You’ll also receive a copy by email.
+A Purchase Requisition (PR) creates a 
+purchase
+ order (PO), a binding commitment to buy products or services from a supplier 
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Before opening a Purchase R
+equest 
+✔
+Deal Approval
+Deal Folder Update
+Budget Available
+Ensure that the deal is approved in Accord before creating a PR. Please start the process early as the lead time from deal ideation to PR creation is typically a several months long process.
+Ensure the fully-executed contract is in a deal folder and have the ID ready for PR creation.
+Confirm with your team lead or budget manager that this PR is within scope and has budget allocated before opening.
+✔
+✔
+PRs should be opened immediately following contract execution. 
+Lack of either an executed contract or a PR for a live deal creates significant financial and legal risks for Google and is a serious policy violation. 
+Please visit 
+go/buying
+ for further guidance.
+Policy Reminder
+Please account for the following before opening a PR…
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Spend Approval continued 
+Introductions & Overview
+Contracting
+Buying Hub
+ will 
+automatically
+ 
+assign approvers 
+through the requestor's reporting chain (
+go/teams
+) until it is approved by someone with sufficient authority
+FP&A teams are added based on the cost center of the req and 
+go/ccowner
+ 
+AND Finance Director/BFO is added for approvals over $5M
+Goodwill >$500K requires PEX approval 
+(
+go/amg-policy
+)
+ and (
+Play Goodwill Policy
+)
+HR Level of Approver
+Commitment Limit*
+Board of Directors of Alphabet
+Unlimited
+Alphabet CEO
+$500M
+CFO
+$250M
+Kristen Reinke
+$100M
+SVP + BFO
+$50M
+Vice President
+$5M
+HR Grade 9
+$2M
+HR Grade 8
+$1M
+HR Grade 7
+$50K
+HR Grade 6
+$25K
+HR Grade 5
+$15K
+HR Grade 4 and below
+$5K
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Wrap-up / Q&A
+Deal & Spend Governance
+Putting it all together 
+End-to-End Process 
+Google should receive an invoice from the partner within 90 days.
+The life cycle of a deal starts with proper review & approval. 
+Once the deal folder has been approved, the PO can be created and approved. 
+The contract should be approved in a timely manner.
+Deal is approved 
+PO is created and approved
+Invoice is received
+Contract is approved
+PVs that could occur here:
+Invoice is received after 90 days 
+PVs that could occur here:
+Eligible deals that didn’t go to deal review
+Side Agreements: Agreements were finalized without appropriate approval 
+PVs that could occur here:
+Work has started without an approved PO
+PVs that could occur here:
+Retrodating: Any contract with a revenue or expense commitment should be fully executed on or before the Effective Date
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO 
+Process
+Wrap-up / Q&A
+Questions?
+Submit them in the Dory or raise your hand. We’ll address as many as time allows.
+Q&A
+dory/pe2024
+Before you go…
+Deal & Spend Governance
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Thank you! 
+We hope the content was helpful and relevant.
+Feedback:
+ Please share your thoughts through the link in the invite to help us improve future sessions.
+Office Hours:
+ Have deal-related questions? Join us on 
+November 19th.
+ Invites added to your calendars. You can also reach out to us at P&E_DealCompliance@
+Appendix:
+Deal Review
+ Resources 
+Deal & Spend Governance
+Navigating Deal Approvals & Spend Policies
+Whether you're in Partnerships, Legal, Finance, Controllership, or other xFN teams, this guide will help you 
+stay compliant
+, 
+boost efficiency
+, and 
+reduce policy violations
+.
+Contracting
+ and Spend & PR / PO Process
+Accord
+Deal Folders 
+POs / PRs 
+Key 
+Policies
+ and Deal Review
+Key policies
+E2E deal process
+E
+scalation criteria and review forums 
+TL;DR Cheat Sheet
+Indemnity Caps
+1
+2
+3
+This is your guide!
+Wrap-Up and Q&A 
+Ask questions in dory/pe2024 or 
+raise
+ your hand 
+4
+Appendix: More Guides and Resources
+Appendix Items List
+Deal Review Resources 
+Contracting Resources 
+PO/PR Resources 
+Finance Roles & Responsibilities for Deal Approval
+There are 3 towers within P&E Finance:
+Controllership
+Deal & Spend Governance
+Financial Planning & Analysis
+Provide guidance
+ and 
+financial analysis
+ for Deal Reviews
+Ensure deal incentives/spend are 
+aligned strategically and economically 
+Review 
+budget availability 
+& 
+value for money
+Identify 
+financial risks
+ and 
+flag deals
+ for Deal Review as needed
+Ensure 
+PO was raised
+ if necessary
+Determines if deal is 
+operationally viable
+Ensures 
+accurate financial reporting
+ can be supported
+Understand and confirm 
+entity structure
+ and 
+payment terms
+Identify 
+financial risks
+ and 
+flag
+ 
+deals
+ fo
+r Deal Review 
+as needed
+Ensure 
+appropriate approvers
+ are set up in the system
+Provides 
+escalation guidance 
+and
+ leads PEX/PEXpress
+Establish 
+escalation criteria
+Deal & Spend Governance 
+Training
+Tracking and reporting 
+Policy Violations
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+E2E
+ 
+Deal Review Process
+Deal 
+Submission
+ & xFN 
+Review (if needed)
+ 
+ 
+Deal 
+Review
+(if needed)
+Finalize
+ Negotiations, Contract, 
+&
+ PO
+Assess Feasibility 
+with
+ 
+Partner
+4
+Validate that this deal concept helps to achieve the business/ product strategy and relevant OKRs
+Determine if the deal risk profile requires PEX; if it does prepare for that review 
+Review the deal (or program) with PEX quorum and gain approval or AIs to address
+Determine  if your deal requires review at 
+go/PEXcriteria
+Finalize partner negotiations, approve contract, open purchase order
+Assess feasibility of the deal in partner negotiations using available data or partner feedback.  
+Review your rough deal concept with the appropriate forum to ensure alignment (see the following slide for PoC guidance); If the deal looks viable, proceed to next step; Validate framework and guidance for the proposed deal
+Submit for review at 
+go/getapproval 
+to create the deal and schedule review (if not, move to step 6)
+Update / socialize deal terms, especially cross-functional stakeholder input
+Ensure your deal is complete at least one week ahead of PEX
+If live review, prepare for a short TL;DR on the deal and allocate most of the time for Q&A
+Check with Legal re how to communicate to mitigate legal risks (e.g. avoid binding offer, anti-competitive positioning)
+Use talking points that are reviewed and signed off by 
+Legal
+Note
+: It is critical to characterize anything discussed as nonbinding to limit the risk of a side agreement or walking back terms 
+Work with LTM to create and approve contract in Accord 
+Create PO before any work begins
+  Key
+Stage Outcome
+Action Item
+Ensure 
+Budget
+ is Available
+Work with FP&A to confirm that budget is available to fund the “gives” of the deal
+Note:
+ PEX is not a forum to unlock budget  
+Confirm that there budget in the plan to allocate to this deal
+Finalize deal terms with partner (aligning with PEX approved guard rails)
+Ensure
+ Strategy Alignment
+Track & Monitor 
+Deal
+ 
+Performance
+5
+T - 90+
+T- 90+
+T - 60+
+T  - 45+
+T - 30
+T 
+T + Life of Deal
+Post deal approval, track and monitor deal performance over time against pre-established benchmarks
+Work with FP&A to ensure look back analysis is completed
+Timeline
+go/PEDealCompliance
+Access the P&E Deal & Spend Compliance homepage here to explore a repository of resources, FAQs, training materials, and team information.
+Starfleet Academy Deal & Spend Training
+ 
+ 
+In this course, you'll join three colleagues as they negotiate commitments on behalf of Google. Can you help them navigate the risks and score top marks for dealmaking?
+go/PEXCriteria
+ & 
+go/
+dealreviewcriteria
+Still unsure if your deal requires review / escalation? Check out these resources to access a full listing of deal and escalation criteria along with definitions for each. 
+RMC101 Training
+ 
+Access a product-agnostic GROW training to learn more about how to conduct deal making activities and review the policies listed at 
+go/compliancepolicies
+. Walk through scenarios to reinforce your understanding.
+go/PEXquorum
+ 
+Familiarize yourself with PEX and PEXpress quorum members and their delegates by product. 
+go/TopPartner
+The Top Partner team maintains a Google-first, PA-agnostic, long-term point of view on a short list of Google's most sensitive and complex relationships ("Company Top Partners").
+go/dealreview
+ 
+Check out the RMC deal review support page to gain additional insight into all things deal review. 
+go/
+getapproval
+ &
+ 
+PEX: Submission
+Determined that your deal requires review? Use this form to kick off the process! Not sure how to fill it out? Check out the PEX for EDU deck to walk you through the basics.
+Resources at your fingertips 
+| Deal Review
+Deal & Spend Governance
+Introductions & Overview
+Contracting
+Deal Review & 
+Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+If approved
+, move forward with closing the deal in the appropriate contracting system and communicate any partner deadlines
+Upload a PDF of the Deal Summary Document
+ or the deal review approval email (pdf) to the deal documents tab in 
+contracting
+ system
+Executive Summaries are required
+ for all Deal Folders
+go/execsummary
+ for templates, ensure you include a budget ID for reference
+If not approved
+, follow up on any requested actions or suggested changes, and resubmit your deal
+Submit your deal for review (
+GGA 2.0 tool
+) 
+as soon as 
+possible
+, 
+keeping in mind that it can take a  
+few weeks to review and finalize
+;
+Involve Finance 
+as early as possible
+ 
+Anticipate and 
+prepare for questions
+ you will likely encounter
+Thoroughly 
+complete the
+ 
+PEX Summary 
+and ensure all XFN stakeholders have completed their sections
+T
+he 
+PEX
+ deal should be complete (includvie of xFn input) at least one week prior  or meeting can  be postponed
+Tips for Success
+Introductions & Overview
+Contracting
+By adhering to the following guidelines, you can set the stage for an efficient and effective Deal Review:
+Before Deal Review
+After Deal Review
+During Deal Review
+Attendance
+ should be limited to the deal team, quorum members, and one rep from each relevant xFN team only
+Be clear on the ask
+ (brevity is key - it should stand alone and be simple / easy to understand)
+Highlight the 
+rationale, broader partner risks and financial assumptions.
+Where possible, have benchmarks
+ on how this compares with similar deals whenever possible
+Leave 
+ple
+nty of 
+time for Q&A
+Do not engage in any binding commercial commitments until all requisite approvals have been gathered. 
+If the deal review was not definitively approved, please work to address any remaining action items and gather all approvals before proceeding with 
+contracting.
+Policy Reminder
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Appendix:
+Contracting 
+Resources
+ 
+Deal & Spend Governance
+Resources at your fingertips 
+| Contracting
+Accord Project Site
+Visit the Accord project site to access a variety of training & support materials.
+Intro to Accord 
+Access a product-agnostic GROW training to learn more about Accord, Google’s new contract management solution.
+Contracting Principles & Resources
+Learn more about contracting principles and also access contract templates (
+go/templatesearch
+), and policies (
+go/contractdating
+), from the side-menu.
+Contract Signature Guidance 
+Guides on getting a google signature, troubleshooting signature related issues, and managing countersigned contracts.
+go/accord-user-guide
+ 
+For guidance on all things accord, check out this user guide, which includes relevant terminology changes as well  as detailed process flows.  
+Google Governance Policy for Indemnities
+Forgot something about 
+indemnities
+? Learn more about the policy and 
+related
+  materials.
+Legal’s Contracting and Deals Page
+Unsure? Check with Legal! FAQs and other resources around legal matters can be accessed for the Google Legal Home Page. For a list of top pendback reasons, check out 
+go/cirgotpushback
+ 
+P&E Deal Folder Approver Tables 
+Unsure who of your Simba DFAT? Visit 
+go/pedfatinput
+ to view approvers which will be assigned in Simba based on deal group. 
+Deal & Spend Governance
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Simba vs Accord
+Accord
+Definition
+ (aka in Simba)
+Contract
+Same as Deal, Deal Folder, Misc Matter in Simba
+Modification
+Amendments, Extensions, Renewals, or Terminations which modify the original contract
+Contract record
+A record of a contract’s modifications (like Deal Body in Simba)
+Related contracts
+Umbrella term for contract hierarchies (e.g., MSA -> SOW) and other relationships
+Contract area
+Same as Service Group in Simba
+Scope
+Same as Deal Group in Simba (e.g., Service Group + Region)
+Custom contract
+Same as Non-Standard or Legally Assisted
+Custom form
+Equivalent to AAS questionnaire in Simba
+Custom approval rules
+Equivalent to DFAT + AAS assignment rules in Simba
+Some changes in terminology between systems to familiarize yourself with:
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Process on a Page
+ 
+| Standard
+ 
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+Create contract
+Create a new contract 
+Modify existing contract
+Select parent contract & modification type
+Select partner & scope
+Select template
+Add details
+Submit!
+XFN + CIR
+ Reviews
+(if applicable)
+Signatures*
+As a requester, the boxes in blue are the steps you  need to take
+Select “Use template as-is”
+See below for a high-level workflow for creating a standard or template based contract in Accord
+Process on a Page
+ 
+| Custom
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+See below for a high-level workflow for creating a fully custom contract in Accord
+Create contract
+Create a new contract 
+Modify existing contract
+Select parent contract & modification type
+Select partner & scope
+Add details
+Submit for legal assistance
+Drafting with assigned legal expert
+LTM finalizes legal draft
+Prepare contract for review
+Submit!
+XFN + CIR Reviews
+(if applicable)
+Signatures*
+* Custom contracts can only be signed offline (
+for now
+). Any offline signature also involves a 
+contract
+ integrity review (CIR) tamper check phase.
+Select custom contract
+As a requester, the boxes in blue are the steps you  need to take
+Mission
+:
+ To enable deal making and spend activity
+ that 
+manages risk and compliance obligations while creating value for Google, our partners, and our users. 
+One Team, One Mission
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+EMEA Regional DSG 
+Padraig Power
+Meghan McDonnell
+APAC Regional 
+DSG
+ (Android GTM)
+Katie Zhang
+Brenda Toh
+ 
+Global P&E DSG
+Tom 
+Hargett
+Joseph Walters
+Mike Maniker
+ACN Support 
+Kimberlee Cruz
+Joyce Musnit
+TBC
+Appendix:
+PO/PR
+ Resources 
+Deal & Spend Governance
+Resources at your fingertips 
+| PR / PO 
+go/buyinghub
+Use Buying Hub to create your next purchase orders.
+TVCs can request access at 
+go/buyinghub-tvc-access
+.
+Buying Hub PR/PO Demo  
+Learn how to create a purchase request in Buying Hub.
+go/buyinghub-info
+Learn more about Buying Hub, watch a recorded demo, and see all past release notes on our information site.
+go/buyinghub-approvals
+Review and approve PRs submitted for your approval here.
+go/buyinghub-ticket
+For support with creating PR/POs in Buying Hub.
+go/buying
+New to buying at Google? Learn more about the purchasing process with our Guide to Buying
+go/herald-qrg
+New to Herald? Check out the PO Owner section of the Hearld Quick Reference Guide for tips on managing your forecast.  
+go/SpendPolicy
+ & 
+go/spendreviewcriteria
+Looking for additional clarity around commitment and signature authority? Access the policy directly alongside related FAQs here.
+Deal & Spend Governance
+Introductions & Overview
+Contracting
+Deal Review & Approval
+Spend & PR / PO Process
+Wrap-up / Q&A
+PO Facts to Know
+01
+POs 
+must be approved
+ before the supplier begins work.
+02
+POs must be opened for the 
+full aggregated amount.
+03
+04
+POs 
+no longer in use
+ should be closed.
+05
+PO requestors must be 
+compliant with contract requirements
+.
+The Navigo risk assessment tool can help identify when a contract is needed
+POs should generally 
+not exceed 1 year
+ in length.
+Exception: Multiple POs are not needed for work that is for a specific project with a defined time frame across multiple years
+Deal activities should not start until the contract is fully executed. PRs should be opened immediately following contract execution. 
+Lack of either an executed contract or a PR for a live deal creates significant financial and legal risks for Google and is a serious policy violation. 
+Policy Reminder
+Introductions & Overview
+Wrap-up / Q&A
+Deal Review & Approval
+Spend & PR / PO Process
+Contracting
+Key Policies and Deal Review
+Deal & Spend Governance
+Policy Compliance Reminders (The “Big 3”)
+Introductions & Overview
+Contracting
+Deal 
+Review
+ & Policies
+Spend & PR / PO Process
+Wrap-up / Q&A
+C
+ode Of Conduct
+:
+ Includes specific language on signing a contract and spending Google’s money (e.g., prohibiting side agreements). 	
+Commitment and Signature Authority 
+Policy
+:
+ 
+Governs commercial deal making and spend commitment
+s; delegates authority to deal forums like PEX
+Contract Dating Policy:
+ 
+C
+ontracts should be fully executed (signed by Google and partner) on or before the 
+effective
+ date; guides how to avoid 
+policy
+ violations.
+ 
+4
+2
+3
+5
+6
+Strategy Alignment & Budget Availability 
+· 
+Validate the deal aligns with strategy/OKRs and confirm budget.
+1
+Partner Feasibility and Negotiations
+· 
+Assess deal feasibility in partner negotiations using data or feedback.
+  
+Deal Forum Review Criteria
+· Review escalation criteria to see if your deal needs review.
+Create New Deal at 
+GGA 2.0
+· Involve 
+stakeholders
+ and xFN teams early
+· Select one xFN Rep/function to streamline feedback. 
+Prepare for Deal Forum Review 
+· Gather all xFN support and materials one week before the meeting date, or it may be postponed
+· Present only the
+ PEX Template 
+or Deal Record.
+Invoice / PO Execution
+· Signed contract to open PR/PO
+ · A
+pprove PO before work begins.
+Track Deal 
+Performance
+ 
+· M
+onitor deal performance 
+  
+against
+ benchmarks.
+T - 60+
+T - 45+
+I
+f Deal meets criteria, go to Step 2; else, skip to Step 4
+T - 30+
+T 
+Finalize  and Sign Contract
+· Create Deal Folder in Accord
+· Upload DFAT approvals
+· Initiate negotiation/signing after approval.
+See expanded details in 
+Appendix
+ 
+Go/PEXcriteria
+ and 
+go/dealreviewcriteria
+T - 90+
+E2E Deal Review Process 
+Deal Review
+ is a network of cross-functional forums attended by senior management and cross-functional stakeholders to review 
+large
+, strategic, and/or non-standard commercial deals
+ in order to achieve the following:
+Why is Deal Review Important?
+Introductions
+ & Overview
+Contracting
+Commitment Authority
+Ensure Operational Viability
+3
+“Even if we want to do this deal, can we?” 
+Example: May require Eng work, additional manual processes, or our systems may not be capable 
+of tracking/payments/etc.
+Executive Visibility
+Grants executives the ability to shape deals based on broader context that local teams don’t always have
+Offers a chance to present what the team has been working on to senior leadership
+XFN Alignment and Risk Mitigation
+3
+Deal Review & 
+Policies
+Spend & PR / PO Process
+Wrap-up / Q&A
+PEX has delegated authority to review and approve deals within certain bounds
+Deals outside of those bounds will be further escalated (e.g., BC)
+xFN stakeholders bring different lenses to help evaluate the risks of a deal (e.g. financial, legal, operational, strategic) 
+Quick Question: Deal or No Deal?
+Introductions & Overview
+Contracting
+Deal Review & Policies
+Spend & PR / PO Process
+Wrap-up / Q&A
+You’re in negotiations with a major Partner we’ve worked with before to launch a new service. This isn’t just any ordinary deal—this service includes some exciting new features that breaks away from the current playbook. 
+Q: Does this deal need to go through a Deal Review Forum before it’s signed with the partner?
+No, it’s just another partnership.
+Yes, because it includes a first-of-kind service.
+No, because the Partner is a well-known company that we’ve worked with before

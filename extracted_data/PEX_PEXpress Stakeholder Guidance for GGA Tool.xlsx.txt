@@ -1,0 +1,219 @@
+
+--- xl/worksheets/sheet1.xml ---
+PEX Stakeholders (NOTE:  These are Googlers that provide feedack to a deal and are separate and distinct from the deal approvers)
+This list is not comprehensive. Please add others as you see fit.
+Please note: Best practice is to only add one stakeholder to provide input per xFN team in the GGA tool (less is better than more). You can add others as collaborators so they can see the deal.
+Product*
+Finance*
+Controllership*
+Tax
+Legal*
+gTech*
+Product*
+Strategy*
+S&O 
+Sales / BD*
+Marketing (if applicable)
+Engineering
+BizOps (only if setting / changing rate cards)
+Top Partner/Priority Partner (if applicable)
+Android Business Communications (ABC)
+Sean Rooney
+Masha Kourakina
+Frank Kroesch
+Yukoh Hammura
+gtech-pex@google.com
+A direct report of elmarw@google.com based on deal-specific terms
+Margaret Lam
+Default based on Deal-specific Sales / BD POCs
+
+
+
+
+
+
+
+
+
+Asif Mahmud
++Marketing Lead, if known
+
+
+Swavek Bialkiewicz Yanislav Petrov
+Top Partner Lead found at 
+go/toppartner
+
+
+Priority Partner xGPM found at 
+go/priority
+Android OS*
+
+
+(please see APAC-specific stakeholders for those GTM Deals, global Android OS Deals will use "default" stakeholders)
+AMER | OEMScott Lanard
+EMEA: Devin Byrne
+
+Margaret Lam
+APAC:
+ Hiroshi Haneda
+
+
+Kate Crawford
+
+
+If only APAC:
+
+Katie Zhang
+
+
+If only EMEA:
+
+Padraig Power
+If only APAC:
+
+India: Mukul Suri
+Non-India: Marcus Ng
+Margaret Lam
+Yukoh Hammura - mobile (non-EMEA)
+Sam Dollery - mobile (EMEA)
+N/A - Covered via Strategy + StratOps unless warranted in specific Deal
+Jonathon Wong
+
+
+If only APAC:
+
+If only APAC:
+
+Felix Hu
+
+Padraig Power
+Default based on Deal-specific Sales / BD POCs
+
+
+
+If only APAC:
+
+JP: Keigo Sugano & Karen Teo
+KR: jwkimjJW Kim & Karen Teo
+IN: Aditya Swamy & Karen Teo
+Other APAC: David Powell & Karen Teo
+If only APAC:
+
+Asif Mahmud
++Marketing Lead, if known
+
+
+If only APAC:
+
+Beryl Tjandra
+Default based on Deal-specific Sales / BD POCs
+
+AMER | OEMScott Lanard
+EMEA: Devin Byrne
+
+Margaret Lam
+Alwin Chi
+Ed Lo
+Jennifer Kwee
+If only APAC:
+
+Android TV
+Wes Yu
+Megumi Aoyagi
+Masha Kourakina
+Kate Crawford
+Richard Lee
+
+Rob Caruso
+Alwin Chi
+Ed Lo
+Jennifer Kwee
+Tim Mank StratOps
+Jonathon Wong
+Default based on Deal-specific Sales / BD POCs
+Asif Mahmud
++Marketing Lead, if known (e.g., Olivia Bowles for G1)
+
+
+If only APAC:
+
+Alwin Chi
+Ed Lo
+Jennifer Kwee
+Android Auto
+Casey Page
+Masha Kourakina
+Frank Kroesch
+Rina Shah
+Product:
+Charles Mendis for GAS deals
+Paco Galanes for Phone-to-Car
+Christopher Wickall deals
+
+Jadson Tang
+
+Tim Mank All deals (StratOps)
+Jonathon Wong
+Android Emerging Markets
+Enterprise: Jacqueline Lee
+
+Frank Kroesch
+Jonathon Wong
+Play
+Josh O'Connor
+Divya Chandra
+Masha Kourakina
+Rithu Gopalan
+Yemisi Harrison
+Richard Lee
+Chris Kibe
+Games (Linda Vu )
+Apps (Dhruv Pilania
+Media & Entertainment
+Play: Josh O'Connor Divya Chandra
+ATV: Megumi Aoyagi
+Masha Kourakina
+Play: Yemisi Harrison
+ATV:
+Kate Crawford
+AR/XR
+Wes Yu
+Direct report of Rina Shah who is working on deal
+Play: Josh O'Connor Divya Chandra
+ATV: Megumi Aoyagi
+Masha Kourakina
+Play: Yemisi Harrison
+ATV:
+Kate Crawford
+Juston Payne
+
+ravikantpandey@google.com
+StratOps:
+yiqigu@google.com for Platform deals;
+rmainthia@google.com for Content deals
+Play: Josh O'Connor Divya Chandra
+ATV: Megumi Aoyagi
+Masha Kourakina
+Play: Yemisi Harrison
+ATV:
+Kate Crawford
+G1
+StratOps:
+yiqigu@google.com for Platform deals;
+rmainthia@google.com for Content deals
+Masha Kourakina
+Frank Kroesch
+Masha Kourakina
+Play: Yemisi Harrison
+ATV:
+Kate Crawford
+Aruna Ashok
+
+Cecilia Strombeck
+Please include both:
+Lyssa Robertson (for xFN feedback)
+Caitlin Burke (for vis) 
+Masha Kourakina
+Play: Yemisi Harrison
+ATV:
+Kate Crawford

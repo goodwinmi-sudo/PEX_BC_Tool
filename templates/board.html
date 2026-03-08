@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Governance Board | PEX BC Tool</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body class="text-slate-200 min-h-screen p-8 bg-[#020617]">
+  <div class="max-w-6xl mx-auto">
+    <nav class="flex justify-between items-center mb-16">
+      <a href="/" class="text-sm text-slate-500 hover:text-white transition">← War Room</a>
+      <div id="status"
+        class="px-2 py-0.5 bg-blue-500/10 text-blue-400 rounded text-[10px] font-mono border border-blue-500/20 uppercase tracking-widest">
+        Authorized Access Only</div>
+    </nav>
+
+    <header class="text-center mb-20">
+      <h1 class="text-5xl font-extrabold mb-4 gradient-text">Bot Quality Board</h1>
+      <p class="text-slate-400 max-w-2xl mx-auto text-lg">Governing simulation integrity, UCE standards, and strategic
+        alignment.</p>
+      <div class="mt-4 max-w-lg mx-auto p-3 bg-yellow-500/10 border border-yellow-500/20 rounded-lg">
+        <span class="text-yellow-400 text-sm flex justify-center items-center gap-2">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z">
+            </path>
+          </svg>
+          Disclaimer: The board members below are AI-simulated personas, not actual humans.
+        </span>
+      </div>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+      <!-- CTO -->
+      <div class="glass rounded-3xl p-8 hover:border-blue-500/30 transition group">
+        <div
+          class="w-12 h-12 bg-blue-600/20 rounded-2xl flex items-center justify-center mb-6 text-blue-400 group-hover:scale-110 transition">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path>
+          </svg>
+        </div>
+        <h3 class="text-xl font-bold mb-2">CTO</h3>
+        <p class="text-xs text-blue-500 font-mono mb-4 uppercase">Infrastructure</p>
+        <p class="text-sm text-slate-400 leading-relaxed mb-6">Enforces technical standards, DRY principles, and secure
+          API integration.</p>
+      </div>
+
+      <!-- CPO -->
+      <div class="glass rounded-3xl p-8 hover:border-purple-500/30 transition group">
+        <div
+          class="w-12 h-12 bg-purple-600/20 rounded-2xl flex items-center justify-center mb-6 text-purple-400 group-hover:scale-110 transition">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+          </svg>
+        </div>
+        <h3 class="text-xl font-bold mb-2">CPO</h3>
+        <p class="text-xs text-purple-500 font-mono mb-4 uppercase">Product Vision</p>
+        <p class="text-sm text-slate-400 leading-relaxed mb-6">Curates the simulation roadmap to match BD organizational
+          evolution.</p>
+      </div>
+
+      <!-- CQU -->
+      <div class="glass rounded-3xl p-8 hover:border-emerald-500/30 transition group">
+        <div
+          class="w-12 h-12 bg-emerald-600/20 rounded-2xl flex items-center justify-center mb-6 text-emerald-400 group-hover:scale-110 transition">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+        </div>
+        <h3 class="text-xl font-bold mb-2">CQU</h3>
+        <p class="text-xs text-emerald-500 font-mono mb-4 uppercase">Quality Excellence</p>
+        <p class="text-sm text-slate-400 leading-relaxed mb-6">Manages the daily test harness and UCE validation scores.
+        </p>
+      </div>
+
+      <!-- UX -->
+      <div class="glass rounded-3xl p-8 hover:border-pink-500/30 transition group">
+        <div
+          class="w-12 h-12 bg-pink-600/20 rounded-2xl flex items-center justify-center mb-6 text-pink-400 group-hover:scale-110 transition">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z">
+            </path>
+          </svg>
+        </div>
+        <h3 class="text-xl font-bold mb-2">UX Designer</h3>
+        <p class="text-xs text-pink-500 font-mono mb-4 uppercase">User Centered design</p>
+        <p class="text-sm text-slate-400 leading-relaxed mb-6">Ensures premium aesthetics and intuitive user journeys.
+        </p>
+      </div>
+    </div>
+
+    <div class="glass rounded-3xl p-10 mt-12 border-blue-500/10" id="health-dashboard">
+      <div class="flex items-center justify-between mb-8">
+        <h2 class="text-2xl font-bold">System Health & Compliance</h2>
+        <div class="flex items-center space-x-2" id="health-status-container">
+          <!-- Loading state -->
+          <svg class="animate-spin h-5 w-5 text-blue-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor"
+              d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z">
+            </path>
+          </svg>
+          <span class="text-blue-400 text-sm font-bold uppercase tracking-tighter">Auditing...</span>
+        </div>
+      </div>
+      <div class="space-y-4" id="health-metrics">
+        <!-- Dynamic content injected here -->
+      </div>
+      </div>
+      </div>
+      
+      <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          fetch('/api/board/health')
+            .then(response => response.json())
+            .then(data => {
+              const statusContainer = document.getElementById('health-status-container');
+              const metricsContainer = document.getElementById('health-metrics');
+
+              let statusHtml = '';
+              if (data.status === 'PASS') {
+                statusHtml = `
+                          <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse shadow-[0_0_8px_rgba(16,185,129,0.8)]"></span>
+                          <span class="text-emerald-400 text-sm font-bold uppercase tracking-tighter transition-all duration-500">Harness: Passing</span>
+                        `;
+              } else {
+                statusHtml = `
+                          <span class="w-2 h-2 bg-red-500 rounded-full animate-pulse shadow-[0_0_8px_rgba(239,68,68,0.8)]"></span>
+                          <span class="text-red-400 text-sm font-bold uppercase tracking-tighter transition-all duration-500">Harness: Failing</span>
+                        `;
+              }
+              statusContainer.innerHTML = statusHtml;
+
+              let metricsHtml = `
+                        <div class="p-4 bg-slate-900/50 rounded-2xl border border-white/5 flex justify-between items-center transition-all duration-700 transform hover:scale-[1.01]">
+                          <span class="text-slate-300">Last Board Audit</span>
+              <span class="text-slate-500 font-mono text-xs">${data.timestamp}</span>
+            </div>
+            <div class="p-4 bg-slate-900/50 rounded-2xl border border-white/5 flex justify-between items-center transition-all duration-700 delay-75 transform hover:scale-[1.01]">
+              <span class="text-slate-300">Test Harness Coverage</span>
+              <span class="text-emerald-500 font-bold">${data.status === 'PASS' ? '100%' : 'Failing Checks'}</span>
+            </div>
+          `;
+
+              if (data.errors && data.errors.length > 0) {
+                metricsHtml += `
+              <div class="p-5 mt-4 bg-red-900/10 border border-red-500/20 rounded-2xl transition-all duration-700 delay-150">
+                <h3 class="text-red-400 font-bold mb-3 flex items-center"><svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg> CQU Vetoes (Errors)</h3>
+                <ul class="space-y-2 text-sm text-slate-300 font-mono">
+                  ${data.errors.map(err => `<li><span class="text-red-500 mr-2">▪</span>${err}</li>`).join('')}
+                </ul>
+              </div>
+            `;
+              }
+
+              if (data.warnings && data.warnings.length > 0) {
+                metricsHtml += `
+              <div class="p-5 mt-4 bg-yellow-900/10 border border-yellow-500/20 rounded-2xl transition-all duration-700 delay-200">
+                <h3 class="text-yellow-400 font-bold mb-3 flex items-center"><svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg> CTO Warnings</h3>
+                <ul class="space-y-2 text-sm text-slate-300 font-mono">
+                  ${data.warnings.map(warn => `<li><span class="text-yellow-500 mr-2">▪</span>${warn}</li>`).join('')}
+                </ul>
+              </div>
+            `;
+              }
+
+              metricsContainer.innerHTML = metricsHtml;
+            })
+            .catch(error => {
+              console.error('Error fetching health:', error);
+              document.getElementById('health-status-container').innerHTML = `
+            <span class="w-2 h-2 bg-red-500 rounded-full"></span>
+            <span class="text-red-400 text-sm font-bold uppercase tracking-tighter">System Offline</span>
+          `;
+            });
+        });
+            </script>
+</body>
+
+</html>

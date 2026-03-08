@@ -1,0 +1,12 @@
+runtime: python311
+env: standard
+entrypoint: gunicorn --workers 4 --threads 8 --timeout 0 -b :$PORT app:app
+
+service_account: 401242153647-compute@developer.gserviceaccount.com
+
+instance_class: F4_1G
+handlers:
+- url: /static
+  static_dir: static
+- url: /.*
+  script: auto

@@ -1,0 +1,822 @@
+
+--- xl/worksheets/sheet1.xml ---
+PEXpress Quorum Members
+Product
+Business/GTM
+Finance
+Legal
+Product / Strategy
+Marketing (if applicable)
+BizOps (if applicable for consumer pricing)
+Other Attendees (non-quorum)
+Compliance - Facilitator
+Photos & G1
+Adrienne McCallister
+Sonal Singhal
+Yukoh Hammura (Non EMEA)
+Sam Dollery (EMEA)
+Yael Marzan
+Menaka Shroff 
+Swavek Bialkiewicz
+Michal Reshef
+Sang Hee Park (global) or Katie Zhang (APAC deals)
+Tom Hargett
+Android Business Communications (ABC)
+Adrienne McCallister
+Christian Cramer
+Yukoh Hammura
+Elmar Weber
+Elmar Weber, Kara Bailey
+Ram Jandhyala
+Sang-Hee Park
+Joseph Walters
+Android
+Ariel Spivak - OEM, Wear
+Ariel Spivak - Auto, TV, IoT
+Ariel Spivak - Android Other (NAMER)
+Ariel Spivak (EMEA)
+Karen Teo - Android Other (APAC)
+Jonathan Zepp - AR/XR
+Scott Porter - Enterprise
+Christian Cramer
+Yukoh Hammura - Mobile OEMs (Non EMEA)
+Sam Dollery - Mobile (EMEA)
+Rina Shah - Auto, Wear, AR/XR, Fuschia
+Kate Lee - TV Platform / TV OEM
+Rina Shah - TV Content
+Kara Bailey - Mobile,Platform, OEM, Wear, IoT
+Jorgen Behrens - Auto deals w/Geo (HD/ADAS/ISA) and GAS
+Patrick Brady - Auto (deals outside of Jorgen's scope)
+Shalini GovilPai  - TV
+Shahram Izadi- AR/XR
+Mindy Brooks - Unicorn
+David Still - Enterprise
+
+Sagar Kamdar - Platform, OEM, Wear
+Christian Veer - Android Growth
+Patrick Brady - Auto
+Duke Dukellis - Auto deals with Assistant
+Ravikant Pandey- TV
+Greg Simon (Fuschia), Jack Crawczyk (Assistant) - IoT
+Sang-Hee Park (global) or Katie Zhang (APAC deals)
+Tom Hargett - OEM, OS, Carrier, GTM, RSA, Other
+
+Joseph Walters - Auto, TV, AR/VR, Messages
+ChromeOS
+Bryan Lee
+Christian Cramer
+Chelsea Tanaka 
+John Solomon
+Adriano Akutsu
+Sang Hee Park
+Megan Kenny
+Ashish Pimplapure
+Carlos Moreno
+Akiko Yamada (email only)
+Julie Sheth (email only)
+Fiora Fang
+Chrome Browser
+Adrienne McCallister
+Mike Maigret
+Chelsea Tanaka
+Mike Torres
+Darby Brennan
+Sang Hee Park
+Shawn Bananzadeh
+Fiora Fang
+Privacy Sandbox
+Thao Tran
+Mike Maigret
+Chelsea Tanaka
+Anthony Chavez
+Sang Hee Park
+Fiora Fang
+Media & Entertainment (Emerging & Content)
+Jonathan Zepp
+Christian Cramer
+Richard Lee
+Kara Bailey
+Rob Caruso
+Sang-Hee Park
+Anthony Divento
+Joseph Walters
+ 
+Play
+Purnima Kochikar
+Christian Cramer
+Richard Lee (Apps & Media Experience Program)
+Kate Lee (all other Play deals)
+Sam Bright
+Ravikant Pandey
+Anthony Divento (global) or Katie Zhang (APAC deals)
+Fiora Fang
+EDU
+Kevin Kells
+Christian Cramer
+Chelsea Tanaka
+John Solomon
+Akiko Yamada
+Sang Hee Park
+Brian Hendricks
+Alison Suzuki
+Carlos Moreno
+Caitlin Brenton
+Fiora Fang
+Starline
+Scott Porter
+Janice Ong*, Christian Cramer
+
+*Janice will be the primary Finance approver and Christian as FYI until Starline grads into P&D
+Kate Lee
+John Solomon (P&D), Andrew Nartker (Labs)
+Fiora Fang
+
+--- xl/worksheets/sheet2.xml ---
+[DRAFT / WiP]
+
+RSA Escalation Council
+Deal Type
+RSA 
+Required Approvers
+VP Business:
+Jim Kolotouros & 
+Zahavah Levine
+Conveyor 
+Strategy / Operations 
+Christian Veer
+Finance
+Christian Cramer
+Legal
+Specialists 
+with limited veto as it relates to their topic: 
+Elizabeth Hewitt
+Competition Counsel
+Matthew Bye
+Partner Eng
+TT Ramgopal
+Optional Attendees
+
+(not required, 
+no approval/veto, 
+no obligation to join)
+
+--- xl/worksheets/sheet3.xml ---
+Richard Turner
+Mike Hayes
+Deal Team to present escalation case in case it's complex
+
+RSA Escalation Council
+Android
+Play
+PEX Approvers & Attendees
+go/PEXquorum
+Chrome
+Comms
+Photos
+Wireless
+Marketing DMF/EGF
+Deal Review
+Learning & Education
+Required Approvers
+Quorum Members
+(delegates)
+Jamie Rosenberg
+
+John Solomon
+Sameer Samat (Tian Lim)
+Jamie Rosenberg
+Sanaz Ahari
+Javier Soltero (optional)
+Shimrit Ben-Yair
+Jamie Rosenberg/Milo Medin
+By Product
+Shantanu Sinha
+VP Legal
+VP Legal
+Gavin McGinty
+(Kate Lee)
+Gavin McGinty
+(Kate Lee)
+Gavin McGinty
+(Kate Lee)
+Gavin McGinty
+(Kate Lee)
+Gavin McGinty
+Halimah Del Prado 
+(Lead by product)
+Halimah Del Prado 
+(Gavin McGinty or Ian Wilbur)
+VP Finance:
+Steve Fieler
+(Yuki Richardson)
+Steve Fieler
+(Christian Cramer)
+VP Finance:
+Steve Fieler
+(Eric Kelley)
+VP Finance:
+Steve Fieler
+(Sonal Singhal)
+Steve Fieler
+(Christian Cramer)
+Steve Fieler
+(Lead by product)
+VP Partnerships:
+VP Partnerships:
+VP Partnerships:
+VP Partnerships:
+VP Partnerships:
+VP Partnerships:
+VP Partnerships:
+John Solomon
+Peter Fitzgerald
+Required Attendees
+Compliance
+Jane Sohn
+Jane Sohn
+Compliance
+Compliance
+Compliance
+Compliance
+Jane Sohn
+Sabrina Williams
+Business Controller
+Masha Kourakina (Sang-Hee Park)
+Masha Kourakina (Anthony DiVento)
+Masha Kourakina (Anthony DiVento)
+Masha Kourakina (Anthony DiVento)
+Masha Kourakina (Anthony DiVento)
+Masha Kourakina ((Sang Hee Park))
+Masha Kourakina (Lead by product)
+Conveyor 
+Masha Kourakina
+Anna Kartasheva
+Jon Gold
+Karthik Moorthy
+Adriano Akutsu (ChromeOS)
+Jon Gold
+Brian Lange
+Partner Lead as applicable
+Jon Gold
+Brian Lange
+Jon Gold
+Brian Lange
+Jon Gold
+Brian Lange
+Jon Gold
+Brian Lange
+Jon Gold
+Brian Lange
+Jon Gold
+Brian Lange
+Jon Gold
+Brian Lange
+Top Partner/Priority Partner
+1 SPD/SPM representative
+Top Partner/Priority Partner
+Deal Team
+Specialists 
+(Only Added As Required)
+Compliance maintains a list of specialists by product and function who will be added to the meeting or distribution list as necessary
+Required Specialists with limited veto as it relates to their topic: 
+Product  (if major product implications)
+Android, Wear & Fit: Sameer Samat
+Sameer Samat/Tian Lim (+ Lydia Ash)
+Sanaz Ahari
+Partner Eng (if major implications)
+Partner Eng (if major implications)
+TT Ramgopal
+Jennifer Kwee
+Mari Iwata
+Alwin Chi
+Justin Uberti &/or Utkarsh Srivastava
+Jessica Arthurs
+Assistant
+Assistant
+Assistant
+Assistant
+Meagan Pi (Attendee)
+Jennifer Kwee (Distribution list)
+Mari Iwata (Distribution list)
+Juliana Li (Distribution list)
+Abhi Taneja
+Lucia Marquez
+Verticals/Programs
+Turquoise: Linus Upson
+TV: Shalini GovilPai
+Wear/Fit: Stacy Burr (Fit)
+     Debajit Ghosh (Eng)
+     Bjorn Kilburn (PM)
+Auto: Patrick Brady
+DCB: Mor Ben Efraim
+     Jennifer Kwee
+     Mari Iwata
+     Alwin Chi
+Google One
+Google One
+Google One
+Jim Hutchinson
+Juliana Li
+Google One
+Google One
+Jim Hutchinson
+Juliana Li
+n/a
+Marketing
+Nick Drake/Supriya Gujral
+Brian Lange
+Jen Shen
+Savio Barretto (For A1/mobile deals)
+Nick Drake/Albert Cheng
+Brian Lange
+Katie Gao (Play)
+Aubrey Freeborn (if Marketing on Play/Movies)
+Nick Drake
+Brian Lange
+Jen Shen
+TT Ramgopal
+Nick Drake/Supriya Gujral
+Marvin Chow (Assistant only)
+Brian Lange
+Praveen Poluka (Android/Chrome)
+Katie Gao (Assistant/Play)
+Paige Winter (Assistant)
+Aubrey Freeborn (Assistant & Play/Movies)
+Supriya Gujral (Assistant & Movies/LR)
+(not required, but included on e-mails/meeting invites as optional)
+Jim Kolotouros
+Richard Turner
+Jon Gold
+Mark Bennett (For Chowa deals)
+Purnima Kochikar
+Adrienne McCallister
+Doug Lucas (Payments & Gift Cards)
+Adrienne McCallister
+Sonal Singhal
+Ashish Pimplapure
+Adriano Akutsu
+Akiko Yamada (email dist. only)
+Julie Sheth (email dist. only)
+John Maletis
+Jen Shen (Marketing Finance)
+
+--- xl/worksheets/sheet4.xml ---
+Emma Fish
+(Sang Hee Park)
+Lien Loung
+Nkechi Iheme
+Javier Soltero
+Sergio Abreu
+Esteban Obando
+Carolee Gearheart
+Bryan Lee
+John Vamvakitis
+Kevin Kells
+Lynn Martin
+Kaye Scott
+
+RSA Escalation Council
+Android
+Play
+Deal Briefing Coordination
+Chrome
+Comms
+ChromeOS/Browser
+Photos
+Fi/Connectivity
+ACP DMF
+Deal Review
+Required Approvers
+Quorum Members
+(delegates)
+Quorum Members
+(delegates)
+PEX Approvers
+(delegates)
+John Solomon and/or Anil Sabharwal (John Maletis)
+Anil Sabharwal
+(Matt Klainer, John Maletis, Erik Kay)
+John Solomon and/or Anil Sabharwal (John Maletis)
+Anil Sabharwal
+(Shimrit Ben-Yair)
+Jamie Rosenberg/Milo Medin
+Shantanu Sinha
+Anil Sabharwal
+(Milo Medin)
+Anil Sabharwal
+(Milo Medin)
+Halimah Del Prado 
+(Kate Lee)
+Halimah Del Prado 
+(Chelsea Tanaka)
+Halimah Del Prado 
+(Chelsea Tanaka)
+Halimah Del Prado 
+(Chelsea Tanaka)
+Halimah Del Prado 
+(Chelsea Tanaka)
+Gavin McGinty
+Halimah Del Prado 
+(Gavin McGinty or Ian Wilbur)
+Halimah Del Prado 
+()
+Halimah Del Prado 
+()
+Halimah Del Prado 
+()
+Halimah Del Prado 
+()
+Halimah Del Prado 
+()
+Halimah Del Prado 
+()
+Halimah Del Prado 
+()
+Halimah Del Prado 
+()
+Mike Herring
+(Christian Cramer)
+Attendees Required 
+FP&A
+Yuki
+Shafiq
+FP&A
+Shafiq
+FP&A
+FP&A
+Required Attendees
+Eric
+Eric
+Eric
+Eric
+Eric
+Eric
+Eric
+Eric
+Sabrina Williams
+Masha Kourakina (Lead by product)
+Masha Kourakina (Lead by product)
+Masha Kourakina (Lead by product)
+Masha Kourakina (Lead by product)
+Masha Kourakina (Lead by product)
+Masha Kourakina (Lead by product)
+Masha Kourakina (Lead by product)
+Masha Kourakina (Lead by product)
+Adam Schwarzwald
+As needed
+Attendance Optional (Included in CC)
+Required Attendees
+
+--- xl/worksheets/sheet5.xml ---
+Region
+PEX and PEX+ Approvers and Attendees
+P&D product area
+Product Approver
+Finance Approver
+Legal Approver
+Partnerships Approver
+Other Attendees (non-quorum)
+Marketing Approver (if applicable)
+Deal Governance Advisor (Facilitator)
+Android OS, OEMs, Carriers
+Sameer Samat 
+(+Rick Osterloh for PEX+)
+Cristina Bita
+Myisha Frazier (PEX+)
+Marc Ellenbogen (PEX)
+Ornella Indonie (GDG, GTM)
+Peter Fitzgerald
+Nicholas Drake
+Tom Hargett
+Kara Bailey, Masha Kourakina, Christian Cramer, Jono Wong
+Android Auto
+Joseph Walters
+Chris Phillips
+Masha Kourakina
+Christian Cramer
+Jono Wong
+Android TV
+Joseph Walters
+Shalini GoviPal
+Masha Kourakina
+Christian Cramer
+Anthony Divento
+Jono Wong
+Android Business Communications
+Joseph Walters
+Elmar Weber
+Masha Kourakina 
+Christian Cramer
+Jono Wong
+Android XR
+Joseph Walters
+Shahram Izadi
+Masha Kourakina
+Christian Cramer
+Kara Bailey
+Google Play
+Sam Bright
+Kara Bailey 
+Masha Kourakina 
+Christian Cramer 
+Jono Wong
+
+Kannu Priya
+ChromeOS 
+John Solomon 
+Adriano Akutsu
+Masha Kourakina
+Christian Cramer
+Jono Wong
+Kannu Priya 
+Beam (formerly Starline)
+Josh Woodward
+Adam Barker
+VP Partnerships:
+Ornella Indonie (GDG, GTM)
+Peter Fitzgerald
+Marc Ellenbogen
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Mike Maniker
+G1 / Photos
+Sameer Samat 
+(+Rick Osterloh for PEX+)
+Shimrit Ben-Yair 
+(+Rick Osterloh for PEX+)
+Adrienne Hayes
+Tom Hargett
+Chrome Browser
+Yael Marzan 
+Masha Kourakina 
+Sonal Singhal 
+Jono Wong
+
+Ornella Indonie (GDG, GTM)
+Peter Fitzgerald
+Parisa Tabriz 
+(+Rick Osterloh for PEX+)
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Privacy Sandbox
+Mike Torres
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Ornella Indonie (GDG, GTM)
+Peter Fitzgerald
+Marc Ellenbogen
+Joseph Walters
+
+--- xl/worksheets/sheet6.xml ---
+Anthony Chavez 
+(+Rick Osterloh for PEX+)
+PEX and PEX+ Approvers and Attendees
+PEXpress Approvers and Attendees
+Product Approver
+Finance Approver
+Legal Approver
+Partnerships Approver
+Other Attendees (non-quorum)
+Marketing Approver (if applicable)
+Deal Governance Advisor (Facilitator)
+Kara Bailey
+Product/Strategy Approver
+Christian Cramer (+ Lavanya Swetharanyan for ex-Global deals)
+Yukoh Hammura (non-EMEA); Sam Dollery (EMEA only)
+Ariel Spivak (NAMER only & Global); 
+Jalil Chikhi (EMEA only); Karen Teo (APAC only)
+Menaka Shroff
+Tom Hargett
+Kara Bailey, Masha Kourakina, Christian Cramer, Jono Wong
+Sagar Kamdar - Platform, OEM, Wear
+Christian Veer - Android Growth
+Sang-Hee Park (global) or Katie Zhang (APAC deals)
+Jack Crawczyk (Assistant) - IoT
+Greg Simon (Fuschia)
+Product/Strategy Approver
+Patrick Brady, Jorgen Behrens 
+Adrienne McCallister
+Ariel Spivak (NAMER only & Global); 
+Jalil Chikhi (EMEA only); Karen Teo (APAC only)
+Rina Shah
+Joseph Walters
+Chris Phillips
+Masha Kourakina
+Christian Cramer
+Jono Wong
+Sang-Hee Park (global) or Katie Zhang (APAC deals)
+Product/Strategy Approver
+Shalini GovilPai
+Richard Lee (Platform)
+Rina Shah (Content)
+Ariel Spivak (NAMER only & Global); 
+Jalil Chikhi (EMEA only); Karen Teo (APAC only)
+Jonathan Zepp
+(Purnima Kochikar for Play-led M&E Deals)
+Joseph Walters
+Shalini GoviPal
+Masha Kourakina
+Christian Cramer
+Anthony Divento
+Jono Wong
+Elmar Weber
+Product/Strategy Approver
+Yukoh Hammura
+Anthony Divento
+Ravikant Pandey
+Sang-Hee Park (global) or Katie Zhang (APAC deals)
+Ariel Spivak (NAMER only & Global); 
+Jalil Chikhi (EMEA only); Karen Teo (APAC only)
+Elmar Weber, Kara Bailey
+Ram Jandhyala
+Sang-Hee Park
+Joseph Walters
+Elmar Weber
+Masha Kourakina 
+Christian Cramer
+Jono Wong
+Ariel Spivak
+Product/Strategy Approver
+Patrick Brady, Jorgen Behrens 
+Jonathan Zepp
+Ariel Spivak (NAMER only & Global); 
+Jalil Chikhi (EMEA only); Karen Teo (APAC only)
+Joseph Walters
+Shahram Izadi
+Masha Kourakina
+Christian Cramer
+Kara Bailey
+Sam Bright
+Product/Strategy Approver
+Richard Lee
+Purnima Kochikar
+Shahram Izadi
+Ravikant Pandey
+Anthony Divento (global) or Katie Zhang (APAC deals)
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Kannu Priya
+John Solomon
+Product/Strategy Approver
+Chris Iannuccilli
+Danielle Haas-Lauren
+Bryan Lee (Enterprise)
+Michael Slinger (Consumer)
+Adriano Akutsu
+Sang Hee Park
+Megan Kenny
+Ashish Pimplapure
+Carlos Moreno
+Akiko Yamada (email only)
+Julie Sheth (email only)
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Mike Maniker
+Yael Marzan
+James Croom
+Christian Cramer (+ Lavanya Swetharanyan for ex-Global deals)
+Adrienne McCallister
+Sonal Singhal 
+Alice Repetto
+Tom Hargett
+Chrome Browser
+Mike Torres
+Mike Maigret
+Chris Iannuccilli
+Adrienne McCallister
+Bryan Lee (Enterprise)
+Michael Slinger (Consumer)
+Darby Brennan
+Sang Hee Park
+Shawn Bananzadeh
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Privacy Sandbox
+Anthony Chavez
+Mike Maigret
+Chris Iannuccilli
+Thao Tran
+Bryan Lee (Enterprise)
+Michael Slinger (Consumer)
+Sang Hee Park
+Joseph Walters
+Kannu Priya 
+Michal Reshef
+ Catiling Burke (global) or Katie Zhang (APAC deals)
+
+Andrew Nartker (Labs)
+Chris Iannuccilli
+Matthew Brown (Labs)
+Ariel Spivak (NAMER only & Global); 
+Jalil Chikhi (EMEA only); Karen Teo (APAC only)
+Masha Kourakina
+Mike Maigret
+Jono Wong
+
+--- xl/worksheets/sheet7.xml ---
+Scott Porter (P&D)
+Product
+Business/GTM
+Finance
+Legal
+Product / Strategy
+Marketing (if applicable)
+Other Attendees (non-quorum)
+Compliance - Facilitator
+Android Business Communications (ABC)
+VP Partnerships:
+PEX Quorum Members
+Cristina Bita 
+
+(include Christian Cramer for PEX email approvals
+Ornella Indonie (GDG, GTM)
+Peter Fitzgerald
+)
+Joseph Walters
+Myisha Frazier (del. Kate Lee)
+(include Christian Cramer for PEX email approvals
+Sameer Samat
+Tom Hargett
+Kara Bailey
+Ram Janhyala
+Masha Kourakina 
+(include Christian Cramer for PEX email approvals
+Android OS
+Joseph Walters
+Kara Bailey, Masha Kourakina, Christian Cramer, Jono Wong
+(include Christian Cramer for PEX email approvals
+Kara Bailey 
+Masha Kourakina 
+Jono Wong
+Joseph Walters
+Android TV / Media & Entertainment
+(include Christian Cramer for PEX email approvals
+Shalini GoviPal
+Masha Kourakina
+Tom Hargett
+Play
+(include Christian Cramer for PEX email approvals
+Chris Phillips
+Masha Kourakina (Sang-Hee Park)
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Android Emerging Markets
+(include Christian Cramer for PEX email approvals
+Suzanne Frey
+Christian Veer
+Joseph Walters
+Photos & G1
+Jamie Rosenberg
+Sanaz Ahari
+Javier Soltero (optional)
+
+Kara Bailey
+Masha Kourakina (Anthony Divento global deals; Katie Zhang - APAC deals)
+Tom Hargett
+ChromeOS
+AR/XR
+(include Christian Cramer for PEX email approvals
+Juston Payne 
+Masha Kourakina (Sang Hee Park)
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Chrome Browser
+Masha Kourakina (Caitlin Burke)
+Myisha Frazier
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Privacy Sandbox
+Anthony Chavez
+Myisha Frazier
+Joseph Walters
+EDU
+Bryan Lee
+(include Christian Cramer for PEX email approvals
+Adriano Akutsu
+Masha Kourakina (Sang Hee Park)
+Megan Kenny
+Carlos Moreno
+Alycia Silva
+Julie Sheth
+Mike Daoust (Ent Sales)
+TBC (International EDU)
+Kevin Kells (US EDU)
+Masha Kourakina
+Mike Maigret
+Jono Wong
+Starline
+VP Partnerships:
+Kate Lee
+(include Christian Cramer for PEX email approvals
+Masha Kourakina
+Mike Maigret
+Jono Wong

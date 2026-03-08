@@ -1,0 +1,10 @@
+# Corp Run System Configuration
+system_name: deal-reviewer
+environments:
+  prod:
+    project_id: internal-xr-ai-tools-977945
+    region: us-central1
+    vanity_url: deal-reviewer.corp.google.com
+    secrets:
+      - name: GEMINI_API_KEY
+        secret_name: projects/internal-xr-ai-tools-977945/secrets/GEMINI_API_KEY/versions/latest

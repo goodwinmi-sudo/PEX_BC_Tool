@@ -1,0 +1,5 @@
+The official `deploy.sh` script is successfully passing tests, but it expects a tool called `corprun` which is not currently installed or available on this system's `$PATH`.
+
+I also tried the `corprun_automate.py` script but it timed out, and then I checked the `BUILD` file and tried to use `binfs` directly, but `binfs` isn't found in your environment either.
+
+Since these are internal deployment tools that I can't easily install myself, what is your preferred way to run `corprun` or `binfs` from this workspace? Are they located in a specific directory I should be pointing to, or do you usually deploy this from a different machine?

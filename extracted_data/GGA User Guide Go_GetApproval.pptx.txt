@@ -1,0 +1,215 @@
+Go/GetApproval User Guide
+Spend Workflow
+Controllership: Spend Governance
+Last Updated June 2022 by Julianne Oram
+Enter a short name for you project. 
+If you have several projects of the same type, add the location or 
+timeframe. Example: Networking Equipment Australia Q1’22
+  
+ 
+ 
+Select the category 
+If you do not see an accurate description of your team, select “Other”
+Select the region
+Note that Bay Area is separate from N America. If you do not see a region that applies to you, select “Global”
+Walkthrough: Basics
+Enter a Summary
+ 
+Often used to describe the justification, history, terms, expected outcomes or benefits, spend drivers, IRR, list of items that will be purchased.
+Enter submission name details (optional)
+The name in the project 
+submissions
+ list. 
+Often used to specify a stage if requesting an 
+incremental
+ increase.
+Link to materials URL 
+(optional)
+Additional details 
+(optional)
+You may be asked to provide the 
+country, P-code, F-Code, T-Code, or WBS-Code. All are optional.
+Walkthrough: Details
+Walkthrough: Spend 
+Enter the currency of the spend and the exchange rate per 
+go/fxrates
+ 
+Enter the Spend Breakdown
+Spend should be entered in USD value. A converted value will show up under the table for verification.   
+ 
+Enter the Project Breakdown
+Project Breakdown table is mostly used for REWS and Data Centers
+Click the “Incremental” checkbox for any spend that is and increase to a prior request
+The total in the Current Request Amount column should match the first table total
+ 
+The Incremental checkbox is intended to flag when a project has gone “over budget” from a prior approval
+The Project Visibility checkbox is intended for when a project goes up for visibility approval with the total projected budget
+Enter notes (optional)
+Walkthrough: Spend 
+Select the month and year you plan to be ready to seek approval.
+ 
+Enter the employees leading the request
+This often includes your manager
+Representatives will receive an email notification upon submission. 
+Enter stakeholders 
+This can include TVCs
+Walkthrough: Logistics 
+Review the information you have entered and click “Submit” at the bottom of the page.
+Make sure your manager is aware of the 
+request
+. They will often be looped in for context and questions.
+Do not initiate any POs until the request is approved.
+Submit!
+After Submission
+After Submission
+The outcome of the spend review meetings will be announced via email by the forum manager on the Deal & Spend Governance team to the submitter, representatives listed on the submission, finance, and deal_review (for centralized SOX documentation). 
+The GGA submission must be approved before you can raise a Appropriations Request (AR) or Purchase Order PO.
+Your project turning out to be more 
+expensive
+ than the amount that was approved? You can enter another submission referencing the original request. Keep in mind the increase will need to be approved by the highest authority again. For example, if the initial request was $110 million and you are requesting a $20 
+million
+ increase, the increase will need to be 
+reviewed
+ by the CFO.
+If you need to edit your record after submission, this is your opportunity to work with your spend governance advisor. Please email 
+spend-governance@google.com
+ with any changes.
+Please avoid making any changes to your prepared slides/document after submission
+You can see a list of your previous 
+submissions
+, their status, and edit saved drafts.
+You can search for submissions by spend category, date range, and other fields by clicking the carrot on the search bar
+To pull information from the tool via Plx, use the table rmc_spendgov.spendapproval_all
+Checking In
+Contact 
+spend-governance@google.com
+ for help with any issues from the Risk Management & Compliance team.
+If the “Next” button is greyed out, try clicking “Back” and then “Next” again. Remember to write down any information in a separate doc in case the fields are cleared.
+Tool Issues
+Some Reminders:
+GGA go/getapproval is for all spend requests over $50 million 
+Check 
+deadlines
+ 
+for your specific forum
+Any materials in drive should be shared with the executives that will review it. Including the CEO, CFO, and VP of Finance. Please uncheck “Notify people” so they are not sent an email.
+ 
+Contents
+2
+Preparing Information
+1
+Why GGA?
+Tool Walkthrough
+3
+After Submission
+4
+Backup
+To submit feedback: 
+go/getapprovalchange
+For more info about the tool & FAQ: 
+go/rmc
+To contact the Risk Management & Compliance team: 
+go/rmchelp
+Links
+Tool last revamped in 2020
+Tool is not connected to contracts or spend through Pivt or Simba
+Tool information
+Workflow
+ and stakeholder interviews
+Buganizer 
+component
+ for GGA spend workflow
+UAT environment 
+https://getapproval-test.googleplex.com/
+Additional Information
+Why?
+Why Should I Submit to Go/GetApproval?
+GGA
+Formal. An official 
+record of approval 
+will be created for requests that go to Spend Forums or Spend Approval Committee SAC.
+Executive 
+visibility
+. Any project over $50 million USD value should be submitted to GGA (excluding recurring opex such as a utility fee or payroll).
+Efficient. The tool steps you through the 
+workflow
+ in one place.
+Requests
+ were managed with a trix that could not 
+scale
+ with the volume and complexity of a $250 billion company.
+Stakeholder
+ communication
+ was manual as stages progressed. This is now automated.
+Confidential
+. Access to a project can be restricted to users by business department.
+ 
+Without 
+GGA
+Failure to submit your request in go/getapproval will result in a delay in AR/PR approval
+Preparing Information
+Submit in advance.
+Submit your GGA form at least 5 business days prior to the review meeting you plan to have your deal/project reviewed in 
+go/sacschedule
+. Reach out to 
+spend-governance@google.com
+ to get on the agenda. Prior to the meeting, circulate your presentation with cross-functional stakeholders and your team & manager(s) for informal approval.
+Prepare outside materials.
+Staff often have slides or a doc with in-depth information about the deal/project. There may be a 
+template
+ 
+you can use. For each escalation round, (example from CFO to CEO) expect to up-level your presentation. Focus on your executive summary to hit 
+important
+ high level points.
+Prior to opening a submission, gather the information you’ll need.   
+Make a list of the project stakeholders. Which staff and TVCs should be notified of the project approval status? When do you need approval by? Lastly, have an estimate of the finances of the project, which year the money will be spent in, if it is capital expenditure or operating expenses.
+Prepare Information
+Learn about Google’s Commitment Policy and approval rules. 
+Visit 
+go/spendpolicy
+ and 
+go/sacfaq
+ to read about Google’s policies on signing contract agreement and spending money. 
+Tool 
+Walkthrough
+Basics
+Details
+Spend
+Logistics
+Project name 
+Category
+Region
+Summary
+Submission name
+URL link to materials 
+Currency
+Fx rate
+Increm
+ental flag
+Spend breakdown
+Year
+Type: CapEx, Opex, Inventory, Other
+Notes
+Approval timing
+Request representatives
+Stakeholders 
+GGA Tool Overview
+Go to g
+o/
+g
+et
+a
+pproval 
+ 
+Select the 
+Deal
+ or 
+Spend
+ flow
+Note: Once you start entering information, a draft record may be created. Do not rely on real-time saving, keep a separate record of your answers. Often data is saved when you click “Next” on a page and a notification will appear at the bottom of the screen. However, clicking “Back” will clear any information you entered on that screen.
+If you no longer wish to submit, 
+delete your request on the 
+recent submissions
+ page.
+   
+GGA Tool Walkthrough

@@ -1,0 +1,378 @@
+2026-03-08 03:21:41,123 - services.secrets_manager - INFO - [SecretManager] Failed to fetch secret pex-bc-flask-secret-key: 504 Deadline Exceeded
+2026-03-08 03:21:41,123 - services.ai_engine - INFO - [AI Bouncer] Resolving latest available Gemini Pro model...
+2026-03-08 03:21:41,172 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-08 03:21:41,184 - services.ai_engine - INFO - [AI Bouncer] Fallback: gemini-3.1-pro-preview unavailable via Vertex AI (global). Reason: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token?scopes=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97e0550>)
+2026-03-08 03:21:41,184 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-08 03:21:41,192 - services.ai_engine - INFO - [AI Bouncer] Fallback: gemini-3.1-pro-preview unavailable via Vertex AI (us-central1). Reason: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token?scopes=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf9a235c0>)
+2026-03-08 03:21:41,192 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-08 03:21:41,197 - services.ai_engine - INFO - [AI Bouncer] Fallback: gemini-3.0-pro unavailable via Vertex AI (global). Reason: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token?scopes=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf998a360>)
+2026-03-08 03:21:41,198 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-08 03:21:41,203 - services.ai_engine - INFO - [AI Bouncer] Fallback: gemini-3.0-pro unavailable via Vertex AI (us-central1). Reason: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token?scopes=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97c9150>)
+2026-03-08 03:21:41,203 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-08 03:21:41,209 - services.ai_engine - INFO - [AI Bouncer] Fallback: gemini-2.5-pro unavailable via Vertex AI (global). Reason: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token?scopes=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97667b0>)
+2026-03-08 03:21:41,209 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-08 03:21:41,216 - services.ai_engine - INFO - [AI Bouncer] Fallback: gemini-2.5-pro unavailable via Vertex AI (us-central1). Reason: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token?scopes=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97797f0>)
+2026-03-08 03:21:41,216 - services.ai_engine - INFO - [AI Bouncer] ALL targets failed across all providers. Falling back to default gemini-2.5-pro.
+2026-03-08 03:21:41,246 - grpc._plugin_wrapping - ERROR - AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x7f6cf9a09310>" raised exception!
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 142, in _perform_refresh_token
+    self.token, self.expiry = _metadata.get_service_account_token(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        request, service_account="default", scopes=scopes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 501, in get_service_account_token
+    token_json = get(request, path, params=params, headers=metrics_header)
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 386, in get
+    raise exceptions.TransportError(
+    ...<5 lines>...
+    )
+google.auth.exceptions.TransportError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf9992090>)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/grpc/_plugin_wrapping.py", line 105, in __call__
+    self._metadata_plugin(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        context, _AuthMetadataPluginCallback(callback_state, callback)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 93, in __call__
+    callback(self._get_authorization_headers(context), None)
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 79, in _get_authorization_headers
+    self._credentials.before_request(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._request, context.method_name, context.service_url, headers
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 230, in before_request
+    self._blocking_refresh(request)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 193, in _blocking_refresh
+    self.refresh(request)
+    ~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 367, in refresh
+    self._perform_refresh_token(request)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 147, in _perform_refresh_token
+    raise new_exc from caught_exc
+google.auth.exceptions.RefreshError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf9992090>)
+2026-03-08 03:21:42,325 - grpc._plugin_wrapping - ERROR - AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x7f6cf9a09310>" raised exception!
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 142, in _perform_refresh_token
+    self.token, self.expiry = _metadata.get_service_account_token(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        request, service_account="default", scopes=scopes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 501, in get_service_account_token
+    token_json = get(request, path, params=params, headers=metrics_header)
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 386, in get
+    raise exceptions.TransportError(
+    ...<5 lines>...
+    )
+google.auth.exceptions.TransportError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf9a3e150>)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/grpc/_plugin_wrapping.py", line 105, in __call__
+    self._metadata_plugin(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        context, _AuthMetadataPluginCallback(callback_state, callback)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 93, in __call__
+    callback(self._get_authorization_headers(context), None)
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 79, in _get_authorization_headers
+    self._credentials.before_request(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._request, context.method_name, context.service_url, headers
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 230, in before_request
+    self._blocking_refresh(request)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 193, in _blocking_refresh
+    self.refresh(request)
+    ~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 367, in refresh
+    self._perform_refresh_token(request)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 147, in _perform_refresh_token
+    raise new_exc from caught_exc
+google.auth.exceptions.RefreshError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf9a3e150>)
+2026-03-08 03:21:43,820 - grpc._plugin_wrapping - ERROR - AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x7f6cf9a09310>" raised exception!
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 142, in _perform_refresh_token
+    self.token, self.expiry = _metadata.get_service_account_token(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        request, service_account="default", scopes=scopes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 501, in get_service_account_token
+    token_json = get(request, path, params=params, headers=metrics_header)
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 386, in get
+    raise exceptions.TransportError(
+    ...<5 lines>...
+    )
+google.auth.exceptions.TransportError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97e6710>)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/grpc/_plugin_wrapping.py", line 105, in __call__
+    self._metadata_plugin(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        context, _AuthMetadataPluginCallback(callback_state, callback)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 93, in __call__
+    callback(self._get_authorization_headers(context), None)
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 79, in _get_authorization_headers
+    self._credentials.before_request(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._request, context.method_name, context.service_url, headers
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 230, in before_request
+    self._blocking_refresh(request)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 193, in _blocking_refresh
+    self.refresh(request)
+    ~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 367, in refresh
+    self._perform_refresh_token(request)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 147, in _perform_refresh_token
+    raise new_exc from caught_exc
+google.auth.exceptions.RefreshError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97e6710>)
+2026-03-08 03:21:48,107 - grpc._plugin_wrapping - ERROR - AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x7f6cf9a09310>" raised exception!
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 142, in _perform_refresh_token
+    self.token, self.expiry = _metadata.get_service_account_token(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        request, service_account="default", scopes=scopes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 501, in get_service_account_token
+    token_json = get(request, path, params=params, headers=metrics_header)
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 386, in get
+    raise exceptions.TransportError(
+    ...<5 lines>...
+    )
+google.auth.exceptions.TransportError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf9a4fbf0>)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/grpc/_plugin_wrapping.py", line 105, in __call__
+    self._metadata_plugin(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        context, _AuthMetadataPluginCallback(callback_state, callback)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 93, in __call__
+    callback(self._get_authorization_headers(context), None)
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 79, in _get_authorization_headers
+    self._credentials.before_request(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._request, context.method_name, context.service_url, headers
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 230, in before_request
+    self._blocking_refresh(request)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 193, in _blocking_refresh
+    self.refresh(request)
+    ~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 367, in refresh
+    self._perform_refresh_token(request)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 147, in _perform_refresh_token
+    raise new_exc from caught_exc
+google.auth.exceptions.RefreshError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf9a4fbf0>)
+2026-03-08 03:21:54,878 - grpc._plugin_wrapping - ERROR - AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x7f6cf9a09310>" raised exception!
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 142, in _perform_refresh_token
+    self.token, self.expiry = _metadata.get_service_account_token(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        request, service_account="default", scopes=scopes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 501, in get_service_account_token
+    token_json = get(request, path, params=params, headers=metrics_header)
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 386, in get
+    raise exceptions.TransportError(
+    ...<5 lines>...
+    )
+google.auth.exceptions.TransportError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97fbc50>)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/grpc/_plugin_wrapping.py", line 105, in __call__
+    self._metadata_plugin(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        context, _AuthMetadataPluginCallback(callback_state, callback)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 93, in __call__
+    callback(self._get_authorization_headers(context), None)
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 79, in _get_authorization_headers
+    self._credentials.before_request(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._request, context.method_name, context.service_url, headers
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 230, in before_request
+    self._blocking_refresh(request)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 193, in _blocking_refresh
+    self.refresh(request)
+    ~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 367, in refresh
+    self._perform_refresh_token(request)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 147, in _perform_refresh_token
+    raise new_exc from caught_exc
+google.auth.exceptions.RefreshError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97fbc50>)
+2026-03-08 03:22:06,178 - grpc._plugin_wrapping - ERROR - AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x7f6cf99f46e0>" raised exception!
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/grpc/_plugin_wrapping.py", line 105, in __call__
+    self._metadata_plugin(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        context, _AuthMetadataPluginCallback(callback_state, callback)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 93, in __call__
+    callback(self._get_authorization_headers(context), None)
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 79, in _get_authorization_headers
+    self._credentials.before_request(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._request, context.method_name, context.service_url, headers
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 230, in before_request
+    self._blocking_refresh(request)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 193, in _blocking_refresh
+    self.refresh(request)
+    ~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 367, in refresh
+    self._perform_refresh_token(request)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 142, in _perform_refresh_token
+    self.token, self.expiry = _metadata.get_service_account_token(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        request, service_account="default", scopes=scopes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 490, in get_service_account_token
+    cert = _agent_identity_utils.get_and_parse_agent_identity_certificate()
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/_agent_identity_utils.py", line 151, in get_and_parse_agent_identity_certificate
+    cert_path = get_agent_identity_certificate_path()
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/_agent_identity_utils.py", line 122, in get_agent_identity_certificate_path
+    raise exceptions.RefreshError(
+    ...<4 lines>...
+    )
+google.auth.exceptions.RefreshError: Certificate config or certificate file not found after multiple retries. Token binding protection is failing. You can turn off this protection by setting GOOGLE_API_PREVENT_AGENT_TOKEN_SHARING_FOR_GCP_SERVICES to false to fall back to unbound tokens.
+2026-03-08 03:22:22,428 - grpc._plugin_wrapping - ERROR - AuthMetadataPluginCallback "<google.auth.transport.grpc.AuthMetadataPlugin object at 0x7f6cf9a09310>" raised exception!
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 142, in _perform_refresh_token
+    self.token, self.expiry = _metadata.get_service_account_token(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        request, service_account="default", scopes=scopes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 501, in get_service_account_token
+    token_json = get(request, path, params=params, headers=metrics_header)
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/_metadata.py", line 386, in get
+    raise exceptions.TransportError(
+    ...<5 lines>...
+    )
+google.auth.exceptions.TransportError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97a5160>)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/grpc/_plugin_wrapping.py", line 105, in __call__
+    self._metadata_plugin(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        context, _AuthMetadataPluginCallback(callback_state, callback)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 93, in __call__
+    callback(self._get_authorization_headers(context), None)
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/transport/grpc.py", line 79, in _get_authorization_headers
+    self._credentials.before_request(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._request, context.method_name, context.service_url, headers
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 230, in before_request
+    self._blocking_refresh(request)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 193, in _blocking_refresh
+    self.refresh(request)
+    ~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/credentials.py", line 367, in refresh
+    self._perform_refresh_token(request)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/google/auth/compute_engine/credentials.py", line 147, in _perform_refresh_token
+    raise new_exc from caught_exc
+google.auth.exceptions.RefreshError: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97a5160>)
+2026-03-08 03:22:22,430 - services.secrets_manager - INFO - [SecretManager] Failed to fetch secret pex-bc-flask-secret-key: Timeout of 60.0s exceeded, last exception: 503 Getting metadata from plugin failed with error: ('Failed to retrieve http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token from the Google Compute Engine metadata service. Status: 404 Response:\nb\'"No service account scopes specified."\'', <google.auth.transport.requests._Response object at 0x7f6cf97a5160>)
+2026-03-08 03:22:22,436 - routes.tasks - INFO - [Background Worker] Starting continuous PEX Simulation staging queue processing.
+2026-03-08 03:22:22,437 - routes.tasks - INFO - [Generator Worker] Starting continuous AI Deck Generation processing.
+/usr/local/google/home/goodwinmi/PEX_BC_Tool/routes/tasks.py:39: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  job_query.add_filter('status', '=', 'queued')
+/usr/local/google/home/goodwinmi/PEX_BC_Tool/routes/tasks.py:323: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  job_query.add_filter('status', '=', 'queued')
+Traceback (most recent call last):
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/app.py", line 91, in <module>
+    init_app(app)
+    ~~~~~~~~^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/routes/__init__.py", line 5, in init_app
+    from routes.views import views_bp
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/routes/views.py", line 14, in <module>
+    @views_bp.route('/')
+     ~~~~~~~~~~~~~~^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/flask/sansio/scaffold.py", line 46, in wrapper_func
+    self._check_setup_finished(f_name)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/usr/local/google/home/goodwinmi/PEX_BC_Tool/venv/lib/python3.13/site-packages/flask/sansio/blueprints.py", line 215, in _check_setup_finished
+    raise AssertionError(
+    ...<5 lines>...
+    )
+AssertionError: The setup method 'route' can no longer be called on the blueprint 'views'. It has already been registered at least once, any changes will not be applied consistently.
+Make sure all imports, decorators, functions, etc. needed to set up the blueprint are done before registering it.

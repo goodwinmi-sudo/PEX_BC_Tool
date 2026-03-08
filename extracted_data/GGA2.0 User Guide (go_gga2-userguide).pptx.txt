@@ -1,0 +1,615 @@
+For questions please check out our 
+chat bot,
+ or reach out to gga-support@ 
+Go/Getapproval2 User Guide
+go/gga2-userguide
+go/gga2-chatbot
+Updated: March 2025
+Deal initiator’s name will be automatically added to Deal initiator as well as the primary presenter 
+Add/edit primary presenters 
+Add deal contributors 
+Add stakeholders (note, you can add additional stakeholders, but you cannot delete those added by 
+default) 
+Deal approvers, set by the forum advisor, cannot be edited by any user except advisor.
+Helpful Hints:
+When a stakeholder is added, they receive an FYI email that they have been added to the deal 
+Click on the help text for more information on which stakeholder to add based on the region of the deal (If you are unsure who to add, please reach out to your forum advisor) 
+Create New Deal: Contributors 
+Create New Deal: Details 
+Complete
+ all deal 
+details
+ (Note, you are able to progress to the 
+next section after only completing 
+required
+ fields) 
+Helpful Hints:
+Majority of inputs will be optional fields, however, will be required to be completed prior to submitting for approval
+Deal details will vary by forum
+Current details questions align to the legacy go/getapproval tool for initial launch (advisors can add, update, or remove questions as required) 
+GPX Only
+For renewals, deal teams need to provide a snapshot of Deal Performance from go/sellside-deals-attainment. 
+Make sure your response includes: Deal Target ($m), Projected Attain. (%), Projected Gap ($m) and the URL to the dashboard filtered for your deal (just copy from the browser).
+Here
+ is a visual guide on how to filter the dashboard for your deal, and where to find required information. 
+Create New Deal: Files 
+Click “Add File”
+Enter description and link
+Repeat for as many files that you would like to include with the submission
+Helpful Hints:
+Use this section to include links to live documents (e.g. trix’s, slides, docs) to support the deal approval request
+Make sure to share document with all stakeholder, approvers, and deal collaborators 
+Create New Deal: Summary 
+Review all deal inputs 
+If all details are complete and ready for 
+stakeholder
+ feedback, click “Submit for Feedback,” otherwise, select “Edit Deal Deals”
+Helpful Hints:
+When you click “edit deal details” you will be able to edit all 
+details that were previously entered. You can also add contributors / stakeholders and reschedule meeting if needed (see next steps for more details) 
+Create New Deal: Draft (Details)
+Review all deal inputs and update as needed
+Click down arrow to open deal details
+Click right arrow to collapse comments
+Add comments and tag others as needed 
+Helpful Hints:
+Only the forum advisor can toggle “off” 
+the live meeting thereby switching this to an email approval, if
+ 
+decided that the deal does not require a live meeting
+Click
+ arrow down to see deal details 
+Click arrow right to 
+collapse
+ comments
+1
+2
+3
+4
+Add comments and tag people as needed 
+Helpful Hints:
+If the person you tag in a 
+comment is not part of the deal (e.g. contributor, stakeholder, or approver) you will first need to add them to a role within the deal (under the contributors section) before they will have access to the deal
+Create New Deal: Draft (Details) Comments
+If you need to update day/time, click “Reschedule Meeting” 
+Select new time
+Click “Book a Timeslot”
+Helpful Hints:
+Only advisors can move meeting from live to 
+email
+ approval. 
+If you would like to move it to email approval, reach out to your compliance advisor (go/whichadvisor)
+If it is rescheduled prior to “Submit for Feedback” only collaborators and advisors will receive email notification
+If it is rescheduled after “Submit for Feedback” stakeholders will also be notified 
+Create New Deal: Draft (
+Reschedule
+ Meeting)
+Add or remove presenters and 
+collaborators
+Add additional stakeholders 
+Review approvers 
+Helpful Hints:
+You can add/remove collaborators and presenters 
+You can add stakeholders, but you cannot remove them
+You cannot add or remove approvers 
+Click on the help text for guidance on which stakeholders to add based on the product / regions 
+Create New Deal: Draft (Contributors)
+Collapse / expand as needed 
+Add/ Remove files as needed 
+Helpful Hints:
+Ensure you share any files with the deal team, collaborators, stakeholders, and approvers 
+Create New Deal: Draft (
+Files
+)
+Once all details are ready for 
+stakeholder
+ feedback, click “Submit for Feedback”
+Helpful Hints:
+“Submit for feedback” once all the deal details are complete
+Deal team and advisor have ability to submit for stakeholder feedback
+Stakeholders will receive email notification that deal details are complete and ready for their review and feedback
+Create New Deal: Draft (Submit for Feedback)
+Table of Contents
+Objective
+Roles 
+Deal Submission and Review Process 
+Create New Deal 
+Logistics 
+Timebooking
+Contributors
+Details
+Files
+Submit for Feedback
+Submit for Approval
+The Outcome  
+Links and Resources 
+Reporting
+Advisor Features
+Add / update forum 
+Add users to edit post submitted for approval
+Submit for Feedback
+02
+Draft 
+Submit for Feedback
+Submit for Approval
+The Outcome
+Submit For Feedback
+Click “submit for feedback”
+Stakeholders receive email notification 
+Stakeholders click “Open Deal”
+Stakeholder review deal, add comments, and provide feedback 
+Helpful Hints:
+The deal doc can be edited during stakeholder feedback stage (it will be locked after ‘submit for approval’)
+Stakeholders can add comments in the doc, however, once it is submitted for approval, the doc will be locked
+Review deal details 
+Select “supportive,” “supportive with conditions,” or “unsupportive” 
+Add pros/cons
+Click Save 
+Helpful Hints:
+If there are multiple stakeholders for one functional area, feedback is only required by one person
+If an alias is added as a stakeholder, someone from that email alias must provide feedback 
+All functional areas must have stakeholder feedback before it is ready for advisor review 
+Submit For Feedback
+Submit for Approval
+03
+Draft 
+Submit for Feedback
+Submit for Approval
+The Outcome
+Advisor reviews the deal for completion (deal details and stakeholder feedback)
+Advisor c
+licks “Submit for Approval” o
+nce deal details and stakeholder feedback is complete 
+Advisor will update / complete meeting agenda and send email to Approvers and the deal team
+Helpful Hints:
+Only advisor can click “Submit for Approval”
+The ‘submit for approval’ email agenda language can be modified for each respective forum
+In future 
+release, ‘bulk agenda’ feature will be implemented. The advisor will be able to select multiple deals and it will draft the email agenda with all deals that will be reviewed at the next meeting in one email draft. 
+Submitted For Approval (Forum Advisor Step)
+Advisor to add meeting minutes and action items from live meeting discussion  
+Approvers open tool and click ‘approve’ 
+(advisor can complete this on approvers 
+behalf
+ during live meeting) 
+Helpful Hints:
+We are encouraging approvers to go into tool to click ‘approve,’ however, advisors can complete on 
+their
+ 
+behalf 
+If approvers do not approve, they can select approve with conditions, or reject
+Submitted For Approval (Live meeting) 
+If Advisor 
+confirms that live meeting is not required and email approval is sufficient, then advisor will toggle the “live meeting” button off
+Email notification will be sent to forum that meeting has been removed from calendar and deal will be sent for email approval 
+Advisor will send out email with deal details (or multiple deals if necessary)
+Approver has two options:
+Respond to email “Approve” (Advisor will approve in tool on their behalf, attaching the email approval to the associated deal) 
+Click into tool and click approve
+Submitted For Approval (Offline approval) 
+Once the deal has been submitted for approval the deal details will be locked for editing, except for Advisors and tool Admins
+However, if a change is required, the Advisor can grant a deal team member temporary access by adding their ldap within the contributors tab “Edit Access after Submitted for Approval / Approved Status” 
+Once added, the user will be assigned for a certain 
+amount
+ of time. The advisors can edit the expiration date, and/or 
+remove
+ the access manually
+Edit Deal Once in “
+Submitted
+ for Approval” 
+The Outcome
+04
+Draft 
+Submit for Feedback
+Submit for Approval
+The Outcome
+Approved → deal team is good to move forward, no 
+additional
+ action required 
+Approved with Gating AI → Deal team must complete AI’s 
+prior
+ to deal being formally approved 
+Rejected → Deal cannot move forward; If deal team would like to re-submit with new terms, they can resubmit a new deal (note, they can use “Previous Submission” to quickly create deal details with prior submission populated 
+Helpful Hints:
+Once approved (or rejected) everyone from the deal team will 
+receive
+ 
+notification
+Only the advisor can click ‘approve.’ All other users, it will be greyed out button 
+Status will update from “The outcome” to approve
+The Outcome
+Email notification
+Objective
+Goal
+The goal of this document is to provide users a step by step guide for navigating the new Go/GetApproval2 tool.
+What Does This User Guide Include: 
+Step by steps instructions 
+Tool features and functionality
+Helpful hints
+Key links 
+There are a few scenarios when a deal team may need to take the deal back to the forum for approval:
+The deal is 
+renegotiated
+ and terms have changed
+Forum rejects portion, or all of deal and ask them to come back after it has been reworked
+Helpful Hints:
+When using ‘use previous submission button, all 
+information
+ will be populated, however, you can only use previous 
+submissions
+ from GGA2.0 (Deals from legacy go/getapproval will not be converted) 
+When using previous 
+submission, it will copy over deal details (not feedback or files)
+The Outcome
+: Changes Post Approval 
+Links and Resources 
+Links and Resources 
+Testing 
+go/gga2-test 
+UAT Kick off deck 
+UAT Demo 
+Communications 
+Log Bugs and Feature Requests 
+Training 
+go/gga2-userguide (this document) 
+Communications 
+Project Site go/gga2faq
+Reporting
+Reporting is now 
+available
+ - Check out the project site (gga2faq) under the reporting tab for more information, or to go directly to the dashboard: 
+go/gga2reporting 
+(note access request may be required)
+Reporting
+Reporting Access Request
+ 
+Please request access to the reporting data using the steps outlined on the project site (under Access tab) 
+Advisor
+ Features 
+Global Questions
+Universal Questions 
+Forum Templates 
+Forum 
+Calendar Settings
+Blocking Calendar time
+Global Questions 
+Search in Global Questions 
+We need to avoid the same question listed multiple times within the Global questions list 
+Search global question list to ensure your question doesn’t already exist 
+To add a new global question to the question bank, select, “add a global question” which will open a buganizer component to submit a question to the admins to add 
+Helpful Hints:
+Only Admins can add global questions. The purpose of gating questions through the admins is to ensure we are not repeating questions that already exist 
+All questions from your forum will be added to the global question list at go-live
+Add Help Text to Question or Stakeholder 
+Helpful Hints 
+Add help text to questions or stakeholders to provide additional guidance to users on how to answer / input answer 
+To update help text in question:
+Go to Forum > Forum questions > Click into Question 
+To update help text in a stakeholder / contributor box
+Go to forum > Contributor Types > Click into contributor 
+Universal Questions
+Helpful Hints 
+Universal questions are present on ALL forum. This will include 
+questions
+ such as:
+Reason for escalation, ask, etc. 
+You can confirm which questions are global questions by checking the 
+question
+ bank 
+Required Template Questions
+Here is the list of required questions for every forum:
+Does this deal include any financial commitments, product 
+implications
+, or internal competition (offering or partnering with a service or product that competes with one of Google’s products) with other product areas
+If you’ve answered yes, what additional Product Areas are implicated (select all that apply) 
+Does this deal include marketing or co-marketing activities funded by a Marketing cost center?
+Does your request directly or indirectly implicate a Top Strategic Partner list at go/toppartners, involve a Customer listed at go/xpadealwatchlist, OR a Priority Partner (for your PA)
+Is this deal with the customer/partner being negotiated jointly or in conjunction with another deal with the customer/partner in a separate product area? 
+Does 
+this
+ deal commit Alphabet to spend money with or for this partner? 
+I am the 
+advisor
+ of the forum.
+I can make updates to the tool but am “not an engineer” for any technical updates.
+I review the deal 
+details
+ and stakeholder feedback to arrive at my decision to approve or not the request submitted.
+Deal Initiator
+Deal Team/ Contributor
+Stakeholder
+Forum Advisor
+Approver
+Tool Admin
+I create new deal in the tool.
+I am either part of the deal team or help the deal team put the business case 
+together
+.
+I review the deal details and provide my feedback.
+User Roles
+For access to a deal please reach out to the deal team or advisor (go/whichadvisor)
+Go to forum template > click add template
+Name Template
+Add template questions (add questions must first be added to Global Question List)
+Add contributors types 
+Helpful Hints:
+Majority of the forums can leverage the generic forum template (for example, you may not need to create a specific forum template for each forum)
+Forum templates will have universal questions pre-populated. You can add additional questions at the forum level 
+Adding forum template questions will require all forums that leverage that template to include those questions 
+Create Forum Template
+Go to forums > click add forum
+Select template to build off of 
+Complete all forum details 
+Helpful Hints:
+Important! Due to tech limitations, Template can NOT be changed after Forum was created. Please pay attention when you’re choosing the template
+Create Forum 
+Enable Meetings in General Settings 
+Go to Appointment 
+calendar
+ settings and copy in calendar ID (Note this is the same ID associated with ALL forums - GGA2.0 
+calendar; however, you can set up your own calendar ID if you prefer) 
+To set up calendar ID: 
+Create new calendar
+You must share calendar with the address below:  
+dealreview.google.com@appspot.gserviceaccount.com
+ > ensure this group has full access (note the staging environment has a different address. Please see notes section for details.
+Copy 
+calendar ID 
+in the Meeting Calendar ID in GGA2.0 (under appointment calendar settings) 
+Create time slots on the Google calendar (see following slide for steps) 
+Note once deals are created you cannot change the meeting calendar ID
+Check out the step by step recording 
+here 
+Add Calendar to 
+Forum
+ 
+Add / Remove Calendar Time slots
+Ensure you are added to the GGA2.0 Calendar 
+Add Google Meet video conferencing
+Add standing guests 
+Go to calendar and create meeting
+The first 2 letters in invite name must match the forum code
+Set up the recurring calendar invite for the day / time of your forum 
+Ensure you are using GGA2.0 
+Calendar
+ 
+No need to add guests (they will be added based on forum settings) 
+Click save 
+Appointment Calendar Settings
+Cancel or Move Meetings
+Ensure you have the ability to move/cancel the meetings for the calendar.
+Setting should be on “Make changes and manage sharing”
+Ensure GGA2.0 Ads and Partnerships calendar is added under ‘my calendars’
+You will see 2 invites on your calendar. One is related to the shared calendar invite and one is on your personal calendar. 
+Please make sure you are moving/ updating/ cancelling the ‘orange’ meeting to reflect the changes for all the invitees. 
+How to cancel or move meetings submitted to a calendar through GGA2.0 Slot
+Block
+ Time for being booked by users 
+Use case: blocking last meeting of the year so deal teams cannot book, however, you want to keep the time on forum approvers calendars 
+To remove ability for any user to block time within go/getapproval, but keep the time on advisor calendar:
+Go to Google Calendar 
+Update the name of the timeslot to REMOVE the forum code 
+In the example, to the right, remove “GA” from the invite (note the next two letters cannot also start with GA (For example, if the forum code was GM and the next part of the invite is GMX, it will still show available) 
+If you need to re-enable the meeting, add back the forum code, and it will then be 
+available
+ to book time. 
+Blocking Calendar Time 
+Scheduling
+ “placeholder” 
+Use case: Advisor wants to book meeting 6+ out as placeholder to review deal, or wants to schedule time 
+Create new deal 
+Advisor to submit deal with title of what you are blocking time for (e.g. program review, deal look-back, etc.) 
+Advisor to update deal details as need (e.g. N/A for 
+mandatory
+ fields, etc.) 
+Advisor
+ can move to ‘
+stakeholder
+ feedback, or approver feedback without 
+stakeholders
+ completing comments 
+Note: 
+stakeholders
+ will receive standard emails, however, title of ‘deal/program’ should be descriptive 
+enough
+ to allow them know if their feedback is truly required or not. 
+Blocking Calendar Time 
+Add Reasons for Escalation, Organization options, or reason for 
+escalation
+ 
+Within the “Forums”>
+ go to General Settings 
+Scroll to Product Options 
+Type item you would like to add
+If it already exists, select from drop down
+If it doesn’t already exists, type it and click ‘enter’
+Editing / Adding Reasons for 
+Escalation
+, Org, and Product Options 
+Admin Features
+Admin guide
+Access 
+Admin Access 
+To get admin access, user must be added to Gapanti Group:
+Test instance admins DR 2.0
+Test instance admins DR 1
+Prod instance admins
+Advisor Access
+User should be assigned as Advisor at least in 1 forum 
+within
+ the go/getapproval2 tool by the admin
+Deal Lifecycle
+Submit New Deal
+Create new deal 
+When you create a new deal, it will be in ‘draft’ status. At this point the deal initiator selects booking time, enters deal details, and adds collaborators, 
+stakeholders
+. 
+Submit for Feedback
+Once the deal is ready for cross functional feedback, 
+the deal team will click ‘submit for feedback’
+. At this point, 
+stakeholders
+ will be 
+notified
+ via email that the deal is ready for 
+their
+ feedback.
+Submit for Approval
+The Outcome
+Action items, meeting notes, and feedback will be documented in the tool. Once all gating AI’s, if any, have been closed, the 
+advisor
+ will mark the deal as approved. If the deal is not approved, the advisor will mark deal as rejected. 
+Deal Outcome!
+Once the deal details are finalized and stakeholder feedback is complete, 
+ONLY
+ 
+the Advisor(s) can click ‘submit for approval.’
+ The outcome will be either during a live meeting, or email approval. 
+In the following slides, we will walk through step by step guide for each stage in the process
+Global Questions 
+All Global questions must be added by admin to ensure consistency across forums 
+See advisor features for steps to request new global questions 
+Universal Questions 
+Universal questions are questions that are added to all forums by default (e.g. Region, Ask, etc.) 
+To edit universal questions, admin can go to the global question bank and select, or unselect a question as a universal question
+Global and Universal Questions 
+TVC Access 
+Request approval from your FTE manager via email
+Access Ganpati 
+here
+ and click ‘Propose New Child’
+Enter your LDAP into the ‘Child’ box
+Expiration date of one day from the date of your request
+Click ‘Propose Membership’
+Send an email with the subject ‘GGA2.0 Access Request’ to gga-support@ and attach managerial approval
+TVC Access to Go/Getapproval2
+1
+2
+3
+Actions
+This page provides a centralized location for managing actions related to a specific deals.  It offers a clear view of pending tasks.
+Click “Actions”
+A list on pending tasks will be highlighted in this tab based on review date, forum, deal ID, Partner, Production, Region, Status, Approval Type and Stakeholder. 
+Actions Overview
+Once clicked you will be brought to the tab/ action which needs to be completed. 
+Once that action has been completed on your end, the action will no longer be seen in the ‘Actions’ Tab. 
+Actions Overview
+CSAT Survey
+CSAT survey are sent via email to deal initiators after a deal has been reviewed and an outcome has been recorded.
+The survey will include questions about the forum attended, review date, approval type, and whether the process was beneficial. There will also be an optional free-response question.
+After completing the survey, users will see a confirmation window. 
+The survey will be sent one business day after the deal outcome is recorded, and CC'd to forum advisors. 
+A dashboard has been created to display the results. 
+CSAT Survey
+Deal Access
+To get access to an individual deal, 
+the deal team
+ can add you as a collaborator, or read only access to the deal within the contributors tab of the deal. 
+If you need access to all deals within the forum,
+ the forum advisor 
+can assign you either Read only or Edit access in the forum settings. 
+Please see go/whichadvisor to identify the advisor for the forum 
+Deal Access 
+Please reach out to deal lead or forum advisor (go/whichadvisor) to get access to a deal
+Create New Deal
+01
+Draft 
+Submit for Feedback
+Submit for Approval
+The Outcome
+Custom Notification (Advisor Settings ONLY) 
+Go to Admin Sessions > Forum > Select forum> Notification
+Notifications without ability to select “to” are not editable and only sent to person impacted (e.g. Person tagged in comment) 
+ Notifications with checkboxes are editable by the advisors to select which users you would like to get notification 
+If you toggle the notification off, no users will receive notification 
+If you would like additional users to receive notifications, click the drop down 
+If you would like to edit the notification, expand the drop down and edit the text 
+Custom Notifications Overview 
+Go to Forum >  Notifications 
+Scroll to the 
+notification
+ you want to update
+Add / Remove groups  from to and CC lists by selecting the notification 
+Toggle off any notification that you no longer want to go out
+Edit To/CC for Notifications
+Expand the notification by using down arrow on right
+Click edit button 
+Update the wording (see following slide for variable list that can be added to the content) 
+Click Save 
+If you would like to restore to 
+original
+ email, click “Reset to Default” 
+Edit Notification Content 
+Advisors have ability to 
+update
+ content within the email 
+notification
+ 
+If you would like to add additional variable see 
+here
+ for the full list 
+Edit Notification Content 
+If you are unclear on what the notification is for, please hover over the 
+help text
+ for more details
+Help Text on 
+Notifications
+ 
+Within the notifications tab, open an email and select “preview email” 
+Note if you make any updates to the email text, ensure to select “save” before preview email 
+Preview Email Notification 
+Draft Emails and Agendas 
+(Advisor Settings ONLY) 
+Go to Forum Setting > Email Draft 
+Edit who is 
+selected in the “to” 
+Open the email content and edit as needed 
+Once this is set up, all email drafts and agendas will use the content form this setting
+Draft Email and Agendas - Set up email 
+Go to My Deals > Click Actions  
+Select deals you would like to include in the agenda 
+Email will automatically populate 
+Edit as needed
+Send email 
+Draft Email and Agendas - Sent email agenda / email approval
+Click “Create New Deal”
+Complete Details (see more 
+information
+ on 
+following
+ slides)
+Logistics 
+Timebooking
+Contributors
+Details
+Files
+Click Edit Deal Details
+, or “Submit for Feedback” 
+Helpful Hints
+In each section, there may be a short lag for the “next” button to turn blue. 
+Create New Deal Overview
+Enter Partner / Customer Name
+Select forum (e.g. GPX, PayX, PEX, etc.) 
+Select the amount of time needed to present (10, 20, or 30 minutes) 
+Select the request type (e.g. deal for review, program approval, etc.) 
+Helpful Hints:
+Use Previous submission:
+ Only for deals submitted in GGA2.0. Using a previous submission will pre-populate all information in the following stages with the information from the earlier submission
+Need To Know (NTK): 
+All deals are 
+privileged
+ and confidential, however, when marking as ‘NTK’ will hide all information to anyone except the deal team (e.g. it will not show up in reporting.) This is typically used for highly sensitive deals going to BC/FMG, and very rarely 
+required
+ for standard deals. 
+Create New Deal: Logistics
+Select day on the calendar that you would like to conduct deal review 
+Click “Book Timeslot” in upper right corner
+This will automatically book the 
+session during the forum meeting 
+Helpful Hints:
+The time booking will only show days available that match the amount of time selected on the logistics page 
+Only advisors can update deal from live to email approval. Once you create your deal, reach out to your advisor if you would like to move consider moving to email approval (vs live meeting)
+Deal teams can update / 
+reschedule
+ the time booking in edit mode later on in the process if needed
+Create New Deal: Time Booking

@@ -1,0 +1,94 @@
+{
+    "executives": [
+        {
+            "id": "e1",
+            "name": "Kate Lee",
+            "persona": "SVP of Corporate Finance. Cares about margins, P&L hits, and fixed cost commitments.",
+            "okrs": "10% margin expansion, zero uncontrolled opex growth.",
+            "org": "Platforms & Devices",
+            "roles": [
+                "Finance",
+                "Approver_PEX",
+                "Approver_PEX+"
+            ]
+        },
+        {
+            "id": "e2",
+            "name": "Bryan Lee",
+            "persona": "VP of Devices Finance. Scrutinizes COGS, pricing models, and hardware liability.",
+            "okrs": "Achieve 20% gross margin on new device attach.",
+            "org": "Platforms & Devices",
+            "roles": [
+                "Finance",
+                "Approver_PEX"
+            ]
+        },
+        {
+            "id": "e3",
+            "name": "Philipp Schindler",
+            "persona": "Chief Business Officer. Approves anything above $50M and all global exclusivity deals.",
+            "okrs": "Topline revenue growth and strategic global partnerships.",
+            "org": "Global",
+            "roles": [
+                "CBO",
+                "Approver_BC"
+            ]
+        },
+        {
+            "id": "e4",
+            "name": "Kent Walker",
+            "persona": "President, Global Affairs & Chief Legal Officer. Requires review on uncapped indemnity and regulatory risks.",
+            "okrs": "Zero major antitrust violations, regulatory compliance in EMEA.",
+            "org": "Global",
+            "roles": [
+                "Legal",
+                "Approver_BC"
+            ]
+        },
+        {
+            "id": "e5",
+            "name": "Parisa Tabriz",
+            "persona": "VP/GM Chrome. Focused on security, user privacy, and ecosystem health.",
+            "okrs": "Make Chrome the safest browser, maintain market share.",
+            "org": "Chrome",
+            "roles": [
+                "Product",
+                "Approver_PEX"
+            ]
+        },
+        {
+            "id": "e6",
+            "name": "Peter Fitzgerald",
+            "persona": "VP Android Ecosystem. Cares about the Android OEM ecosystem and carrier relations.",
+            "okrs": "Grow Android active devices, establish deep OEM partnerships.",
+            "org": "Android OS",
+            "roles": [
+                "Product",
+                "Approver_PEX",
+                "Approver_PEXExpress"
+            ]
+        },
+        {
+            "id": "e7",
+            "name": "Purnima Kochikar",
+            "persona": "VP Play Partnerships. Cares about developer ecosystem, billing policies, and store economics.",
+            "okrs": "Increase Play gross booking, maintain safe developer ecosystem.",
+            "org": "Play",
+            "roles": [
+                "Partnerships",
+                "Approver_PEXExpress"
+            ]
+        },
+        {
+            "id": "e8",
+            "name": "Myisha Frazier",
+            "persona": "VP Partnerships, Android & Chrome. Focuses on distribution and carrier deals.",
+            "okrs": "Secure distribution deals for ecosystem scale.",
+            "org": "Android OS",
+            "roles": [
+                "Partnerships",
+                "Approver_PEX"
+            ]
+        }
+    ]
+}

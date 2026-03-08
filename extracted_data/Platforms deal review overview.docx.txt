@@ -1,0 +1,29 @@
+Platforms deal review overview
+Drafted: October 22, 2025; Updated: October 23, 2025
+Owner: 
+platforms_dsg_teamone@google.com
+When you plan something well, there’s no need to rush
+Deal review overview and general guidance
+Platforms deal review (e.g., PEX review) is a required review and internal control based on the 
+Google LLC Commitment and Signature Authority Policy
+ to provide internal review and approvals for deals and programs 
+based on the risk profile. 
+This document provides a timeline and overview of the Platforms deal review process. We recommend beginning the deal review process at least 8 weeks prior to the desired approval date as a best practice, and longer if more senior forum reviews (e.g., BC, SAC) are required.
+Deal review timeline & step-by-step instructions
+P&D Platforms deal forum (PEXpress, PEX, PEX+) overview & approval flow
+Deal review escalation criteria
+Deal & Spend Escalation Rules (go/dealreviewcriteria or go/spendreviewcriteria)
+Deal review approvers
+go/pexquorum - P&D Platforms Deal Review (PEX+ / PEX / PEXpress) Approvers & Attendees
+Deal review xfn stakeholders
+PEX/PEXpress Stakeholder Guidance for GGA Tool
+go/getapproval2
+ step-by-step guidance
+go/getapproval2
+ guidance for deal review (e.g., PEXpress, PEX, PEX+, BC)
+GGA2.0 User Guide (go/gga2-userguide)
+go/getapproval2
+ guidance for spend review (e.g., SAC)
+GGA User Guide Go/GetApproval
+Platforms DSG training deck
+P&D Platforms DSG Training Deck (Final)

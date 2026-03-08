@@ -1,0 +1,1768 @@
+[
+  {
+    "httpRequest": {
+      "latency": "0.055548911s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e9a0002598afaf60f19",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:58.406130931Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "9cecbb479b706c43",
+    "timestamp": "2026-03-04T01:44:58.033184Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/9c601d174c45fc9eea1eecac1fd68f99",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.034499101s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e94000ed7932e047bd8",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:53.078915846Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "d1e4d9b907af7eb1",
+    "timestamp": "2026-03-04T01:44:52.872938Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/849c37a643ceb5c5ea1eecac1fd68431"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.066539429s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e8f000c775f4dfd464b",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:48.084908656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "32cd6e53a1ff163e",
+    "timestamp": "2026-03-04T01:44:47.689354Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/d2d0e2f4bd15e240ea1eecac1fd68f54",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.069014211s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e8a0009a70d1025ae17",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:42.756184785Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "4fcc386d7c736560",
+    "timestamp": "2026-03-04T01:44:42.490550Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/4a463243f87f211eea1eecac1fd682de"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.036223637s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e850006a5d782a0067a",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:37.760184064Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "6b1c9db177a9c57f",
+    "timestamp": "2026-03-04T01:44:37.337765Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/678226aad8a35466ea1eecac1fd684e3",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.067419640s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e8000044c0a94fdef7a",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:32.432050937Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "cdb0aaba1ede923a",
+    "timestamp": "2026-03-04T01:44:32.153579Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/552b8c0d4ad59ec4ea1eecac1fd68387"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.053852067s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e7b0001805852d9aed8",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:27.436055558Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "bb86576d53da7880",
+    "timestamp": "2026-03-04T01:44:26.981837Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/030436276614130bea1eecac1fd68515",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.077218605s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e75000e11b8262c4b72",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:22.108031286Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "9e6e8b9fee3a0d78",
+    "timestamp": "2026-03-04T01:44:21.782360Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/295ce4aa455c7beaea1eecac1fd68126"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.083270049s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e70000b12de8375acf3",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:16.780407179Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "841a7ca754d85936",
+    "timestamp": "2026-03-04T01:44:16.588210Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/52c6bb103e5468fbea1eecac1fd680b8",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.045407724s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e6b000818eeea7182e5",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:11.783515553Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "ad4252d39a0355b7",
+    "timestamp": "2026-03-04T01:44:11.422532Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/0742870cf0116497ea1eecac1fd68fd3"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.102733838s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e6600059ee28287bb64",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:06.455479904Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "d39fdb7aeb0510ab",
+    "timestamp": "2026-03-04T01:44:06.200360Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/de3a9bb6ca626e40ea1eecac1fd68502",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.062508517s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e61000239d92a2c3cbb",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:44:01.461805161Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "3f71a59d5a536605",
+    "timestamp": "2026-03-04T01:44:01.012434Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/5e063a2a2b168450ea1eecac1fd68ca4"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.076948196s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5392",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e5b000e9bdc3ce4469b",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:56.132044318Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "6481e5cc8098d7f3",
+    "timestamp": "2026-03-04T01:43:55.816407Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/d5ade2d9c1055512ea1eecac1fd684bd",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.086291779s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e56000b95fc3d8ff790",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:50.805869136Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "f6da91fad19fc582",
+    "timestamp": "2026-03-04T01:43:50.610547Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/46fe920fabdbd4b8ea1eecac1fd686c2"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.068670011s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e5100086a0ddcba732b",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:45.810371899Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "d9bd6f5a0230282f",
+    "timestamp": "2026-03-04T01:43:45.428422Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/b20be6605558ad5bea1eecac1fd6814e",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.063612365s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e4c0005ac7fbe3ea013",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:40.479966680Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "e7e9083e96d46b91",
+    "timestamp": "2026-03-04T01:43:40.237768Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/73bfcc0aebae4939ea1eecac1fd68fd2"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.068826487s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e470002c0ba8bcbc2b5",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:35.484980143Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "2b4f573d377a2fd8",
+    "timestamp": "2026-03-04T01:43:35.046308Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/37e451f5578947dfea1eecac1fd689e7",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.066843776s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e41000f1283e348cf76",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:30.155189258Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "4faa91a5934061ef",
+    "timestamp": "2026-03-04T01:43:29.854671Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/77988a5b9e72c2dcea1eecac1fd689f0"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.030911019s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e3c000c257cd55f493c",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:24.830357918Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "531f4a0573f003bc",
+    "timestamp": "2026-03-04T01:43:24.703254Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/e5a7629a68beac94ea1eecac1fd6838e",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.067300294s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e370009e172a99d03ee",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:19.834178438Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "e8b9798b8f4b13d2",
+    "timestamp": "2026-03-04T01:43:19.513790Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/14768f8098632a99ea1eecac1fd684a5"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.052266388s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e340006f44dd5a433cb",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:16.502030880Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "be449912eb935d18",
+    "timestamp": "2026-03-04T01:43:16.337697Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/eb55a9786059577fea1eecac1fd680ed"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.057337566s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e3100044559de0be643",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:13.504578492Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "c5991fe88c0f5229",
+    "timestamp": "2026-03-04T01:43:13.148938Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/36ae896ac21a8271ea1eecac1fd685bc"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.084894680s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e2e000171299b97d2b5",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:10.175069051Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "bcf9b2456bb21965",
+    "timestamp": "2026-03-04T01:43:09.959561Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/71e5b4e0a592baf9ea1eecac1fd68400",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.072568670s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5392",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e2a000dce0914628ea0",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:07.176942579Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "6537bb29899da0da",
+    "timestamp": "2026-03-04T01:43:06.769374Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/9b5c9bb6d30981f8ea1eecac1fd68b62"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.052807875s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e27000ae48d9de0b44c",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:03.848849317Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "fe2308902a8d1d0a",
+    "timestamp": "2026-03-04T01:43:03.594372Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/670de79bebe3d0f4ea1eecac1fd6892f"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.078447537s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e24000823a30151dcc0",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:43:00.845953908Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "b6a21ed785c64756",
+    "timestamp": "2026-03-04T01:43:00.384332Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/f65838fca8f20eecea1eecac1fd6871c"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.080826790s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e21000501a70b23cdf6",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:57.520267114Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "54b8ac9d4437a1ef",
+    "timestamp": "2026-03-04T01:42:57.193646Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/ee2fc873812fd3fbea1eecac1fd681ff",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.066926435s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e1e000212a7d3a1ba59",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:54.188114272Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "e9eb8c56fd71a346",
+    "timestamp": "2026-03-04T01:42:53.997410Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/40f29819cd79273dea1eecac1fd686ce"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.053700702s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e1a000e6134e9b7a8a3",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:51.188728553Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "37dfde8b4f71ffb1",
+    "timestamp": "2026-03-04T01:42:50.831325Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/c8d454fae5fe8581ea1eecac1fd6872e"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.083392723s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e17000bcf3ef78721f6",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:47.863818802Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "8f9d236d9fdc2268",
+    "timestamp": "2026-03-04T01:42:47.623308Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/a3d2abd94e271fac3ac02d70800f218c"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.063082900s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e140008af057bcbe88a",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:44.866169870Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "19610c8a661df58f",
+    "timestamp": "2026-03-04T01:42:44.440986Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/28c6fc5a9c65e4553ac02d70800f23e6",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.100921924s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e110005e0abf4c31e6c",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:41.534970838Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "d8eb0b039b8d2116",
+    "timestamp": "2026-03-04T01:42:41.249037Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/5e3d653a087fef3f3ac02d70800f21fc"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.061701956s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e0e0002f6b5baee6af9",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:38.206770430Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "c679031cfa595f0e",
+    "timestamp": "2026-03-04T01:42:38.045172Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/77390ce2849369be3ac02d70800f202d"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.053127627s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e0a000f13aa322279c0",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:35.208682322Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "e0284931555b831e",
+    "timestamp": "2026-03-04T01:42:34.872585Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/755cc3f3edad6daa3ac02d70800f248e"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.071873405s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e07000c704e8892a7f6",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:31.878048416Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "971f64b50dd14df3",
+    "timestamp": "2026-03-04T01:42:31.674664Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/cb74617571e8f7033ac02d70800f2c8f",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.077055735s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e0400096e6edb5daf6d",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:28.881765617Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "16ecf95d1ca6752e",
+    "timestamp": "2026-03-04T01:42:28.477701Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/17ef88a6f87defbd3ac02d70800f2eb3"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.077790615s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78e010006677e213e889e",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:25.549618533Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "dac12208431c9757",
+    "timestamp": "2026-03-04T01:42:25.274064Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/c649ac08ba85f9173ac02d70800f2500"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.065939843s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78dfe0003576f03929937",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:22.554628149Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "ba74325b5e507f64",
+    "timestamp": "2026-03-04T01:42:22.088693Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/7fa32a79043571a13ac02d70800f23d5"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.151376310s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78dfb000086e3e40685c9",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:19.223585979Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "3fab4db9e705cab5",
+    "timestamp": "2026-03-04T01:42:18.838956Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/b3b7d94c8df55ffc3ac02d70800f2709",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.064856127s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78df7000bf78293c4449c",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:15.892915915Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "98bc6519418679d6",
+    "timestamp": "2026-03-04T01:42:15.655768Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/52fd61f6a3374a703ac02d70800f2274"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.093750673s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78df600018896a6b5cd3b",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:14.227331102Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "a92e85572f19a912",
+    "timestamp": "2026-03-04T01:42:13.943171Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/d96a8d97ef1fd0173ac02d70800f23a1"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.112805068s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78df40005ed150c551100",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:12.562020352Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "1105017a2c524da5",
+    "timestamp": "2026-03-04T01:42:12.210591Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/23c8274d6c6ce8303ac02d70800f28dc"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.098719287s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78df20009f120aaacf4f2",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:10.899275250Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "3659a92b50476c81",
+    "timestamp": "2026-03-04T01:42:10.498110Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/bab35e59031965a93ac02d70800f219c"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.083567493s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78df0000e62029357c48e",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:09.230932685Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "4ec594a66f0915cd",
+    "timestamp": "2026-03-04T01:42:08.797001Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/5052e17e80e29b463ac02d70800f20a7",
+    "traceSampled": true
+  },
+  {
+    "httpRequest": {
+      "latency": "0.102289885s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78def0003ad7aaf48ad1b",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:07.565047436Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "27cab3be870a7232",
+    "timestamp": "2026-03-04T01:42:07.075453Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/5da2391b2016f7203ac02d70800f225d"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.084800383s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5392",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78ded0007e32f84042b4a",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:05.572383171Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "cb6782d6d168de21",
+    "timestamp": "2026-03-04T01:42:05.368122Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/06c7e399da5921473ac02d70800f238a"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.094614835s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78deb000c6b6dbdb2cffc",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:03.903271091Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "531c620672d349e9",
+    "timestamp": "2026-03-04T01:42:03.659996Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/fc39c02ca26b4e943ac02d70800f2c65"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.169150760s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78dea000198010d7e1644",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:02.238692181Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "d751271cc37683a9",
+    "timestamp": "2026-03-04T01:42:01.878029Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/66af6d7d082a47763ac02d70800f2acc"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.139054546s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5394",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78de80004e8edddce025d",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:42:00.576653037Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "d6a5aa492524758d",
+    "timestamp": "2026-03-04T01:42:00.039976Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/c15096fc7c3f25a63ac02d70800f29f2"
+  },
+  {
+    "httpRequest": {
+      "latency": "0.132808614s",
+      "protocol": "HTTP/1.1",
+      "referer": "https://deal-reviewer-401242153647.us-central1.run.app/",
+      "remoteIp": "0.0.0.0",
+      "requestMethod": "GET",
+      "requestSize": "5393",
+      "requestUrl": "https://deal-reviewer-401242153647.us-central1.run.app/api/job/629bbad1-7079-40d3-8d2c-15b024b176b0",
+      "responseSize": "201",
+      "serverIp": "34.143.72.2",
+      "status": 200,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    "insertId": "69a78de600074d682154b73e",
+    "labels": {
+      "instanceId": "00da6cd2c4b9c9b34bac3800c8a60d23fde8035750da5665a5b1b811ec8e48d42facc5bb65c1a0cf56baa17429ee6ccfef487497b95964c7617695b1cbfe6c8fc687df50874ca6b076b4dc8bc60be9"
+    },
+    "logName": "projects/internal-xr-ai-tools-977945/logs/run.googleapis.com%2Frequests",
+    "receiveTimestamp": "2026-03-04T01:41:58.575696737Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "deal-reviewer",
+        "location": "us-central1",
+        "project_id": "internal-xr-ai-tools-977945",
+        "revision_name": "deal-reviewer-00113-brs",
+        "service_name": "deal-reviewer"
+      },
+      "type": "cloud_run_revision"
+    },
+    "severity": "INFO",
+    "spanId": "5d178fa4e9630dd9",
+    "timestamp": "2026-03-04T01:41:58.293195Z",
+    "trace": "projects/internal-xr-ai-tools-977945/traces/2ca47a30852a6d9c3ac02d70800f2859"
+  }
+]
